@@ -1,0 +1,7 @@
+# Top-level dependencies. Transitive packages are resolved by pip.
+flet==0.28.3
+flet-cli==0.28.3
+flet-desktop==0.28.3
+requests==2.32.5
+python-dotenv==1.0.1
+pytest==8.4.2

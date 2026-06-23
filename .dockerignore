@@ -1,0 +1,48 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+venv
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Local environment file (image seeds its own from .env.example)
+.env
+
+# Documentation
+*.md
+docs/
+# ...except APPROACH.md: it's a graded task deliverable that the evaluator
+# reads by running `cat APPROACH.md` inside the built image, so it must
+# stay in the Docker build context even though other docs are excluded.
+!APPROACH.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
