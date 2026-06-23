@@ -24,7 +24,7 @@ def home_screen(page: ft.Page, on_start):
                 ),
                 ft.Container(height=SPACING_LG),
                 ft.Text(
-                    "モンスターバトル",
+                    "Monster Battle",
                     size=48,
                     weight=ft.FontWeight.BOLD,
                     color=ft.Colors.RED_400,
@@ -32,7 +32,7 @@ def home_screen(page: ft.Page, on_start):
                 ),
                 ft.Container(height=SPACING_SM),
                 ft.Text(
-                    "D&D モンスタービューアー",
+                    "D&D Monster Viewer",
                     size=TEXT_SIZE_LG,
                     color=ft.Colors.RED_300,
                     text_align=ft.TextAlign.CENTER,
@@ -41,7 +41,7 @@ def home_screen(page: ft.Page, on_start):
                 ft.Container(height=SPACING_XL),
                 ft.Container(
                     content=ft.Text(
-                        "2体のモンスターを選んで、ステータスカードを見比べよう",
+                        "Pick two monsters and compare their stat cards",
                         size=TEXT_SIZE_XL,
                         color=ft.Colors.GREY_400,
                         text_align=ft.TextAlign.CENTER,
@@ -50,7 +50,7 @@ def home_screen(page: ft.Page, on_start):
                 ),
                 ft.Container(height=SPACING_XL * 2),
                 ft.ElevatedButton(
-                    "モンスターを見る",
+                    "Browse Monsters",
                     width=BUTTON_WIDTH_LG,
                     height=BUTTON_HEIGHT_LG,
                     on_click=on_start,

@@ -25,11 +25,11 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                 ft.Container(height=SPACING_XL),
                 ft.Icon(ft.Icons.ERROR_OUTLINE, size=80, color=ft.Colors.RED_400),
                 ft.Container(height=SPACING_LG),
-                ft.Text("モンスターの読み込みに失敗しました", size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
-                ft.Text("インターネット接続を確認してください", size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
+                ft.Text("Failed to load monsters", size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
+                ft.Text("Please check your internet connection", size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
                 ft.Container(height=SPACING_XL),
                 ft.ElevatedButton(
-                    "← もどる",
+                    "← Back",
                     on_click=on_back,
                     width=BUTTON_WIDTH_MD,
                     height=BUTTON_HEIGHT_MD,
@@ -47,7 +47,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
     
     # Create dropdowns for monster selection with search enabled
     monster1_dropdown = ft.Dropdown(
-        label="モンスター1を選択",
+        label="Select Monster 1",
         options=monster_options,
         width=400,
         color=ft.Colors.WHITE,
@@ -57,7 +57,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
     )
     
     monster2_dropdown = ft.Dropdown(
-        label="モンスター2を選択",
+        label="Select Monster 2",
         options=monster_options,
         width=400,
         color=ft.Colors.WHITE,
@@ -72,7 +72,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
             on_view_cards(monster1_dropdown.value, monster2_dropdown.value)
         else:
             page.snack_bar = ft.SnackBar(
-                ft.Text("モンスターを2体選んでください！")
+                ft.Text("Please select two monsters!")
             )
             page.snack_bar.open = True
             page.update()
@@ -87,10 +87,10 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                             icon=ft.Icons.ARROW_BACK,
                             icon_color=ft.Colors.WHITE,
                             on_click=on_back,
-                            tooltip="ホームにもどる",
+                            tooltip="Back to Home",
                         ),
                         ft.Text(
-                            "モンスター選択",
+                            "Select Monsters",
                             size=28,
                             weight=ft.FontWeight.BOLD,
                             color=ft.Colors.WHITE,
@@ -100,7 +100,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                 ),
                 ft.Container(height=SPACING_XL),
                 ft.Text(
-                    "見比べる2体のモンスターを選んでください",
+                    "Choose two monsters to compare",
                     size=TEXT_SIZE_XL,
                     color=ft.Colors.GREY_400,
                     text_align=ft.TextAlign.CENTER,
@@ -117,7 +117,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                                         [
                                             ft.Icon(ft.Icons.PERSON, size=30, color=ft.Colors.AMBER_400),
                                             ft.Text(
-                                                "モンスター1",
+                                                "Monster 1",
                                                 size=TEXT_SIZE_XL,
                                                 color=ft.Colors.AMBER_400,
                                                 weight=ft.FontWeight.BOLD,
@@ -155,7 +155,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                                         [
                                             ft.Icon(ft.Icons.PERSON, size=30, color=ft.Colors.BLUE_400),
                                             ft.Text(
-                                                "モンスター2",
+                                                "Monster 2",
                                                 size=TEXT_SIZE_XL,
                                                 color=ft.Colors.BLUE_400,
                                                 weight=ft.FontWeight.BOLD,
@@ -180,7 +180,7 @@ def monster_selection_screen(page: ft.Page, on_back, on_view_cards):
                 ),
                 ft.Container(height=SPACING_XL * 2),
                 ft.ElevatedButton(
-                    "🃏 カードを見る",
+                    "🃏 View Cards",
                     width=BUTTON_WIDTH_LG,
                     height=BUTTON_HEIGHT_LG,
                     on_click=handle_view_cards,
