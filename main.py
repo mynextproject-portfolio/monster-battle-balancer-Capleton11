@@ -7,7 +7,7 @@ from screens.cards_screen import cards_screen
 
 def main(page: ft.Page):
     """Main application entry point."""
-    page.title = "モンスターバトル"
+    page.title = "Monster Battle"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     
