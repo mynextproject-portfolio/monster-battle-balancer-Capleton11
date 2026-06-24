@@ -1,5 +1,6 @@
 import os
 import flet as ft
+from i18n import t
 from screens.home_screen import home_screen
 from screens.monster_selection_screen import monster_selection_screen
 from screens.cards_screen import cards_screen
@@ -7,7 +8,7 @@ from screens.cards_screen import cards_screen
 
 def main(page: ft.Page):
     """Main application entry point."""
-    page.title = "Monster Battle"
+    page.title = t("app_title")
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     
