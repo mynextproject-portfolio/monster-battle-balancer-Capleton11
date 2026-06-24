@@ -1,5 +1,6 @@
 import flet as ft
 from dnd_api import get_monster_details
+from i18n import t
 from models.monster import Monster
 from ui_constants import (
     SPACING_XS, SPACING_SM, SPACING_LG, SPACING_XL,
@@ -28,11 +29,11 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                 ft.Container(height=SPACING_XL),
                 ft.Icon(ft.Icons.ERROR_OUTLINE, size=80, color=ft.Colors.RED_400),
                 ft.Container(height=SPACING_LG),
-                ft.Text("Failed to load monster details", size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
-                ft.Text("Please check your internet connection", size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
+                ft.Text(t("details_load_error"), size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
+                ft.Text(t("connection_error"), size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
                 ft.Container(height=SPACING_XL),
                 ft.ElevatedButton(
-                    "← Back",
+                    t("back_button"),
                     on_click=on_back,
                     width=BUTTON_WIDTH_MD,
                     height=BUTTON_HEIGHT_MD,
@@ -68,19 +69,19 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                         content=ft.Column(
                             [
                                 ft.Text(
-                                    f"HP: {monster.hp}",
+                                    f"{t('stat_hp')}: {monster.hp}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.GREEN_300,
                                     weight=ft.FontWeight.BOLD,
                                 ),
                                 ft.Text(
-                                    f"Armor Class (AC): {monster.ac}",
+                                    f"{t('stat_ac')}: {monster.ac}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.BLUE_300,
                                     weight=ft.FontWeight.BOLD,
                                 ),
                                 ft.Text(
-                                    f"Strength (STR): {monster.strength}",
+                                    f"{t('stat_str')}: {monster.strength}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.ORANGE_300,
                                     weight=ft.FontWeight.BOLD,
@@ -115,10 +116,10 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                             icon=ft.Icons.ARROW_BACK,
                             icon_color=ft.Colors.WHITE,
                             on_click=on_back,
-                            tooltip="Back to Monster Selection",
+                            tooltip=t("cards_back_tooltip"),
                         ),
                         ft.Text(
-                            "Monster Cards",
+                            t("cards_title"),
                             size=28,
                             weight=ft.FontWeight.BOLD,
                             color=ft.Colors.WHITE,
