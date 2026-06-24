@@ -26,6 +26,7 @@ the same monsters can be reused across thousands of fights.
 
 import random
 import re
+from dataclasses import dataclass
 from typing import Optional
 
 from models.monster import Monster
@@ -130,9 +131,23 @@ def simulate_battle(monster1: Monster, monster2: Monster,
     return _decide_by_stats(monster1, monster2, hp1, hp2)
 
 
-def win_percentages(monster1: Monster, monster2: Monster,
-                    runs: int = MONTE_CARLO_RUNS,
-                    seed: Optional[int] = None) -> "tuple[float, float]":
+@dataclass(frozen=True)
+class BattleOdds:
+    """The result of estimating a matchup's odds over many simulated fights.
+
+    Carries everything the caller needs to display the odds without knowing how
+    they were produced: each monster's win percentage and how many fights the
+    estimate is based on.
+    """
+
+    percent1: float  # monster1's win percentage
+    percent2: float  # monster2's win percentage
+    runs: int        # number of fights the estimate is based on
+
+
+def battle_odds(monster1: Monster, monster2: Monster,
+                runs: int = MONTE_CARLO_RUNS,
+                seed: Optional[int] = None) -> BattleOdds:
     """Estimate each monster's chance of winning by simulating many fights.
 
     Plays `runs` independent battles, tallies the wins, and turns the tallies
@@ -147,11 +162,11 @@ def win_percentages(monster1: Monster, monster2: Monster,
             percentages. With seed=None the batch is freshly random each time.
 
     Returns:
-        (percent1, percent2) as floats that sum to 100.0. Returns (0.0, 0.0)
-        when runs <= 0.
+        A BattleOdds whose percent1/percent2 sum to 100.0 (both 0.0 when
+        runs <= 0), and whose `runs` records how many fights were simulated.
     """
     if runs <= 0:
-        return 0.0, 0.0
+        return BattleOdds(percent1=0.0, percent2=0.0, runs=0)
 
     # Derive a distinct, deterministic seed per fight so the batch has variety
     # yet replays exactly when `seed` is given.
@@ -163,4 +178,4 @@ def win_percentages(monster1: Monster, monster2: Monster,
             wins1 += 1
 
     percent1 = 100.0 * wins1 / runs
-    return percent1, 100.0 - percent1
+    return BattleOdds(percent1=percent1, percent2=100.0 - percent1, runs=runs)

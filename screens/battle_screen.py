@@ -1,5 +1,5 @@
 import flet as ft
-from battle import win_percentages, MONTE_CARLO_RUNS
+from battle import battle_odds
 from dnd_api import get_monster_details
 from i18n import t
 from ui_constants import (
@@ -12,9 +12,9 @@ from ui_constants import (
 def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back):
     """Show each monster's win chance from many simulated battles.
 
-    The combat is NOT implemented here — this screen runs the shared Monte Carlo
-    helper (win_percentages, which calls simulate_battle many times) and displays
-    the resulting percentages.
+    The combat and odds are NOT computed here — this screen calls the shared
+    battle_odds helper (which runs many simulated battles) and only displays the
+    resulting percentages.
 
     Args:
         page: The Flet page object
@@ -51,22 +51,20 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
     pct1_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.AMBER_400)
     pct2_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_400)
 
-    def run_simulations() -> None:
-        """Run many simulated battles and update both win percentages.
-
-        seed is left unset so each run is a fresh Monte Carlo estimate.
-        """
-        percent1, percent2 = win_percentages(monster1, monster2)
-        pct1_text.value = f"{percent1:.1f}%"
-        pct2_text.value = f"{percent2:.1f}%"
+    def show_odds(odds) -> None:
+        """Display a BattleOdds result (presentation only)."""
+        pct1_text.value = f"{odds.percent1:.1f}%"
+        pct2_text.value = f"{odds.percent2:.1f}%"
 
     def simulate_again(e=None) -> None:
         """Re-run the simulations and refresh the screen."""
-        run_simulations()
+        show_odds(battle_odds(monster1, monster2))
         page.update()
 
     # Run the initial batch before the screen is mounted (no page.update needed).
-    run_simulations()
+    # The result also tells us how many fights to cite in the caption.
+    initial_odds = battle_odds(monster1, monster2)
+    show_odds(initial_odds)
 
     def build_side(name: str, pct_text: ft.Text, color: str) -> ft.Container:
         """One monster's column: its name above its win percentage."""
@@ -144,7 +142,7 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                 ),
                 ft.Container(height=SPACING_SM),
                 ft.Text(
-                    t("battle_runs_caption").format(runs=MONTE_CARLO_RUNS),
+                    t("battle_runs_caption").format(runs=initial_odds.runs),
                     size=TEXT_SIZE_MD,
                     color=ft.Colors.GREY_500,
                     italic=True,
