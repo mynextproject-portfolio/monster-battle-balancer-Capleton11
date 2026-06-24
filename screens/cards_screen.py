@@ -4,12 +4,12 @@ from i18n import t
 from models.monster import Monster
 from ui_constants import (
     SPACING_XS, SPACING_SM, SPACING_LG, SPACING_XL,
-    BUTTON_HEIGHT_MD, BUTTON_WIDTH_MD,
+    BUTTON_HEIGHT_MD, BUTTON_HEIGHT_LG, BUTTON_WIDTH_MD, BUTTON_WIDTH_LG,
     TEXT_SIZE_MD, TEXT_SIZE_LG, TEXT_SIZE_XL,
 )
 
 
-def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back):
+def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back, on_fight):
     """Render the two selected monsters as stat cards.
 
     Args:
@@ -17,6 +17,7 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
         monster1_index: Index of the first monster
         monster2_index: Index of the second monster
         on_back: Callback function to go back to monster selection
+        on_fight: Callback to start a battle between the two monsters
     """
     # Fetch monster details
     monster1 = get_monster_details(monster1_index)
@@ -148,6 +149,18 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                     vertical_alignment=ft.CrossAxisAlignment.START,
                     spacing=SPACING_LG,
                     scroll=ft.ScrollMode.AUTO,
+                ),
+                ft.Container(height=SPACING_XL),
+                # Start a fight between the two monsters
+                ft.ElevatedButton(
+                    t("fight_button"),
+                    width=BUTTON_WIDTH_LG,
+                    height=BUTTON_HEIGHT_LG,
+                    on_click=lambda e: on_fight(monster1_index, monster2_index),
+                    style=ft.ButtonStyle(
+                        bgcolor=ft.Colors.RED_700,
+                        color=ft.Colors.WHITE,
+                    ),
                 ),
             ],
             horizontal_alignment=ft.CrossAxisAlignment.CENTER,

@@ -50,6 +50,12 @@ TRANSLATIONS = {
         "stat_hp": "HP",
         "stat_ac": "防御 (AC)",
         "stat_str": "筋力 (STR)",
+        "fight_button": "⚔️ バトル開始",
+        # Battle screen
+        "battle_title": "バトル",
+        "battle_back_tooltip": "カードにもどる",
+        "battle_winner_label": "勝者",
+        "fight_again_button": "🔄 もう一度たたかう",
     },
     "en": {
         # App / window
@@ -80,6 +86,12 @@ TRANSLATIONS = {
         "stat_hp": "HP",
         "stat_ac": "Armor Class (AC)",
         "stat_str": "Strength (STR)",
+        "fight_button": "⚔️ Start Battle",
+        # Battle screen
+        "battle_title": "Battle",
+        "battle_back_tooltip": "Back to Cards",
+        "battle_winner_label": "Winner",
+        "fight_again_button": "🔄 Fight Again",
     },
 }
 
