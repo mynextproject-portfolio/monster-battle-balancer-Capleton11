@@ -1,4 +1,6 @@
-from typing import Dict, Any
+from typing import Dict, Any, Optional
+
+from .attack import Attack
 
 
 class Monster:
@@ -28,6 +30,11 @@ class Monster:
 
         # Validate and extract required fields (fail fast)
         self._validate_and_extract_required_fields()
+
+        # Optional: the monster's primary attack, parsed from `actions`.
+        # Not every creature has a to-hit attack, so this may be None and is
+        # intentionally NOT fail-fast — absence of an attack is valid data.
+        self._attack = Attack.from_actions(self._data.get("actions", []))
 
     def _validate_and_extract_required_fields(self) -> None:
         """Validate and extract required fields from API data.
@@ -70,6 +77,16 @@ class Monster:
     def strength(self) -> int:
         """Return the monster's Strength score."""
         return self._strength
+
+    @property
+    def attack(self) -> Optional[Attack]:
+        """Return the monster's primary attack, or None if it has none.
+
+        The attack carries the to-hit bonus and damage parsed from the API's
+        `actions`. Non-attacks (Multiattack, save-based abilities) are never
+        returned here — see Attack.from_actions.
+        """
+        return self._attack
 
     def __str__(self) -> str:
         return f"{self.name}"
