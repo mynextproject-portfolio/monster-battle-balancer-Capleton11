@@ -10,7 +10,7 @@ These cover the contract the rest of the pipeline depends on:
 """
 
 import battle
-from battle import simulate_battle, win_percentages
+from battle import simulate_battle, battle_odds, BattleOdds
 from models.monster import Monster
 
 
@@ -156,24 +156,31 @@ class TestDamageRoll:
         assert battle._roll_damage("not dice", rng) == 0
 
 
-class TestWinPercentages:
-    """Test the Monte Carlo win-percentage estimate."""
+class TestBattleOdds:
+    """Test the Monte Carlo win-percentage estimate (battle_odds)."""
 
     def test_percentages_sum_to_100(self):
         m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
         m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
 
-        p1, p2 = win_percentages(m1, m2, runs=500, seed=1)
+        odds = battle_odds(m1, m2, runs=500, seed=1)
 
-        assert p1 + p2 == 100.0
-        assert 0.0 <= p1 <= 100.0 and 0.0 <= p2 <= 100.0
+        assert isinstance(odds, BattleOdds)
+        assert odds.percent1 + odds.percent2 == 100.0
+        assert 0.0 <= odds.percent1 <= 100.0 and 0.0 <= odds.percent2 <= 100.0
 
-    def test_same_seed_same_percentages(self):
+    def test_records_number_of_runs(self):
+        m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+        m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+
+        assert battle_odds(m1, m2, runs=500, seed=1).runs == 500
+
+    def test_same_seed_same_odds(self):
         m1 = make_monster("A", hp=40, ac=15, to_hit=6, damage_dice="2d6+3")
         m2 = make_monster("B", hp=35, ac=14, to_hit=5, damage_dice="1d10+2")
 
-        first = win_percentages(m1, m2, runs=300, seed=42)
-        second = win_percentages(m1, m2, runs=300, seed=42)
+        first = battle_odds(m1, m2, runs=300, seed=42)
+        second = battle_odds(m1, m2, runs=300, seed=42)
 
         assert first == second
 
@@ -181,10 +188,10 @@ class TestWinPercentages:
         titan = make_monster("Titan", hp=500, ac=20, to_hit=15, damage_dice="6d10+10")
         weakling = make_monster("Weakling", hp=5, ac=8, to_hit=0, damage_dice="1d2")
 
-        p_titan, p_weak = win_percentages(titan, weakling, runs=500, seed=7)
+        odds = battle_odds(titan, weakling, runs=500, seed=7)
 
-        assert p_titan == 100.0
-        assert p_weak == 0.0
+        assert odds.percent1 == 100.0
+        assert odds.percent2 == 0.0
 
     def test_runs_many_battles_not_one(self):
         # An evenly matched pair should land somewhere in between, which only
@@ -192,20 +199,22 @@ class TestWinPercentages:
         m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
         m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
 
-        p1, _ = win_percentages(m1, m2, runs=1000, seed=3)
+        odds = battle_odds(m1, m2, runs=1000, seed=3)
 
-        assert 0.0 < p1 < 100.0
+        assert 0.0 < odds.percent1 < 100.0
 
     def test_zero_runs_returns_zeros(self):
         m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
         m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
 
-        assert win_percentages(m1, m2, runs=0) == (0.0, 0.0)
+        odds = battle_odds(m1, m2, runs=0)
+
+        assert (odds.percent1, odds.percent2, odds.runs) == (0.0, 0.0, 0)
 
     def test_does_not_mutate_monsters(self):
         m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
         m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
 
-        win_percentages(m1, m2, runs=200, seed=1)
+        battle_odds(m1, m2, runs=200, seed=1)
 
         assert m1.hp == 30 and m2.hp == 30
