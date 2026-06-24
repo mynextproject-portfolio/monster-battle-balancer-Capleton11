@@ -34,6 +34,10 @@ from models.monster import Monster
 # damage. Generous enough that a normal fight is decided long before this.
 MAX_ROUNDS = 1000
 
+# Default number of fights to simulate when estimating win percentages. Large
+# enough that the percentages are stable rather than noisy from a few rolls.
+MONTE_CARLO_RUNS = 1000
+
 # Matches dice expressions like "2d6", "1d6+2", "3d8-1" (optional signed flat bonus).
 _DICE_RE = re.compile(r"^\s*(\d+)\s*d\s*(\d+)\s*([+-]\s*\d+)?\s*$", re.IGNORECASE)
 
@@ -124,3 +128,39 @@ def simulate_battle(monster1: Monster, monster2: Monster,
             return monster2
 
     return _decide_by_stats(monster1, monster2, hp1, hp2)
+
+
+def win_percentages(monster1: Monster, monster2: Monster,
+                    runs: int = MONTE_CARLO_RUNS,
+                    seed: Optional[int] = None) -> "tuple[float, float]":
+    """Estimate each monster's chance of winning by simulating many fights.
+
+    Plays `runs` independent battles, tallies the wins, and turns the tallies
+    into percentages (a Monte Carlo estimate). The combat itself is NOT
+    reimplemented here — every fight goes through simulate_battle.
+
+    Args:
+        monster1: First combatant.
+        monster2: Second combatant.
+        runs: How many fights to simulate. More runs -> more stable percentages.
+        seed: Seeds the whole batch; the same seed reproduces the same
+            percentages. With seed=None the batch is freshly random each time.
+
+    Returns:
+        (percent1, percent2) as floats that sum to 100.0. Returns (0.0, 0.0)
+        when runs <= 0.
+    """
+    if runs <= 0:
+        return 0.0, 0.0
+
+    # Derive a distinct, deterministic seed per fight so the batch has variety
+    # yet replays exactly when `seed` is given.
+    seeder = random.Random(seed)
+    wins1 = 0
+    for _ in range(runs):
+        fight_seed = seeder.randrange(2 ** 32)
+        if simulate_battle(monster1, monster2, seed=fight_seed) is monster1:
+            wins1 += 1
+
+    percent1 = 100.0 * wins1 / runs
+    return percent1, 100.0 - percent1
