@@ -10,7 +10,7 @@ These cover the contract the rest of the pipeline depends on:
 """
 
 import battle
-from battle import simulate_battle
+from battle import simulate_battle, win_percentages
 from models.monster import Monster
 
 
@@ -154,3 +154,58 @@ class TestDamageRoll:
         rng = random.Random(1)
         assert battle._roll_damage("", rng) == 0
         assert battle._roll_damage("not dice", rng) == 0
+
+
+class TestWinPercentages:
+    """Test the Monte Carlo win-percentage estimate."""
+
+    def test_percentages_sum_to_100(self):
+        m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+        m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+
+        p1, p2 = win_percentages(m1, m2, runs=500, seed=1)
+
+        assert p1 + p2 == 100.0
+        assert 0.0 <= p1 <= 100.0 and 0.0 <= p2 <= 100.0
+
+    def test_same_seed_same_percentages(self):
+        m1 = make_monster("A", hp=40, ac=15, to_hit=6, damage_dice="2d6+3")
+        m2 = make_monster("B", hp=35, ac=14, to_hit=5, damage_dice="1d10+2")
+
+        first = win_percentages(m1, m2, runs=300, seed=42)
+        second = win_percentages(m1, m2, runs=300, seed=42)
+
+        assert first == second
+
+    def test_dominant_monster_wins_almost_always(self):
+        titan = make_monster("Titan", hp=500, ac=20, to_hit=15, damage_dice="6d10+10")
+        weakling = make_monster("Weakling", hp=5, ac=8, to_hit=0, damage_dice="1d2")
+
+        p_titan, p_weak = win_percentages(titan, weakling, runs=500, seed=7)
+
+        assert p_titan == 100.0
+        assert p_weak == 0.0
+
+    def test_runs_many_battles_not_one(self):
+        # An evenly matched pair should land somewhere in between, which only
+        # happens if many distinct fights are actually run.
+        m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+        m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+
+        p1, _ = win_percentages(m1, m2, runs=1000, seed=3)
+
+        assert 0.0 < p1 < 100.0
+
+    def test_zero_runs_returns_zeros(self):
+        m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+        m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+
+        assert win_percentages(m1, m2, runs=0) == (0.0, 0.0)
+
+    def test_does_not_mutate_monsters(self):
+        m1 = make_monster("A", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+        m2 = make_monster("B", hp=30, ac=13, to_hit=5, damage_dice="1d8+2")
+
+        win_percentages(m1, m2, runs=200, seed=1)
+
+        assert m1.hp == 30 and m2.hp == 30

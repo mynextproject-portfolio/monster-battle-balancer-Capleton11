@@ -55,7 +55,9 @@ TRANSLATIONS = {
         "battle_title": "バトル",
         "battle_back_tooltip": "カードにもどる",
         "battle_winner_label": "勝者",
-        "fight_again_button": "🔄 もう一度たたかう",
+        "win_chance_label": "勝率",
+        "battle_runs_caption": "{runs}回のシミュレーション結果",
+        "fight_again_button": "🔄 もう一度シミュレート",
     },
     "en": {
         # App / window
@@ -91,7 +93,9 @@ TRANSLATIONS = {
         "battle_title": "Battle",
         "battle_back_tooltip": "Back to Cards",
         "battle_winner_label": "Winner",
-        "fight_again_button": "🔄 Fight Again",
+        "win_chance_label": "Win Chance",
+        "battle_runs_caption": "Based on {runs} simulated battles",
+        "fight_again_button": "🔄 Simulate Again",
     },
 }
 

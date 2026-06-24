@@ -1,19 +1,20 @@
 import flet as ft
-from battle import simulate_battle
+from battle import win_percentages, MONTE_CARLO_RUNS
 from dnd_api import get_monster_details
 from i18n import t
 from ui_constants import (
     SPACING_SM, SPACING_LG, SPACING_XL,
     BUTTON_HEIGHT_MD, BUTTON_HEIGHT_LG, BUTTON_WIDTH_MD, BUTTON_WIDTH_LG,
-    TEXT_SIZE_LG, TEXT_SIZE_XL,
+    TEXT_SIZE_MD, TEXT_SIZE_LG, TEXT_SIZE_XL,
 )
 
 
 def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back):
-    """Fight the two selected monsters and show the winner.
+    """Show each monster's win chance from many simulated battles.
 
-    The combat itself is NOT implemented here — this screen just runs the shared
-    simulate_battle engine and displays who won.
+    The combat is NOT implemented here — this screen runs the shared Monte Carlo
+    helper (win_percentages, which calls simulate_battle many times) and displays
+    the resulting percentages.
 
     Args:
         page: The Flet page object
@@ -46,30 +47,50 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
             alignment=ft.MainAxisAlignment.CENTER,
         )
 
-    # Winner name is shown here and refreshed in place when re-fought.
-    winner_name = ft.Text(
-        size=40,
-        weight=ft.FontWeight.BOLD,
-        text_align=ft.TextAlign.CENTER,
-    )
+    # Win-percentage labels, refreshed in place when re-simulated.
+    pct1_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.AMBER_400)
+    pct2_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_400)
 
-    def run_fight() -> None:
-        """Run one fight via the shared engine and update the winner display.
+    def run_simulations() -> None:
+        """Run many simulated battles and update both win percentages.
 
-        Colour the winner's name to match its side (amber for monster 1, blue
-        for monster 2). seed is left unset so each fight is a fresh roll.
+        seed is left unset so each run is a fresh Monte Carlo estimate.
         """
-        winner = simulate_battle(monster1, monster2)
-        winner_name.value = winner.name
-        winner_name.color = ft.Colors.AMBER_400 if winner is monster1 else ft.Colors.BLUE_400
+        percent1, percent2 = win_percentages(monster1, monster2)
+        pct1_text.value = f"{percent1:.1f}%"
+        pct2_text.value = f"{percent2:.1f}%"
 
-    def fight_again(e=None) -> None:
-        """Re-run the fight and refresh the screen."""
-        run_fight()
+    def simulate_again(e=None) -> None:
+        """Re-run the simulations and refresh the screen."""
+        run_simulations()
         page.update()
 
-    # Run the initial fight before the screen is mounted (no page.update needed).
-    run_fight()
+    # Run the initial batch before the screen is mounted (no page.update needed).
+    run_simulations()
+
+    def build_side(name: str, pct_text: ft.Text, color: str) -> ft.Container:
+        """One monster's column: its name above its win percentage."""
+        return ft.Container(
+            content=ft.Column(
+                [
+                    ft.Text(
+                        name,
+                        size=TEXT_SIZE_XL,
+                        weight=ft.FontWeight.BOLD,
+                        color=color,
+                        text_align=ft.TextAlign.CENTER,
+                    ),
+                    ft.Container(height=SPACING_SM),
+                    pct_text,
+                ],
+                horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+            ),
+            width=260,
+            padding=SPACING_LG,
+            border=ft.border.all(2, color),
+            border_radius=10,
+            bgcolor=ft.Colors.GREY_800,
+        )
 
     return ft.Container(
         content=ft.Column(
@@ -93,17 +114,19 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                     ],
                     alignment=ft.MainAxisAlignment.START,
                 ),
-                ft.Container(height=SPACING_XL),
-                # The two combatants, name vs name
+                ft.Container(height=SPACING_LG),
+                ft.Text(
+                    t("win_chance_label"),
+                    size=TEXT_SIZE_XL,
+                    weight=ft.FontWeight.BOLD,
+                    color=ft.Colors.GREY_300,
+                    text_align=ft.TextAlign.CENTER,
+                ),
+                ft.Container(height=SPACING_LG),
+                # Both monsters' win percentages, side by side
                 ft.Row(
                     [
-                        ft.Text(
-                            monster1.name,
-                            size=TEXT_SIZE_XL,
-                            weight=ft.FontWeight.BOLD,
-                            color=ft.Colors.AMBER_400,
-                            text_align=ft.TextAlign.CENTER,
-                        ),
+                        build_side(monster1.name, pct1_text, ft.Colors.AMBER_400),
                         ft.Container(
                             content=ft.Text(
                                 "VS",
@@ -114,33 +137,25 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                             width=80,
                             alignment=ft.alignment.center,
                         ),
-                        ft.Text(
-                            monster2.name,
-                            size=TEXT_SIZE_XL,
-                            weight=ft.FontWeight.BOLD,
-                            color=ft.Colors.BLUE_400,
-                            text_align=ft.TextAlign.CENTER,
-                        ),
+                        build_side(monster2.name, pct2_text, ft.Colors.BLUE_400),
                     ],
                     alignment=ft.MainAxisAlignment.CENTER,
                     spacing=SPACING_LG,
                 ),
-                ft.Container(height=SPACING_XL),
-                # Winner announcement
-                ft.Icon(ft.Icons.EMOJI_EVENTS, size=80, color=ft.Colors.AMBER_400),
+                ft.Container(height=SPACING_SM),
                 ft.Text(
-                    t("battle_winner_label"),
-                    size=TEXT_SIZE_LG,
-                    color=ft.Colors.GREY_400,
+                    t("battle_runs_caption").format(runs=MONTE_CARLO_RUNS),
+                    size=TEXT_SIZE_MD,
+                    color=ft.Colors.GREY_500,
+                    italic=True,
                     text_align=ft.TextAlign.CENTER,
                 ),
-                winner_name,
                 ft.Container(height=SPACING_XL),
                 ft.ElevatedButton(
                     t("fight_again_button"),
                     width=BUTTON_WIDTH_LG,
                     height=BUTTON_HEIGHT_LG,
-                    on_click=fight_again,
+                    on_click=simulate_again,
                     style=ft.ButtonStyle(
                         bgcolor=ft.Colors.RED_700,
                         color=ft.Colors.WHITE,
