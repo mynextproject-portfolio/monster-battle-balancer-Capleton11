@@ -1,0 +1,126 @@
+"""
+Single-battle simulator.
+
+`simulate_battle(monster1, monster2, seed=None)` plays out one fight between two
+monsters using their stats (HP, AC, and their parsed attack) and returns the
+winning Monster.
+
+Design of the fight:
+  - The two monsters alternate attacks, monster1 first.
+  - An attack rolls a d20 + the attacker's to-hit bonus against the defender's
+    AC. A natural 20 always hits, a natural 1 always misses; otherwise it hits
+    if the total meets or beats the AC.
+  - A hit rolls the attack's damage dice (e.g. "1d6+2") and subtracts it from a
+    LOCAL copy of the defender's HP. First to 0 HP loses.
+
+Two guarantees the rest of the pipeline relies on:
+  - Reproducible: all randomness comes from `random.Random(seed)`, so the same
+    seed always replays the same fight.
+  - Always terminates: rounds are capped (a monster with no usable attack deals
+    no damage, which would otherwise loop forever). If the cap is reached, the
+    winner is decided deterministically from the monsters' stats.
+
+Stateless: it never mutates the Monster objects (HP is tracked in locals), so
+the same monsters can be reused across thousands of fights.
+"""
+
+import random
+import re
+from typing import Optional
+
+from models.monster import Monster
+
+# Hard cap on rounds so a fight always ends, even when neither monster can deal
+# damage. Generous enough that a normal fight is decided long before this.
+MAX_ROUNDS = 1000
+
+# Matches dice expressions like "2d6", "1d6+2", "3d8-1" (optional signed flat bonus).
+_DICE_RE = re.compile(r"^\s*(\d+)\s*d\s*(\d+)\s*([+-]\s*\d+)?\s*$", re.IGNORECASE)
+
+
+def _roll_damage(damage_dice: str, rng: random.Random) -> int:
+    """Parse and roll a dice expression such as '2d6+3'.
+
+    Returns the rolled total, never below 0. An unparseable or empty expression
+    rolls 0 (treated as no damage rather than an error).
+    """
+    match = _DICE_RE.match(damage_dice or "")
+    if not match:
+        return 0
+
+    num_dice = int(match.group(1))
+    sides = int(match.group(2))
+    modifier = int(match.group(3).replace(" ", "")) if match.group(3) else 0
+
+    if num_dice <= 0 or sides <= 0:
+        return 0
+
+    total = sum(rng.randint(1, sides) for _ in range(num_dice)) + modifier
+    return max(0, total)
+
+
+def _resolve_attack(attacker: Monster, defender: Monster, defender_hp: int,
+                    rng: random.Random) -> int:
+    """Resolve one attack from `attacker` against `defender`.
+
+    Returns the defender's HP after the attack. An attacker with no usable
+    attack simply deals nothing.
+    """
+    attack = attacker.attack
+    if attack is None:
+        return defender_hp
+
+    roll = rng.randint(1, 20)
+    if roll == 1:
+        return defender_hp  # natural 1 always misses
+    if roll == 20 or roll + attack.to_hit >= defender.ac:
+        return defender_hp - _roll_damage(attack.damage_dice, rng)
+    return defender_hp  # miss
+
+
+def _decide_by_stats(monster1: Monster, monster2: Monster,
+                     hp1: int, hp2: int) -> Monster:
+    """Break a stalemate (round cap reached) deterministically.
+
+    Prefers more remaining HP, then higher AC, then higher Strength, and finally
+    monster1, so a winner is always returned.
+    """
+    if hp1 != hp2:
+        return monster1 if hp1 > hp2 else monster2
+    if monster1.ac != monster2.ac:
+        return monster1 if monster1.ac > monster2.ac else monster2
+    if monster1.strength != monster2.strength:
+        return monster1 if monster1.strength > monster2.strength else monster2
+    return monster1
+
+
+def simulate_battle(monster1: Monster, monster2: Monster,
+                    seed: Optional[int] = None) -> Monster:
+    """Play out a single fight and return the winning monster.
+
+    Args:
+        monster1: First combatant (attacks first).
+        monster2: Second combatant.
+        seed: Seeds the RNG; the same seed always replays the same fight. With
+            seed=None the fight is random (non-reproducible).
+
+    Returns:
+        The Monster that won. If the round cap is reached without a knockout,
+        the winner is decided from the monsters' stats (see _decide_by_stats).
+    """
+    rng = random.Random(seed)
+
+    # Work on local HP copies — never mutate the Monster objects.
+    hp1 = monster1.hp
+    hp2 = monster2.hp
+
+    for _ in range(MAX_ROUNDS):
+        hp2 = _resolve_attack(monster1, monster2, hp2, rng)
+        if hp2 <= 0:
+            return monster1
+
+        hp1 = _resolve_attack(monster2, monster1, hp1, rng)
+        if hp1 <= 0:
+            return monster2
+
+    return _decide_by_stats(monster1, monster2, hp1, hp2)
