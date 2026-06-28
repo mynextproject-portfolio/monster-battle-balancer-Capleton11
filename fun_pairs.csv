@@ -1,0 +1,4422 @@
+monster_1,monster_2,win_pct_1,win_pct_2,underdog_pct
+Air Elemental,Killer Whale,50.0,50.0,50.0
+Black Dragon Wyrmling,Bugbear,50.0,50.0,50.0
+Ettin,"Werebear, Human Form",50.0,50.0,50.0
+Ghost,Medusa,50.0,50.0,50.0
+Giant Owl,"Wererat, Rat Form",50.0,50.0,50.0
+Imp,Sahuagin,50.0,50.0,50.0
+Minotaur,Otyugh,50.0,50.0,50.0
+Ankheg,Salamander,49.9,50.1,49.9
+Basilisk,Succubus/Incubus,49.9,50.1,49.9
+Black Dragon Wyrmling,Will-o'-Wisp,50.1,49.9,49.9
+Black Pudding,Centaur,50.1,49.9,49.9
+Brass Dragon Wyrmling,Swarm of Spiders,49.9,50.1,49.9
+Giant Lizard,Lizardfolk,49.9,50.1,49.9
+Giant Scorpion,Green Dragon Wyrmling,49.9,50.1,49.9
+Ice Devil,Young Blue Dragon,49.9,50.1,49.9
+Ogre,Spirit Naga,50.1,49.9,49.9
+Panther,Wolf,49.9,50.1,49.9
+Berserker,Silver Dragon Wyrmling,50.2,49.8,49.8
+Bone Devil,Young Brass Dragon,50.2,49.8,49.8
+Flying Sword,Giant Goat,49.8,50.2,49.8
+Giant Constrictor Snake,Medusa,49.8,50.2,49.8
+Giant Crocodile,Young Brass Dragon,50.2,49.8,49.8
+Giant Lizard,Shadow,49.8,50.2,49.8
+Goblin,Noble,49.8,50.2,49.8
+Gold Dragon Wyrmling,Winter Wolf,50.2,49.8,49.8
+Grimlock,Wolf,49.8,50.2,49.8
+Medusa,Vampire Spawn,49.8,50.2,49.8
+Mule,Steam Mephit,50.2,49.8,49.8
+Owlbear,"Weretiger, Human Form",50.2,49.8,49.8
+Bandit,Goblin,50.3,49.7,49.7
+Berserker,Giant Constrictor Snake,50.3,49.7,49.7
+Black Pudding,Green Dragon Wyrmling,50.3,49.7,49.7
+Black Pudding,Hell Hound,50.3,49.7,49.7
+Bugbear,Giant Boar,49.7,50.3,49.7
+Camel,Cultist,49.7,50.3,49.7
+Clay Golem,Triceratops,50.3,49.7,49.7
+Ghost,Gibbering Mouther,50.3,49.7,49.7
+Ghost,Half-Red Dragon Veteran,49.7,50.3,49.7
+Ghoul,"Wererat, Human Form",50.3,49.7,49.7
+Giant Constrictor Snake,Owlbear,50.3,49.7,49.7
+Giant Hyena,Salamander,49.7,50.3,49.7
+Giant Sea Horse,Skeleton,50.3,49.7,49.7
+Giant Weasel,Ice Mephit,49.7,50.3,49.7
+Guardian Naga,"Werebear, Bear Form",50.3,49.7,49.7
+Lamia,Wyvern,49.7,50.3,49.7
+Mummy,Saber-Toothed Tiger,49.7,50.3,49.7
+Orc,Swarm of Centipedes,49.7,50.3,49.7
+Pegasus,"Wereboar, Boar Form",49.7,50.3,49.7
+Bugbear,Swarm of Quippers,50.4,49.6,49.6
+Bulette,Stone Giant,50.4,49.6,49.6
+Copper Dragon Wyrmling,Giant Spider,49.6,50.4,49.6
+Earth Elemental,Young White Dragon,50.4,49.6,49.6
+Giant Eagle,Warhorse,49.6,50.4,49.6
+Giant Owl,Orc,50.4,49.6,49.6
+Giant Weasel,Magmin,49.6,50.4,49.6
+Gray Ooze,Wolf,49.6,50.4,49.6
+Orc,Warhorse,50.4,49.6,49.6
+Orc,"Wererat, Human Form",49.6,50.4,49.6
+Pseudodragon,Quasit,50.4,49.6,49.6
+Warhorse Skeleton,White Dragon Wyrmling,49.6,50.4,49.6
+Berserker,"Wereboar, Boar Form",49.5,50.5,49.5
+Cloaker,"Weretiger, Hybrid Form",50.5,49.5,49.5
+Deep Gnome (Svirfneblin),Spy,49.5,50.5,49.5
+Giant Crocodile,Hydra,50.5,49.5,49.5
+Giant Owl,"Wererat, Hybrid Form",50.5,49.5,49.5
+Green Dragon Wyrmling,Hell Hound,50.5,49.5,49.5
+Imp,Zombie,49.5,50.5,49.5
+Knight,Ogre Zombie,49.5,50.5,49.5
+Mummy Lord,Young Copper Dragon,49.5,50.5,49.5
+Ochre Jelly,Swarm of Poisonous Snakes,49.5,50.5,49.5
+Owlbear,Spirit Naga,49.5,50.5,49.5
+"Werebear, Human Form",Wyvern,50.5,49.5,49.5
+Ankheg,Archmage,49.4,50.6,49.4
+Assassin,Half-Red Dragon Veteran,49.4,50.6,49.4
+Black Pudding,Bronze Dragon Wyrmling,50.6,49.4,49.4
+Black Pudding,Dire Wolf,50.6,49.4,49.4
+Giant Lizard,Giant Owl,50.6,49.4,49.4
+Giant Vulture,Hippogriff,50.6,49.4,49.4
+Hill Giant,Young Brass Dragon,49.4,50.6,49.4
+Orc,Swarm of Insects,50.6,49.4,49.4
+Orc,Swarm of Spiders,49.4,50.6,49.4
+Orc,Swarm of Wasps,50.6,49.4,49.4
+Rakshasa,Wraith,50.6,49.4,49.4
+Ape,Giant Goat,50.7,49.3,49.3
+Berserker,"Wereboar, Hybrid Form",49.3,50.7,49.3
+Black Bear,Scout,50.7,49.3,49.3
+Black Dragon Wyrmling,Swarm of Quippers,49.3,50.7,49.3
+Bulette,Glabrezu,50.7,49.3,49.3
+Crocodile,Orc,50.7,49.3,49.3
+Duergar,Giant Toad,49.3,50.7,49.3
+Fire Giant,Purple Worm,49.3,50.7,49.3
+Flying Sword,Spy,50.7,49.3,49.3
+Giant Owl,Spy,49.3,50.7,49.3
+Giant Shark,Young Bronze Dragon,49.3,50.7,49.3
+Gladiator,Minotaur,50.7,49.3,49.3
+Triceratops,Young Black Dragon,50.7,49.3,49.3
+Assassin,Gibbering Mouther,50.8,49.2,49.2
+Bandit,Dretch,50.8,49.2,49.2
+Bearded Devil,Bugbear,50.8,49.2,49.2
+Brass Dragon Wyrmling,Harpy,49.2,50.8,49.2
+Darkmantle,Hippogriff,50.8,49.2,49.2
+Giant Constrictor Snake,Ogre,49.2,50.8,49.2
+Giant Owl,Hippogriff,50.8,49.2,49.2
+Giant Shark,Gorgon,50.8,49.2,49.2
+Goat,Hyena,50.8,49.2,49.2
+Guardian Naga,"Werebear, Hybrid Form",49.2,50.8,49.2
+Harpy,Satyr,50.8,49.2,49.2
+Hippogriff,"Wererat, Human Form",50.8,49.2,49.2
+Magmin,Riding Horse,49.2,50.8,49.2
+Ogre,Unicorn,50.8,49.2,49.2
+Rust Monster,Swarm of Ravens,50.8,49.2,49.2
+Troll,Winter Wolf,49.2,50.8,49.2
+"Vampire, Vampire Form","Werebear, Bear Form",49.2,50.8,49.2
+Brass Dragon Wyrmling,Swarm of Beetles,49.1,50.9,49.1
+Bronze Dragon Wyrmling,Dire Wolf,50.9,49.1,49.1
+Centaur,Doppelganger,50.9,49.1,49.1
+Chuul,Rakshasa,49.1,50.9,49.1
+Constrictor Snake,Wolf,50.9,49.1,49.1
+Elk,Priest,49.1,50.9,49.1
+Flying Sword,"Wererat, Rat Form",50.9,49.1,49.1
+Giant Constrictor Snake,Gibbering Mouther,50.9,49.1,49.1
+Giant Eagle,Specter,50.9,49.1,49.1
+Hyena,Stirge,50.9,49.1,49.1
+Magma Mephit,Magmin,49.1,50.9,49.1
+Magma Mephit,Panther,50.9,49.1,49.1
+Pegasus,"Wereboar, Hybrid Form",50.9,49.1,49.1
+Awakened Shrub,Goat,51.0,49.0,49.0
+Bugbear,Green Dragon Wyrmling,49.0,51.0,49.0
+Cloaker,Nightmare,49.0,51.0,49.0
+Deer,Eagle,49.0,51.0,49.0
+Dretch,Goblin,51.0,49.0,49.0
+Flying Sword,Ghoul,51.0,49.0,49.0
+Gargoyle,"Werewolf, Wolf Form",51.0,49.0,49.0
+Ghast,Giant Scorpion,51.0,49.0,49.0
+Giant Toad,Worg,49.0,51.0,49.0
+Hydra,Young Copper Dragon,49.0,51.0,49.0
+Noble,Zombie,49.0,51.0,49.0
+Swarm of Poisonous Snakes,Will-o'-Wisp,49.0,51.0,49.0
+Blue Dragon Wyrmling,"Wereboar, Hybrid Form",51.1,48.9,48.9
+Brass Dragon Wyrmling,Draft Horse,51.1,48.9,48.9
+Brown Bear,Ettercap,48.9,51.1,48.9
+Copper Dragon Wyrmling,Phase Spider,48.9,51.1,48.9
+Gray Ooze,Skeleton,48.9,51.1,48.9
+Harpy,Warhorse,48.9,51.1,48.9
+Hell Hound,Merrow,51.1,48.9,48.9
+Hell Hound,Polar Bear,48.9,51.1,48.9
+Hunter Shark,Pegasus,48.9,51.1,48.9
+Mammoth,Marilith,51.1,48.9,48.9
+Night Hag,Shambling Mound,51.1,48.9,48.9
+Quasit,Violet Fungus,51.1,48.9,48.9
+Vampire Spawn,"Wereboar, Hybrid Form",51.1,48.9,48.9
+Brass Dragon Wyrmling,Giant Eagle,48.8,51.2,48.8
+Copper Dragon Wyrmling,Giant Toad,48.8,51.2,48.8
+Drow,Hobgoblin,51.2,48.8,48.8
+Ettin,Lamia,51.2,48.8,48.8
+Ghast,Polar Bear,48.8,51.2,48.8
+Giant Boar,Giant Hyena,51.2,48.8,48.8
+Giant Centipede,Lemure,51.2,48.8,48.8
+Giant Fire Beetle,Goat,48.8,51.2,48.8
+Giant Shark,Roper,48.8,51.2,48.8
+Gibbering Mouther,Medusa,48.8,51.2,48.8
+Lamia,Oni,48.8,51.2,48.8
+Mage,Swarm of Insects,51.2,48.8,48.8
+Pseudodragon,Steam Mephit,48.8,51.2,48.8
+Satyr,Warhorse,51.2,48.8,48.8
+Chain Devil,Green Hag,48.7,51.3,48.7
+Clay Golem,Hezrou,51.3,48.7,48.7
+Dryad,Giant Badger,51.3,48.7,48.7
+Duergar,Giant Spider,51.3,48.7,48.7
+Giant Ape,Young Blue Dragon,51.3,48.7,48.7
+Ice Devil,Mammoth,51.3,48.7,48.7
+Killer Whale,"Werebear, Hybrid Form",51.3,48.7,48.7
+Shadow,Swarm of Ravens,48.7,51.3,48.7
+Warhorse Skeleton,Will-o'-Wisp,48.7,51.3,48.7
+Air Elemental,Water Elemental,51.4,48.6,48.6
+Awakened Tree,"Weretiger, Tiger Form",51.4,48.6,48.6
+Berserker,Blue Dragon Wyrmling,51.4,48.6,48.6
+Deep Gnome (Svirfneblin),Orc,48.6,51.4,48.6
+Draft Horse,"Wererat, Human Form",51.4,48.6,48.6
+Drow,Giant Poisonous Snake,51.4,48.6,48.6
+Ettin,Oni,48.6,51.4,48.6
+Ghast,Will-o'-Wisp,48.6,51.4,48.6
+Manticore,Sea Hag,51.4,48.6,48.6
+Noble,Panther,51.4,48.6,48.6
+Pony,Wolf,51.4,48.6,48.6
+Acolyte,Giant Centipede,51.5,48.5,48.5
+Boar,Giant Badger,51.5,48.5,48.5
+Brass Dragon Wyrmling,"Wererat, Human Form",51.5,48.5,48.5
+Crocodile,Hippogriff,51.5,48.5,48.5
+Crocodile,"Wererat, Rat Form",51.5,48.5,48.5
+Elk,Riding Horse,51.5,48.5,48.5
+Ghast,Swarm of Quippers,51.5,48.5,48.5
+Giant Frog,Giant Sea Horse,48.5,51.5,48.5
+Giant Frog,Sahuagin,51.5,48.5,48.5
+Mule,Quasit,48.5,51.5,48.5
+Vampire Spawn,"Wereboar, Boar Form",51.5,48.5,48.5
+Boar,Dryad,51.6,48.4,48.4
+Boar,Goblin,48.4,51.6,48.4
+Brass Dragon Wyrmling,Warhorse,48.4,51.6,48.4
+Clay Golem,Earth Elemental,51.6,48.4,48.4
+Giant Bat,Shadow,51.6,48.4,48.4
+Giant Boar,Polar Bear,51.6,48.4,48.4
+Giant Elk,Hunter Shark,51.6,48.4,48.4
+Giant Goat,Thug,51.6,48.4,48.4
+Giant Hyena,Giant Octopus,51.6,48.4,48.4
+Giant Wasp,Wolf,51.6,48.4,48.4
+Gnoll,Reef Shark,48.4,51.6,48.4
+Gnoll,Shadow,48.4,51.6,48.4
+Spirit Naga,Unicorn,48.4,51.6,48.4
+Vrock,"Werebear, Human Form",48.4,51.6,48.4
+Aboleth,Triceratops,48.3,51.7,48.3
+Awakened Shrub,Eagle,48.3,51.7,48.3
+Azer,Green Dragon Wyrmling,48.3,51.7,48.3
+Blink Dog,Cult Fanatic,48.3,51.7,48.3
+Boar,Giant Wolf Spider,48.3,51.7,48.3
+Constrictor Snake,Skeleton,51.7,48.3,48.3
+Crocodile,Draft Horse,48.3,51.7,48.3
+Deep Gnome (Svirfneblin),"Wererat, Rat Form",48.3,51.7,48.3
+Giant Frog,Skeleton,48.3,51.7,48.3
+Giant Goat,Swarm of Ravens,51.7,48.3,48.3
+Grimlock,Magma Mephit,48.3,51.7,48.3
+Ice Mephit,Magma Mephit,51.7,48.3,48.3
+Ankheg,Doppelganger,48.2,51.8,48.2
+Blue Dragon Wyrmling,Pegasus,51.8,48.2,48.2
+Brass Dragon Wyrmling,Swarm of Centipedes,51.8,48.2,48.2
+Brown Bear,Ochre Jelly,48.2,51.8,48.2
+Deep Gnome (Svirfneblin),Ghoul,48.2,51.8,48.2
+Deep Gnome (Svirfneblin),"Wererat, Hybrid Form",48.2,51.8,48.2
+Dire Wolf,Polar Bear,51.8,48.2,48.2
+Gelatinous Cube,Pegasus,48.2,51.8,48.2
+Giant Sea Horse,Wolf,48.2,51.8,48.2
+Giant Toad,Warhorse Skeleton,51.8,48.2,48.2
+Harpy,Lion,48.2,51.8,48.2
+Hill Giant,Hydra,48.2,51.8,48.2
+Ice Mephit,Zombie,48.2,51.8,48.2
+Merrow,Salamander,48.2,51.8,48.2
+Satyr,Specter,48.2,51.8,48.2
+Brass Dragon Wyrmling,Swarm of Insects,48.1,51.9,48.1
+Couatl,Deva,48.1,51.9,48.1
+Couatl,Killer Whale,48.1,51.9,48.1
+Frost Giant,Young Silver Dragon,48.1,51.9,48.1
+Gray Ooze,Sahuagin,51.9,48.1,48.1
+Killer Whale,"Werebear, Bear Form",51.9,48.1,48.1
+Priest,Riding Horse,48.1,51.9,48.1
+Rhinoceros,"Wereboar, Hybrid Form",48.1,51.9,48.1
+Sahuagin,Skeleton,48.1,51.9,48.1
+Silver Dragon Wyrmling,Vampire Spawn,48.1,51.9,48.1
+Swarm of Ravens,"Wererat, Human Form",48.1,51.9,48.1
+Adult Blue Dragon,Planetar,48.0,52.0,48.0
+Azer,Swarm of Quippers,48.0,52.0,48.0
+Basilisk,Giant Elk,48.0,52.0,48.0
+Crocodile,Swarm of Ravens,48.0,52.0,48.0
+Dire Wolf,Merrow,52.0,48.0,48.0
+Eagle,Mastiff,52.0,48.0,48.0
+Giant Boar,Hell Hound,52.0,48.0,48.0
+Griffon,Veteran,48.0,52.0,48.0
+Hezrou,Triceratops,52.0,48.0,48.0
+Hunter Shark,Silver Dragon Wyrmling,48.0,52.0,48.0
+Phase Spider,Worg,48.0,52.0,48.0
+Swarm of Poisonous Snakes,"Werewolf, Wolf Form",48.0,52.0,48.0
+Balor,Storm Giant,52.1,47.9,47.9
+Black Bear,Drow,52.1,47.9,47.9
+Chain Devil,Wraith,52.1,47.9,47.9
+Eagle,Kobold,47.9,52.1,47.9
+Elephant,Water Elemental,52.1,47.9,47.9
+Gargoyle,Ghast,47.9,52.1,47.9
+Giant Spider,Giant Toad,47.9,52.1,47.9
+Giant Toad,Grick,52.1,47.9,47.9
+Grick,Worg,52.1,47.9,47.9
+Killer Whale,"Vampire, Vampire Form",52.1,47.9,47.9
+Mage,Swarm of Centipedes,52.1,47.9,47.9
+Ochre Jelly,White Dragon Wyrmling,47.9,52.1,47.9
+Pony,Sahuagin,52.1,47.9,47.9
+Reef Shark,"Wererat, Hybrid Form",52.1,47.9,47.9
+Awakened Shrub,Stirge,47.8,52.2,47.8
+Bronze Dragon Wyrmling,Merrow,52.2,47.8,47.8
+Chimera,Green Hag,52.2,47.8,47.8
+Chuul,Wraith,52.2,47.8,47.8
+Cult Fanatic,Giant Lizard,47.8,52.2,47.8
+Dretch,Giant Wolf Spider,52.2,47.8,47.8
+Fire Giant,Planetar,47.8,52.2,47.8
+Ghast,Merrow,47.8,52.2,47.8
+Mummy,Succubus/Incubus,52.2,47.8,47.8
+Ochre Jelly,Tiger,52.2,47.8,47.8
+Aboleth,Earth Elemental,52.3,47.7,47.7
+Ape,Reef Shark,52.3,47.7,47.7
+Axe Beak,Deep Gnome (Svirfneblin),47.7,52.3,47.7
+Azer,Giant Scorpion,47.7,52.3,47.7
+Commoner,Giant Fire Beetle,52.3,47.7,47.7
+Death Dog,Specter,52.3,47.7,47.7
+Earth Elemental,Young Black Dragon,47.7,52.3,47.7
+Ghast,Giant Hyena,47.7,52.3,47.7
+Giant Frog,Wolf,47.7,52.3,47.7
+Giant Goat,Rust Monster,52.3,47.7,47.7
+Giant Vulture,Orc,47.7,52.3,47.7
+Giant Wasp,Skeleton,52.3,47.7,47.7
+Gnoll,Lizardfolk,52.3,47.7,47.7
+Goblin,Grimlock,52.3,47.7,47.7
+Horned Devil,Young Silver Dragon,47.7,52.3,47.7
+Imp,Panther,52.3,47.7,47.7
+Merrow,Polar Bear,52.3,47.7,47.7
+Pony,Riding Horse,52.3,47.7,47.7
+Silver Dragon Wyrmling,"Wereboar, Boar Form",52.3,47.7,47.7
+Balor,Kraken,47.6,52.4,47.6
+Bandit Captain,Succubus/Incubus,52.4,47.6,47.6
+Bearded Devil,Ghast,52.4,47.6,47.6
+Black Bear,Blink Dog,47.6,52.4,47.6
+Blood Hawk,Mule,52.4,47.6,47.6
+Blood Hawk,Quasit,47.6,52.4,47.6
+Blue Dragon Wyrmling,Drider,52.4,47.6,47.6
+Bulette,Roper,52.4,47.6,47.6
+Dretch,Grimlock,47.6,52.4,47.6
+Duergar,Phase Spider,52.4,47.6,47.6
+Flying Sword,"Wererat, Hybrid Form",47.6,52.4,47.6
+Assassin,Giant Constrictor Snake,47.5,52.5,47.5
+Assassin,Silver Dragon Wyrmling,52.5,47.5,47.5
+Axe Beak,Giant Bat,47.5,52.5,47.5
+Barbed Devil,Nightmare,47.5,52.5,47.5
+Bulette,Ice Devil,47.5,52.5,47.5
+Centaur,Giant Octopus,52.5,47.5,47.5
+Ghost,Owlbear,52.5,47.5,47.5
+Giant Ape,Marilith,47.5,52.5,47.5
+Giant Badger,Giant Weasel,47.5,52.5,47.5
+Giant Bat,Reef Shark,47.5,52.5,47.5
+Giant Frog,Giant Wasp,52.5,47.5,47.5
+Gorgon,Young Bronze Dragon,52.5,47.5,47.5
+Harpy,Swarm of Wasps,52.5,47.5,47.5
+Hunter Shark,"Wereboar, Human Form",47.5,52.5,47.5
+Oni,"Werebear, Human Form",52.5,47.5,47.5
+Adult White Dragon,Cloud Giant,47.4,52.6,47.4
+Bronze Dragon Wyrmling,Giant Hyena,52.6,47.4,47.4
+Bulette,Mammoth,52.6,47.4,47.4
+Cult Fanatic,Swarm of Rats,47.4,52.6,47.4
+Ghoul,Swarm of Insects,47.4,52.6,47.4
+Giant Frog,Magmin,52.6,47.4,47.4
+Gibbering Mouther,Vampire Spawn,52.6,47.4,47.4
+Grick,Ochre Jelly,52.6,47.4,47.4
+Grick,Wight,52.6,47.4,47.4
+Harpy,Swarm of Spiders,52.6,47.4,47.4
+Shield Guardian,Young Brass Dragon,47.4,52.6,47.4
+Berserker,Pegasus,52.7,47.3,47.3
+Bone Devil,Hill Giant,52.7,47.3,47.3
+Chuul,Minotaur,47.3,52.7,47.3
+Giant Elk,Manticore,52.7,47.3,47.3
+Giant Lizard,Reef Shark,47.3,52.7,47.3
+Giant Scorpion,Swarm of Quippers,52.7,47.3,47.3
+Giant Weasel,Panther,47.3,52.7,47.3
+Lizardfolk,Reef Shark,47.3,52.7,47.3
+Mimic,Polar Bear,52.7,47.3,47.3
+Orc,Swarm of Beetles,52.7,47.3,47.3
+Reef Shark,Spy,52.7,47.3,47.3
+Reef Shark,"Wererat, Rat Form",52.7,47.3,47.3
+Shadow,Thug,47.3,52.7,47.3
+Spy,"Wererat, Hybrid Form",52.7,47.3,47.3
+Swarm of Ravens,Swarm of Wasps,47.3,52.7,47.3
+"Vampire, Bat Form",Water Elemental,47.3,52.7,47.3
+Adult Brass Dragon,Tyrannosaurus Rex,52.8,47.2,47.2
+Adult Bronze Dragon,Fire Giant,52.8,47.2,47.2
+Blue Dragon Wyrmling,Giant Constrictor Snake,47.2,52.8,47.2
+Crocodile,Rust Monster,47.2,52.8,47.2
+Deer,Stirge,47.2,52.8,47.2
+Ettercap,Tiger,47.2,52.8,47.2
+Flying Sword,Shadow,52.8,47.2,47.2
+Giant Vulture,Reef Shark,52.8,47.2,47.2
+Giant Vulture,Shadow,52.8,47.2,47.2
+Goblin,Imp,47.2,52.8,47.2
+Grimlock,Magmin,52.8,47.2,47.2
+Harpy,Swarm of Centipedes,52.8,47.2,47.2
+Mage,Satyr,52.8,47.2,47.2
+Ogre,"Weretiger, Human Form",52.8,47.2,47.2
+Oni,Wyvern,52.8,47.2,47.2
+Silver Dragon Wyrmling,"Wereboar, Hybrid Form",52.8,47.2,47.2
+Spy,Swarm of Ravens,47.2,52.8,47.2
+Animated Armor,White Dragon Wyrmling,52.9,47.1,47.1
+Assassin,"Wereboar, Hybrid Form",47.1,52.9,47.1
+Blue Dragon Wyrmling,Ogre,47.1,52.9,47.1
+Brass Dragon Wyrmling,Swarm of Wasps,52.9,47.1,47.1
+Bronze Dragon Wyrmling,Centaur,47.1,52.9,47.1
+Bugbear,Dire Wolf,47.1,52.9,47.1
+Deep Gnome (Svirfneblin),Rust Monster,47.1,52.9,47.1
+Giant Constrictor Snake,Half-Red Dragon Veteran,52.9,47.1,47.1
+Giant Crab,Skeleton,52.9,47.1,47.1
+Giant Poisonous Snake,Swarm of Bats,47.1,52.9,47.1
+Gibbering Mouther,Owlbear,52.9,47.1,47.1
+Medusa,"Wereboar, Boar Form",52.9,47.1,47.1
+Nightmare,"Weretiger, Hybrid Form",52.9,47.1,47.1
+Roper,Stone Giant,47.1,52.9,47.1
+Swarm of Ravens,Swarm of Spiders,47.1,52.9,47.1
+Awakened Tree,"Weretiger, Hybrid Form",53.0,47.0,47.0
+Blue Dragon Wyrmling,Silver Dragon Wyrmling,47.0,53.0,47.0
+Chuul,Wyvern,53.0,47.0,47.0
+Commoner,Deer,47.0,53.0,47.0
+Copper Dragon Wyrmling,Duergar,53.0,47.0,47.0
+Darkmantle,Orc,53.0,47.0,47.0
+Deer,Goat,53.0,47.0,47.0
+Draft Horse,Swarm of Insects,47.0,53.0,47.0
+Ghoul,Swarm of Wasps,47.0,53.0,47.0
+Giant Bat,"Wererat, Hybrid Form",47.0,53.0,47.0
+Giant Eagle,Mage,53.0,47.0,47.0
+Giant Scorpion,Mimic,47.0,53.0,47.0
+Giant Toad,Wight,47.0,53.0,47.0
+Giant Vulture,Spy,47.0,53.0,47.0
+Magmin,Scout,47.0,53.0,47.0
+Aboleth,Young White Dragon,46.9,53.1,46.9
+Axe Beak,Giant Lizard,53.1,46.9,46.9
+Barbed Devil,"Weretiger, Tiger Form",46.9,53.1,46.9
+Crocodile,Ghoul,46.9,53.1,46.9
+Darkmantle,Thug,46.9,53.1,46.9
+Elk,Giant Poisonous Snake,53.1,46.9,46.9
+Frost Giant,Horned Devil,53.1,46.9,46.9
+Giant Crocodile,Mummy Lord,53.1,46.9,46.9
+Giant Poisonous Snake,Swarm of Rats,46.9,53.1,46.9
+Grimlock,Panther,46.9,53.1,46.9
+Ice Mephit,Magmin,46.9,53.1,46.9
+Mage,Swarm of Beetles,53.1,46.9,46.9
+Mule,Violet Fungus,46.9,53.1,46.9
+Reef Shark,Rust Monster,46.9,53.1,46.9
+Spy,Thug,46.9,53.1,46.9
+Adult Copper Dragon,Behir,46.8,53.2,46.8
+Ankheg,Giant Octopus,53.2,46.8,46.8
+Ape,Hippogriff,46.8,53.2,46.8
+Black Bear,Giant Poisonous Snake,53.2,46.8,46.8
+Dire Wolf,Giant Octopus,46.8,53.2,46.8
+Earth Elemental,Triceratops,53.2,46.8,46.8
+Giant Weasel,Wolf,46.8,53.2,46.8
+Gorgon,Treant,53.2,46.8,46.8
+Ice Mephit,Panther,46.8,53.2,46.8
+Owlbear,Unicorn,46.8,53.2,46.8
+Rhinoceros,Vampire Spawn,53.2,46.8,46.8
+Barbed Devil,Cloaker,53.3,46.7,46.7
+Blink Dog,Swarm of Bats,46.7,53.3,46.7
+Cloaker,"Weretiger, Tiger Form",46.7,53.3,46.7
+Cockatrice,Riding Horse,46.7,53.3,46.7
+Crocodile,"Wererat, Hybrid Form",53.3,46.7,46.7
+Darkmantle,Draft Horse,53.3,46.7,46.7
+Darkmantle,Rust Monster,46.7,53.3,46.7
+Darkmantle,"Wererat, Rat Form",53.3,46.7,46.7
+Giant Vulture,"Wererat, Hybrid Form",46.7,53.3,46.7
+Giant Weasel,Magma Mephit,46.7,53.3,46.7
+Glabrezu,Young Blue Dragon,46.7,53.3,46.7
+Gladiator,Wraith,53.3,46.7,46.7
+Hezrou,Young White Dragon,46.7,53.3,46.7
+Night Hag,Shield Guardian,46.7,53.3,46.7
+Steam Mephit,Violet Fungus,46.7,53.3,46.7
+"Wereboar, Human Form","Wereboar, Hybrid Form",46.7,53.3,46.7
+Wight,Worg,53.3,46.7,46.7
+Black Pudding,Mimic,46.6,53.4,46.6
+Cultist,Violet Fungus,53.4,46.6,46.6
+Giant Bat,Giant Vulture,53.4,46.6,46.6
+Giant Crab,Giant Sea Horse,53.4,46.6,46.6
+Giant Lizard,Gnoll,53.4,46.6,46.6
+Giant Wolf Spider,Grimlock,46.6,53.4,46.6
+Griffon,Manticore,46.6,53.4,46.6
+Hobgoblin,Swarm of Bats,53.4,46.6,46.6
+Ice Devil,Marilith,46.6,53.4,46.6
+Lizardfolk,Shadow,53.4,46.6,46.6
+Priest,Scout,46.6,53.4,46.6
+Sahuagin,Wolf,46.6,53.4,46.6
+Adult Brass Dragon,Stone Golem,53.5,46.5,46.5
+Assassin,Medusa,46.5,53.5,46.5
+Black Dragon Wyrmling,Giant Scorpion,46.5,53.5,46.5
+Black Pudding,Giant Boar,53.5,46.5,46.5
+Darkmantle,"Wererat, Hybrid Form",53.5,46.5,46.5
+Deep Gnome (Svirfneblin),Flying Sword,53.5,46.5,46.5
+Erinyes,Giant Shark,53.5,46.5,46.5
+Ghoul,Swarm of Centipedes,46.5,53.5,46.5
+Giant Boar,Mimic,53.5,46.5,46.5
+Glabrezu,Ice Devil,53.5,46.5,46.5
+Magma Mephit,Zombie,53.5,46.5,46.5
+Oni,Rakshasa,46.5,53.5,46.5
+Swarm of Bats,Swarm of Rats,46.5,53.5,46.5
+Bandit,Giant Wolf Spider,53.6,46.4,46.4
+Commoner,Goat,46.4,53.6,46.4
+Drider,Hunter Shark,53.6,46.4,46.4
+Giant Badger,Grimlock,46.4,53.6,46.4
+Giant Crab,Wolf,46.4,53.6,46.4
+Giant Rat,Quasit,46.4,53.6,46.4
+Green Hag,Otyugh,53.6,46.4,46.4
+Hill Giant,Mummy Lord,53.6,46.4,46.4
+Hunter Shark,Rhinoceros,53.6,46.4,46.4
+Invisible Stalker,Vrock,46.4,53.6,46.4
+Ape,Flying Sword,53.7,46.3,46.3
+Assassin,Ghost,53.7,46.3,46.3
+Assassin,Pegasus,53.7,46.3,46.3
+Black Dragon Wyrmling,Ghast,53.7,46.3,46.3
+Blue Dragon Wyrmling,Medusa,46.3,53.7,46.3
+Blue Dragon Wyrmling,Rhinoceros,53.7,46.3,46.3
+Brass Dragon Wyrmling,Satyr,46.3,53.7,46.3
+Bronze Dragon Wyrmling,Hell Hound,53.7,46.3,46.3
+Cockatrice,Priest,46.3,53.7,46.3
+Duergar,Grick,46.3,53.7,46.3
+Elephant,"Vampire, Bat Form",53.7,46.3,46.3
+Gargoyle,"Werewolf, Hybrid Form",53.7,46.3,46.3
+Ghast,Mimic,46.3,53.7,46.3
+Ghost,Ogre,53.7,46.3,46.3
+Giant Badger,Goblin,53.7,46.3,46.3
+Glabrezu,Mammoth,53.7,46.3,46.3
+Gold Dragon Wyrmling,Ogre Zombie,53.7,46.3,46.3
+Acolyte,Mastiff,46.2,53.8,46.2
+Archmage,Giant Octopus,53.8,46.2,46.2
+Assassin,Vampire Spawn,46.2,53.8,46.2
+Barbed Devil,"Weretiger, Hybrid Form",46.2,53.8,46.2
+Bearded Devil,Will-o'-Wisp,53.8,46.2,46.2
+Bugbear,Giant Scorpion,53.8,46.2,46.2
+Deep Gnome (Svirfneblin),Hippogriff,46.2,53.8,46.2
+Earth Elemental,Gynosphinx,46.2,53.8,46.2
+Giant Constrictor Snake,"Wereboar, Hybrid Form",53.8,46.2,46.2
+Gold Dragon Wyrmling,Troll,53.8,46.2,46.2
+Lich,Young Green Dragon,46.2,53.8,46.2
+Magmin,Priest,46.2,53.8,46.2
+Rhinoceros,"Wereboar, Human Form",53.8,46.2,46.2
+Riding Horse,Swarm of Bats,53.8,46.2,46.2
+Swarm of Beetles,Warhorse,53.8,46.2,46.2
+"Werewolf, Hybrid Form","Werewolf, Wolf Form",53.8,46.2,46.2
+Ape,Crocodile,53.9,46.1,46.1
+Bandit Captain,Mummy,53.9,46.1,46.1
+Basilisk,Griffon,53.9,46.1,46.1
+Commoner,Vulture,46.1,53.9,46.1
+Constrictor Snake,Dust Mephit,53.9,46.1,46.1
+Deep Gnome (Svirfneblin),Giant Owl,53.9,46.1,46.1
+Giant Crab,Magmin,53.9,46.1,46.1
+Giant Owl,Swarm of Ravens,46.1,53.9,46.1
+Giant Shark,Treant,53.9,46.1,46.1
+Gibbering Mouther,"Weretiger, Human Form",53.9,46.1,46.1
+Gold Dragon Wyrmling,"Weretiger, Tiger Form",46.1,53.9,46.1
+Green Dragon Wyrmling,Mimic,46.1,53.9,46.1
+Half-Red Dragon Veteran,Silver Dragon Wyrmling,53.9,46.1,46.1
+Half-Red Dragon Veteran,Vampire Spawn,46.1,53.9,46.1
+Hippogriff,Rust Monster,53.9,46.1,46.1
+Imp,Skeleton,46.1,53.9,46.1
+Roper,Young Bronze Dragon,53.9,46.1,46.1
+Shambling Mound,Shield Guardian,46.1,53.9,46.1
+Aboleth,Hezrou,54.0,46.0,46.0
+Animated Armor,"Werewolf, Hybrid Form",46.0,54.0,46.0
+Berserker,Ghost,54.0,46.0,46.0
+Bone Devil,Shield Guardian,54.0,46.0,46.0
+Darkmantle,Ghoul,46.0,54.0,46.0
+Drider,"Wereboar, Human Form",46.0,54.0,46.0
+Giant Bat,Giant Goat,46.0,54.0,46.0
+Giant Boar,Merrow,54.0,46.0,46.0
+Giant Spider,Grick,46.0,54.0,46.0
+Giant Spider,Phase Spider,54.0,46.0,46.0
+Giant Spider,Warhorse Skeleton,46.0,54.0,46.0
+Giant Wolf Spider,Noble,46.0,54.0,46.0
+Gibbering Mouther,Silver Dragon Wyrmling,46.0,54.0,46.0
+Gynosphinx,Young Green Dragon,46.0,54.0,46.0
+Hill Giant,Shield Guardian,54.0,46.0,46.0
+Medusa,Ogre,46.0,54.0,46.0
+Roc,Storm Giant,46.0,54.0,46.0
+Ancient Green Dragon,Dragon Turtle,54.1,45.9,45.9
+Azer,Ghast,54.1,45.9,45.9
+Bearded Devil,Giant Scorpion,45.9,54.1,45.9
+Constrictor Snake,Elk,54.1,45.9,45.9
+Cultist,Steam Mephit,54.1,45.9,45.9
+Drow,Scout,54.1,45.9,45.9
+Flying Sword,Thug,45.9,54.1,45.9
+Ghoul,Swarm of Spiders,45.9,54.1,45.9
+Giant Rat,Mule,54.1,45.9,45.9
+Giant Rat (Diseased),Quasit,45.9,54.1,45.9
+Lizardfolk,"Wererat, Hybrid Form",45.9,54.1,45.9
+Pegasus,Vampire Spawn,54.1,45.9,45.9
+Scout,Swarm of Bats,45.9,54.1,45.9
+Warhorse,Warhorse Skeleton,45.9,54.1,45.9
+"Weretiger, Hybrid Form","Weretiger, Tiger Form",54.1,45.9,45.9
+Air Elemental,"Vampire, Bat Form",54.2,45.8,45.8
+Ankheg,Basilisk,45.8,54.2,45.8
+Axe Beak,Gnoll,45.8,54.2,45.8
+Axe Beak,Shadow,45.8,54.2,45.8
+Blue Dragon Wyrmling,"Wereboar, Human Form",54.2,45.8,45.8
+Bronze Dragon Wyrmling,Giant Boar,54.2,45.8,45.8
+Copper Dragon Wyrmling,Warhorse,54.2,45.8,45.8
+Deva,Water Elemental,45.8,54.2,45.8
+Djinni,Erinyes,45.8,54.2,45.8
+Gelatinous Cube,Veteran,54.2,45.8,45.8
+Ghast,Giant Boar,54.2,45.8,45.8
+Giant Owl,Thug,45.8,54.2,45.8
+Gibbering Mouther,Unicorn,45.8,54.2,45.8
+Grimlock,Sahuagin,45.8,54.2,45.8
+Grimlock,Zombie,45.8,54.2,45.8
+Half-Red Dragon Veteran,"Wereboar, Hybrid Form",54.2,45.8,45.8
+Lizardfolk,Spy,45.8,54.2,45.8
+Saber-Toothed Tiger,Sea Hag,54.2,45.8,45.8
+Satyr,Swarm of Centipedes,54.2,45.8,45.8
+Animated Armor,Tiger,54.3,45.7,45.7
+Ape,"Wererat, Hybrid Form",45.7,54.3,45.7
+Berserker,Gibbering Mouther,45.7,54.3,45.7
+Chain Devil,Gladiator,54.3,45.7,45.7
+Crocodile,Spy,54.3,45.7,45.7
+Cultist,Goblin,45.7,54.3,45.7
+Draft Horse,Lion,45.7,54.3,45.7
+Draft Horse,Swarm of Beetles,45.7,54.3,45.7
+Giant Badger,Giant Wolf Spider,54.3,45.7,45.7
+Giant Bat,Orc,45.7,54.3,45.7
+Giant Wolf Spider,Pony,45.7,54.3,45.7
+Gynosphinx,Young Black Dragon,54.3,45.7,45.7
+Harpy,Swarm of Beetles,54.3,45.7,45.7
+Harpy,Swarm of Insects,54.3,45.7,45.7
+Hippogriff,Thug,54.3,45.7,45.7
+Knight,Winter Wolf,45.7,54.3,45.7
+Marilith,Young Blue Dragon,54.3,45.7,45.7
+Riding Horse,Shadow,45.7,54.3,45.7
+Adult Blue Dragon,Purple Worm,54.4,45.6,45.6
+Assassin,"Wereboar, Boar Form",45.6,54.4,45.6
+Axe Beak,Swarm of Rats,54.4,45.6,45.6
+Flying Sword,Hippogriff,45.6,54.4,45.6
+Ghost,Spirit Naga,45.6,54.4,45.6
+Ghost,Vampire Spawn,54.4,45.6,45.6
+Glabrezu,Marilith,45.6,54.4,45.6
+Gladiator,Green Hag,45.6,54.4,45.6
+Gold Dragon Wyrmling,Nightmare,45.6,54.4,45.6
+Half-Red Dragon Veteran,Ogre,45.6,54.4,45.6
+Mage,Swarm of Spiders,54.4,45.6,45.6
+Mage,Swarm of Wasps,54.4,45.6,45.6
+Rhinoceros,"Wereboar, Boar Form",45.6,54.4,45.6
+Swarm of Poisonous Snakes,"Werewolf, Hybrid Form",45.6,54.4,45.6
+Adult Bronze Dragon,Purple Worm,45.5,54.5,45.5
+Ape,"Wererat, Rat Form",45.5,54.5,45.5
+Assassin,Rhinoceros,54.5,45.5,45.5
+Berserker,Vampire Spawn,45.5,54.5,45.5
+Black Pudding,Giant Hyena,45.5,54.5,45.5
+Flesh Golem,Minotaur Skeleton,54.5,45.5,45.5
+Giant Bat,Gnoll,54.5,45.5,45.5
+Giant Octopus,Griffon,45.5,54.5,45.5
+Giant Vulture,"Wererat, Rat Form",45.5,54.5,45.5
+Griffon,Saber-Toothed Tiger,45.5,54.5,45.5
+Hell Hound,Mimic,54.5,45.5,45.5
+Knight,Spirit Naga,54.5,45.5,45.5
+"Vampire, Vampire Form","Werebear, Hybrid Form",45.5,54.5,45.5
+Archmage,Doppelganger,54.6,45.4,45.4
+Azer,Giant Boar,45.4,54.6,45.4
+Bandit Captain,Griffon,54.6,45.4,45.4
+Berserker,"Wereboar, Human Form",54.6,45.4,45.4
+Black Dragon Wyrmling,Black Pudding,45.4,54.6,45.4
+Drider,Ghost,45.4,54.6,45.4
+Flying Sword,Rust Monster,45.4,54.6,45.4
+Giant Elk,Rhinoceros,45.4,54.6,45.4
+Giant Elk,Sea Hag,54.6,45.4,45.4
+Knight,Unicorn,54.6,45.4,45.4
+Lion,Specter,54.6,45.4,45.4
+Mammoth,Young Blue Dragon,54.6,45.4,45.4
+Panther,Skeleton,54.6,45.4,45.4
+Pony,Skeleton,54.6,45.4,45.4
+Bandit,Giant Weasel,45.3,54.7,45.3
+Brass Dragon Wyrmling,Swarm of Ravens,54.7,45.3,45.3
+Camel,Mule,45.3,54.7,45.3
+Cockatrice,Drow,45.3,54.7,45.3
+Cultist,Quasit,54.7,45.3,45.3
+Deep Gnome (Svirfneblin),Giant Goat,45.3,54.7,45.3
+Draft Horse,Harpy,45.3,54.7,45.3
+Guardian Naga,"Vampire, Vampire Form",45.3,54.7,45.3
+Hippogriff,Swarm of Insects,45.3,54.7,45.3
+Manticore,Rhinoceros,45.3,54.7,45.3
+Mummy,Veteran,45.3,54.7,45.3
+Panther,Sahuagin,54.7,45.3,45.3
+Roper,Treant,54.7,45.3,45.3
+Treant,Young Bronze Dragon,54.7,45.3,45.3
+Adult Brass Dragon,Adult Copper Dragon,45.2,54.8,45.2
+Axe Beak,Crocodile,45.2,54.8,45.2
+Azer,Bronze Dragon Wyrmling,45.2,54.8,45.2
+Basilisk,Mummy,54.8,45.2,45.2
+Black Pudding,Salamander,54.8,45.2,45.2
+Blue Dragon Wyrmling,Ghost,54.8,45.2,45.2
+Fire Elemental,Minotaur Skeleton,54.8,45.2,45.2
+Giant Boar,Swarm of Quippers,54.8,45.2,45.2
+Giant Constrictor Snake,"Wereboar, Boar Form",54.8,45.2,45.2
+Giant Octopus,Mummy,45.2,54.8,45.2
+Gladiator,Otyugh,45.2,54.8,45.2
+Lamia,Minotaur,45.2,54.8,45.2
+Lizardfolk,"Wererat, Rat Form",45.2,54.8,45.2
+Reef Shark,Swarm of Ravens,45.2,54.8,45.2
+Rust Monster,"Wererat, Human Form",45.2,54.8,45.2
+Satyr,Swarm of Spiders,54.8,45.2,45.2
+"Werewolf, Wolf Form",Will-o'-Wisp,45.2,54.8,45.2
+Basilisk,Saber-Toothed Tiger,45.1,54.9,45.1
+Black Pudding,Ghast,54.9,45.1,45.1
+Couatl,Elephant,45.1,54.9,45.1
+Drider,Half-Red Dragon Veteran,45.1,54.9,45.1
+Green Dragon Wyrmling,Swarm of Quippers,54.9,45.1,45.1
+Harpy,Specter,45.1,54.9,45.1
+Nightmare,Plesiosaurus,45.1,54.9,45.1
+Plesiosaurus,Red Dragon Wyrmling,54.9,45.1,45.1
+Spy,"Wererat, Rat Form",54.9,45.1,45.1
+Young Brass Dragon,Young Copper Dragon,45.1,54.9,45.1
+Ape,Orc,45.0,55.0,45.0
+Draft Horse,Swarm of Centipedes,45.0,55.0,45.0
+Ettin,Wyvern,45.0,55.0,45.0
+Giant Wasp,Sahuagin,55.0,45.0,45.0
+Half-Red Dragon Veteran,Medusa,55.0,45.0,45.0
+Half-Red Dragon Veteran,"Weretiger, Human Form",45.0,55.0,45.0
+Hydra,Young Brass Dragon,55.0,45.0,45.0
+Lamia,Wraith,45.0,55.0,45.0
+Mummy Lord,Young Brass Dragon,55.0,45.0,45.0
+Copper Dragon Wyrmling,Grick,44.9,55.1,44.9
+Dretch,Giant Weasel,44.9,55.1,44.9
+Giant Bat,Giant Owl,55.1,44.9,44.9
+Giant Constrictor Snake,Vampire Spawn,55.1,44.9,44.9
+Giant Lizard,Giant Vulture,55.1,44.9,44.9
+Hyena,Mastiff,44.9,55.1,44.9
+Ice Mephit,Sahuagin,44.9,55.1,44.9
+Lich,Young Black Dragon,55.1,44.9,44.9
+Nightmare,"Weretiger, Tiger Form",55.1,44.9,44.9
+Oni,Wraith,44.9,55.1,44.9
+Orc,Specter,44.9,55.1,44.9
+Tiger,"Werewolf, Wolf Form",44.9,55.1,44.9
+Young Black Dragon,Young Green Dragon,44.9,55.1,44.9
+Ape,Giant Owl,55.2,44.8,44.8
+Ape,Shadow,55.2,44.8,44.8
+Ape,Spy,44.8,55.2,44.8
+Awakened Tree,Nightmare,55.2,44.8,44.8
+Bugbear,Giant Hyena,44.8,55.2,44.8
+Chimera,Otyugh,55.2,44.8,44.8
+Clay Golem,Young White Dragon,44.8,55.2,44.8
+Dire Wolf,Giant Hyena,55.2,44.8,44.8
+Gibbering Mouther,Veteran,55.2,44.8,44.8
+Gold Dragon Wyrmling,"Weretiger, Hybrid Form",44.8,55.2,44.8
+Knight,"Weretiger, Tiger Form",44.8,55.2,44.8
+Lamia,Vrock,55.2,44.8,44.8
+Phase Spider,Warhorse Skeleton,44.8,55.2,44.8
+Saber-Toothed Tiger,Veteran,55.2,44.8,44.8
+Shadow,"Wererat, Hybrid Form",55.2,44.8,44.8
+Swarm of Spiders,Warhorse,55.2,44.8,44.8
+Ape,Darkmantle,55.3,44.7,44.7
+Berserker,Ogre,44.7,55.3,44.7
+Blink Dog,Hobgoblin,44.7,55.3,44.7
+Clay Golem,Lich,44.7,55.3,44.7
+Deva,Elephant,55.3,44.7,44.7
+Dust Mephit,Giant Poisonous Snake,44.7,55.3,44.7
+Erinyes,Roper,44.7,55.3,44.7
+Ghoul,Harpy,44.7,55.3,44.7
+Giant Bat,Lizardfolk,55.3,44.7,44.7
+Giant Bat,Spy,44.7,55.3,44.7
+Giant Eagle,Satyr,55.3,44.7,44.7
+Giant Eagle,Swarm of Beetles,55.3,44.7,44.7
+Giant Eagle,Swarm of Insects,55.3,44.7,44.7
+Manticore,Veteran,55.3,44.7,44.7
+Noble,Sahuagin,44.7,55.3,44.7
+Reef Shark,Thug,44.7,55.3,44.7
+"Wererat, Hybrid Form","Wererat, Rat Form",55.3,44.7,44.7
+Bandit Captain,Giant Elk,44.6,55.4,44.6
+Berserker,Half-Red Dragon Veteran,44.6,55.4,44.6
+Black Pudding,Giant Scorpion,55.4,44.6,44.6
+Blue Dragon Wyrmling,"Wereboar, Boar Form",44.6,55.4,44.6
+Boar,Violet Fungus,55.4,44.6,44.6
+Bugbear,Mimic,44.6,55.4,44.6
+Chain Devil,Otyugh,44.6,55.4,44.6
+Deep Gnome (Svirfneblin),Reef Shark,55.4,44.6,44.6
+Duergar,Warhorse Skeleton,44.6,55.4,44.6
+Giant Eagle,Lion,55.4,44.6,44.6
+Giant Goat,Hippogriff,55.4,44.6,44.6
+Giant Weasel,Gray Ooze,44.6,55.4,44.6
+Gibbering Mouther,Ogre Zombie,44.6,55.4,44.6
+Gorgon,Stone Giant,44.6,55.4,44.6
+Awakened Tree,Plesiosaurus,44.5,55.5,44.5
+Axe Beak,Giant Vulture,44.5,55.5,44.5
+Bandit Captain,Saber-Toothed Tiger,44.5,55.5,44.5
+Behir,Cloud Giant,44.5,55.5,44.5
+Deep Gnome (Svirfneblin),Shadow,55.5,44.5,44.5
+Doppelganger,Giant Octopus,55.5,44.5,44.5
+Elephant,Killer Whale,44.5,55.5,44.5
+Flying Sword,Reef Shark,55.5,44.5,44.5
+Flying Sword,Swarm of Ravens,44.5,55.5,44.5
+Imp,Wolf,55.5,44.5,44.5
+Mage,Warhorse,44.5,55.5,44.5
+Axe Beak,Lizardfolk,44.4,55.6,44.4
+Bandit,Noble,44.4,55.6,44.4
+Bearded Devil,Black Dragon Wyrmling,55.6,44.4,44.4
+Blue Dragon Wyrmling,Half-Red Dragon Veteran,44.4,55.6,44.4
+Brown Bear,Warhorse Skeleton,55.6,44.4,44.4
+Darkmantle,Spy,55.6,44.4,44.4
+Darkmantle,Swarm of Ravens,44.4,55.6,44.4
+Drow,Swarm of Bats,44.4,55.6,44.4
+Ghast,Green Dragon Wyrmling,44.4,55.6,44.4
+Giant Crocodile,Shield Guardian,55.6,44.4,44.4
+Giant Sea Horse,Sahuagin,55.6,44.4,44.4
+Giant Weasel,Skeleton,44.4,55.6,44.4
+Assassin,Berserker,55.7,44.3,44.3
+Black Pudding,Merrow,55.7,44.3,44.3
+Bronze Dragon Wyrmling,Giant Octopus,44.3,55.7,44.3
+Brown Bear,Worg,55.7,44.3,44.3
+Bugbear,Will-o'-Wisp,55.7,44.3,44.3
+Cockatrice,Giant Poisonous Snake,44.3,55.7,44.3
+Crocodile,Flying Sword,55.7,44.3,44.3
+Cult Fanatic,Swarm of Bats,55.7,44.3,44.3
+Ettercap,Swarm of Poisonous Snakes,44.3,55.7,44.3
+Flying Sword,Orc,44.3,55.7,44.3
+Giant Bat,"Wererat, Rat Form",44.3,55.7,44.3
+Giant Crab,Panther,55.7,44.3,44.3
+Giant Eagle,Harpy,55.7,44.3,44.3
+Giant Fire Beetle,Vulture,55.7,44.3,44.3
+Giant Scorpion,Hell Hound,44.3,55.7,44.3
+Giant Scorpion,Will-o'-Wisp,55.7,44.3,44.3
+Gorgon,Roper,55.7,44.3,44.3
+Grick,Warhorse Skeleton,55.7,44.3,44.3
+Imp,Magma Mephit,55.7,44.3,44.3
+Medusa,Silver Dragon Wyrmling,55.7,44.3,44.3
+Satyr,Swarm of Wasps,55.7,44.3,44.3
+Skeleton,Wolf,55.7,44.3,44.3
+Tiger,Will-o'-Wisp,44.3,55.7,44.3
+Aboleth,Young Black Dragon,44.2,55.8,44.2
+Baboon,Jackal,55.8,44.2,44.2
+Blood Hawk,Camel,55.8,44.2,44.2
+Blood Hawk,Cultist,55.8,44.2,44.2
+Bulette,Young Blue Dragon,44.2,55.8,44.2
+Chuul,Gladiator,44.2,55.8,44.2
+Cultist,Giant Badger,44.2,55.8,44.2
+Dire Wolf,Hell Hound,55.8,44.2,44.2
+Dire Wolf,Mimic,55.8,44.2,44.2
+Ghoul,Lion,44.2,55.8,44.2
+Giant Spider,Worg,44.2,55.8,44.2
+Goat,Stirge,55.8,44.2,44.2
+Mimic,Salamander,44.2,55.8,44.2
+Rust Monster,Swarm of Spiders,44.2,55.8,44.2
+Axe Beak,Giant Owl,44.1,55.9,44.1
+Bearded Devil,Green Dragon Wyrmling,44.1,55.9,44.1
+Gelatinous Cube,Giant Constrictor Snake,44.1,55.9,44.1
+Ghoul,Rust Monster,55.9,44.1,44.1
+Giant Frog,Panther,55.9,44.1,44.1
+Goblin,Ice Mephit,44.1,55.9,44.1
+Griffon,Mummy,55.9,44.1,44.1
+Grimlock,Skeleton,44.1,55.9,44.1
+Hippogriff,Swarm of Beetles,44.1,55.9,44.1
+Imp,Magmin,55.9,44.1,44.1
+Blink Dog,Giant Poisonous Snake,56.0,44.0,44.0
+Boar,Quasit,56.0,44.0,44.0
+Bronze Dragon Wyrmling,Mimic,56.0,44.0,44.0
+Brown Bear,Wight,56.0,44.0,44.0
+Chain Devil,Chimera,44.0,56.0,44.0
+Doppelganger,Mummy,44.0,56.0,44.0
+Draft Horse,Giant Eagle,56.0,44.0,44.0
+Dryad,Giant Wolf Spider,44.0,56.0,44.0
+Flying Sword,Gnoll,56.0,44.0,44.0
+Ghost,"Wereboar, Boar Form",56.0,44.0,44.0
+Ghoul,Orc,56.0,44.0,44.0
+Giant Toad,Ochre Jelly,44.0,56.0,44.0
+Gladiator,Rakshasa,56.0,44.0,44.0
+Griffon,Sea Hag,44.0,56.0,44.0
+Half-Red Dragon Veteran,Pegasus,56.0,44.0,44.0
+Hobgoblin,Shadow,44.0,56.0,44.0
+Orc,Thug,56.0,44.0,44.0
+Rust Monster,Swarm of Beetles,44.0,56.0,44.0
+Ape,Rust Monster,43.9,56.1,43.9
+Chain Devil,Minotaur,56.1,43.9,43.9
+Constrictor Snake,Sahuagin,56.1,43.9,43.9
+Giant Goat,"Wererat, Human Form",43.9,56.1,43.9
+Giant Lizard,Spy,43.9,56.1,43.9
+Griffon,Succubus/Incubus,56.1,43.9,43.9
+Hippogriff,Swarm of Spiders,43.9,56.1,43.9
+Medusa,"Wereboar, Hybrid Form",56.1,43.9,43.9
+Pony,Zombie,56.1,43.9,43.9
+"Werewolf, Hybrid Form",Will-o'-Wisp,43.9,56.1,43.9
+Adult Black Dragon,Adult Green Dragon,43.8,56.2,43.8
+Black Pudding,Swarm of Quippers,56.2,43.8,43.8
+Brass Dragon Wyrmling,Specter,43.8,56.2,43.8
+Constrictor Snake,Drow,43.8,56.2,43.8
+Dryad,Goblin,43.8,56.2,43.8
+Elk,Scout,43.8,56.2,43.8
+Giant Crab,Giant Wasp,56.2,43.8,43.8
+Giant Rat (Diseased),Pseudodragon,56.2,43.8,43.8
+Killer Whale,Xorn,56.2,43.8,43.8
+Lizardfolk,Orc,43.8,56.2,43.8
+Rust Monster,Thug,56.2,43.8,43.8
+Succubus/Incubus,Veteran,43.8,56.2,43.8
+Unicorn,Winter Wolf,43.8,56.2,43.8
+Adult Silver Dragon,Iron Golem,56.3,43.7,43.7
+Azer,Dire Wolf,43.7,56.3,43.7
+Bandit,Giant Badger,56.3,43.7,43.7
+Bandit Captain,Veteran,43.7,56.3,43.7
+Brown Bear,White Dragon Wyrmling,43.7,56.3,43.7
+Bugbear,Hell Hound,43.7,56.3,43.7
+Clay Golem,Gynosphinx,43.7,56.3,43.7
+Draft Horse,Warhorse,43.7,56.3,43.7
+Fire Elemental,Red Dragon Wyrmling,56.3,43.7,43.7
+Giant Elk,Saber-Toothed Tiger,56.3,43.7,43.7
+Half-Red Dragon Veteran,"Wereboar, Boar Form",56.3,43.7,43.7
+Hippogriff,Swarm of Centipedes,43.7,56.3,43.7
+Nightmare,Red Dragon Wyrmling,43.7,56.3,43.7
+Rhinoceros,Silver Dragon Wyrmling,56.3,43.7,43.7
+Tiger,White Dragon Wyrmling,56.3,43.7,43.7
+Triceratops,Young White Dragon,56.3,43.7,43.7
+"Wereboar, Boar Form","Weretiger, Human Form",43.7,56.3,43.7
+Bandit,Pony,43.6,56.4,43.6
+Centaur,Salamander,56.4,43.6,43.6
+Chuul,Oni,56.4,43.6,43.6
+Giant Bat,Hippogriff,43.6,56.4,43.6
+Giant Owl,Rust Monster,43.6,56.4,43.6
+Gynosphinx,Lich,56.4,43.6,43.6
+Lizardfolk,Rust Monster,43.6,56.4,43.6
+Orc,Satyr,43.6,56.4,43.6
+Priest,Wolf,56.4,43.6,43.6
+Swarm of Wasps,Warhorse,56.4,43.6,43.6
+"Wereboar, Boar Form","Wereboar, Hybrid Form",56.4,43.6,43.6
+Ancient Gold Dragon,Ancient Red Dragon,56.5,43.5,43.5
+Ape,Brass Dragon Wyrmling,43.5,56.5,43.5
+Ape,Draft Horse,43.5,56.5,43.5
+Barbed Devil,Winter Wolf,56.5,43.5,43.5
+Bearded Devil,Swarm of Quippers,43.5,56.5,43.5
+Bone Devil,Mummy Lord,43.5,56.5,43.5
+Brown Bear,Tiger,43.5,56.5,43.5
+Death Dog,Giant Spider,43.5,56.5,43.5
+Draft Horse,Swarm of Wasps,43.5,56.5,43.5
+Ghoul,Giant Eagle,43.5,56.5,43.5
+Giant Badger,Imp,43.5,56.5,43.5
+Giant Wasp,Magmin,56.5,43.5,43.5
+Goblin,Pony,43.5,56.5,43.5
+Mage,Specter,43.5,56.5,43.5
+Magma Mephit,Sahuagin,43.5,56.5,43.5
+Noble,Skeleton,43.5,56.5,43.5
+Riding Horse,Swarm of Rats,43.5,56.5,43.5
+Young Gold Dragon,Young Red Dragon,56.5,43.5,43.5
+Animated Armor,Ghast,43.4,56.6,43.4
+Ape,Ghoul,43.4,56.6,43.4
+Axe Beak,Flying Sword,43.4,56.6,43.4
+Basilisk,Veteran,43.4,56.6,43.4
+Bugbear,Centaur,43.4,56.6,43.4
+Constrictor Snake,Priest,43.4,56.6,43.4
+Crocodile,Thug,43.4,56.6,43.4
+Djinni,Young Green Dragon,56.6,43.4,43.4
+Giant Elk,Gibbering Mouther,43.4,56.6,43.4
+Giant Weasel,Zombie,43.4,56.6,43.4
+Knight,Troll,43.4,56.6,43.4
+Magma Mephit,Skeleton,43.4,56.6,43.4
+Shambling Mound,Young Brass Dragon,43.4,56.6,43.4
+Ancient Black Dragon,Ancient Green Dragon,56.7,43.3,43.3
+Androsphinx,Cloud Giant,43.3,56.7,43.3
+Animated Armor,Gargoyle,43.3,56.7,43.3
+Archmage,Basilisk,43.3,56.7,43.3
+Camel,Quasit,43.3,56.7,43.3
+Couatl,Water Elemental,43.3,56.7,43.3
+Dust Mephit,Priest,43.3,56.7,43.3
+Elk,Hobgoblin,43.3,56.7,43.3
+Ettercap,Wight,56.7,43.3,43.3
+Flesh Golem,Invisible Stalker,43.3,56.7,43.3
+Giant Eagle,Swarm of Wasps,56.7,43.3,43.3
+Half-Red Dragon Veteran,Rhinoceros,56.7,43.3,43.3
+Rakshasa,Wyvern,56.7,43.3,43.3
+Saber-Toothed Tiger,Silver Dragon Wyrmling,43.3,56.7,43.3
+Young Copper Dragon,Young White Dragon,43.3,56.7,43.3
+Animated Armor,Warhorse Skeleton,56.8,43.2,43.2
+Awakened Shrub,Deer,56.8,43.2,43.2
+Awakened Tree,Barbed Devil,56.8,43.2,43.2
+Berserker,Owlbear,43.2,56.8,43.2
+Chimera,Elephant,43.2,56.8,43.2
+Deva,Killer Whale,43.2,56.8,43.2
+Doppelganger,Succubus/Incubus,43.2,56.8,43.2
+Draft Horse,Satyr,43.2,56.8,43.2
+Dretch,Noble,43.2,56.8,43.2
+Gargoyle,Will-o'-Wisp,43.2,56.8,43.2
+Gelatinous Cube,Sea Hag,56.8,43.2,43.2
+Giant Boar,Giant Octopus,43.2,56.8,43.2
+Giant Vulture,Lizardfolk,56.8,43.2,43.2
+Gorgon,Mammoth,43.2,56.8,43.2
+Hippogriff,Swarm of Ravens,56.8,43.2,43.2
+Hobgoblin,Lizardfolk,43.2,56.8,43.2
+Hobgoblin,Swarm of Rats,56.8,43.2,43.2
+Hyena,Kobold,43.2,56.8,43.2
+Ice Mephit,Imp,56.8,43.2,43.2
+Triceratops,Young Green Dragon,43.2,56.8,43.2
+Water Elemental,Xorn,56.8,43.2,43.2
+Adult Gold Dragon,Adult Red Dragon,56.9,43.1,43.1
+Azer,Black Pudding,43.1,56.9,43.1
+Bulette,Young Bronze Dragon,56.9,43.1,43.1
+Centaur,Polar Bear,56.9,43.1,43.1
+Chuul,"Werebear, Human Form",56.9,43.1,43.1
+Cultist,Dryad,43.1,56.9,43.1
+Cultist,Giant Wolf Spider,43.1,56.9,43.1
+Darkmantle,Giant Goat,56.9,43.1,43.1
+Death Dog,Duergar,43.1,56.9,43.1
+Dust Mephit,Skeleton,56.9,43.1,43.1
+Lich,Triceratops,43.1,56.9,43.1
+Panther,Riding Horse,43.1,56.9,43.1
+Sea Hag,"Wereboar, Human Form",43.1,56.9,43.1
+Silver Dragon Wyrmling,"Wereboar, Human Form",56.9,43.1,43.1
+Animated Armor,Swarm of Poisonous Snakes,43.0,57.0,43.0
+Bearded Devil,Bronze Dragon Wyrmling,43.0,57.0,43.0
+Constrictor Snake,Magmin,57.0,43.0,43.0
+Cult Fanatic,Hobgoblin,57.0,43.0,43.0
+Gargoyle,Swarm of Poisonous Snakes,57.0,43.0,43.0
+Gelatinous Cube,Owlbear,43.0,57.0,43.0
+Ghoul,Swarm of Beetles,43.0,57.0,43.0
+Giant Boar,Giant Scorpion,57.0,43.0,43.0
+Giant Crab,Sahuagin,57.0,43.0,43.0
+Giant Wasp,Panther,57.0,43.0,43.0
+Green Dragon Wyrmling,Merrow,43.0,57.0,43.0
+Grimlock,Ice Mephit,57.0,43.0,43.0
+Hell Hound,Swarm of Quippers,57.0,43.0,43.0
+Knight,"Weretiger, Hybrid Form",43.0,57.0,43.0
+Sea Hag,Veteran,57.0,43.0,43.0
+Assassin,"Wereboar, Human Form",57.1,42.9,42.9
+Axe Beak,Hobgoblin,57.1,42.9,42.9
+Berserker,Drider,57.1,42.9,42.9
+Cloaker,Gold Dragon Wyrmling,57.1,42.9,42.9
+Cloaker,Winter Wolf,57.1,42.9,42.9
+Cockatrice,Scout,42.9,57.1,42.9
+Crocodile,Darkmantle,57.1,42.9,42.9
+Ettin,Minotaur,42.9,57.1,42.9
+Flying Sword,Giant Bat,57.1,42.9,42.9
+Giant Crab,Priest,42.9,57.1,42.9
+Giant Frog,Gray Ooze,57.1,42.9,42.9
+Giant Hyena,Polar Bear,57.1,42.9,42.9
+Giant Vulture,Swarm of Ravens,42.9,57.1,42.9
+Gray Ooze,Panther,57.1,42.9,42.9
+Griffon,Hunter Shark,42.9,57.1,42.9
+Thug,"Wererat, Human Form",42.9,57.1,42.9
+Bone Devil,Giant Crocodile,57.2,42.8,42.8
+Bulette,Marilith,42.8,57.2,42.8
+Cockatrice,Wolf,57.2,42.8,42.8
+Doppelganger,Griffon,42.8,57.2,42.8
+Drow,Swarm of Rats,42.8,57.2,42.8
+Dust Mephit,Scout,42.8,57.2,42.8
+Earth Elemental,Hezrou,57.2,42.8,42.8
+Ghoul,Mage,42.8,57.2,42.8
+Ghoul,Swarm of Ravens,57.2,42.8,42.8
+Giant Crocodile,Young Copper Dragon,42.8,57.2,42.8
+Shadow,Spy,57.2,42.8,42.8
+Swarm of Quippers,Will-o'-Wisp,57.2,42.8,42.8
+Vrock,Wyvern,42.8,57.2,42.8
+"Werebear, Human Form",Wraith,42.8,57.2,42.8
+Animated Armor,"Werewolf, Wolf Form",42.7,57.3,42.7
+Berserker,Rhinoceros,57.3,42.7,42.7
+Black Bear,Priest,57.3,42.7,42.7
+Eagle,Giant Centipede,57.3,42.7,42.7
+Ettercap,Ochre Jelly,57.3,42.7,42.7
+Ghoul,Thug,57.3,42.7,42.7
+Giant Rat,Pseudodragon,57.3,42.7,42.7
+Goblin,Gray Ooze,42.7,57.3,42.7
+Ice Mephit,Skeleton,42.7,57.3,42.7
+Pit Fiend,Solar,57.3,42.7,42.7
+Swarm of Insects,Swarm of Wasps,57.3,42.7,42.7
+"Wereboar, Hybrid Form","Weretiger, Human Form",42.7,57.3,42.7
+Basilisk,Hunter Shark,42.6,57.4,42.6
+Chain Devil,Rakshasa,57.4,42.6,42.6
+Constrictor Snake,Giant Sea Horse,57.4,42.6,42.6
+Dire Wolf,Green Dragon Wyrmling,57.4,42.6,42.6
+Dust Mephit,Elk,57.4,42.6,42.6
+Earth Elemental,Lich,42.6,57.4,42.6
+Efreeti,Frost Giant,42.6,57.4,42.6
+Ghost,Silver Dragon Wyrmling,57.4,42.6,42.6
+Giant Boar,Green Dragon Wyrmling,57.4,42.6,42.6
+Giant Eagle,Swarm of Spiders,57.4,42.6,42.6
+Grick,Tiger,42.6,57.4,42.6
+Manticore,Saber-Toothed Tiger,57.4,42.6,42.6
+Satyr,Swarm of Insects,57.4,42.6,42.6
+Stone Giant,Young Blue Dragon,42.6,57.4,42.6
+Swarm of Centipedes,Swarm of Spiders,57.4,42.6,42.6
+Aboleth,Lich,42.5,57.5,42.5
+Bearded Devil,"Werewolf, Hybrid Form",57.5,42.5,42.5
+Crocodile,Giant Goat,57.5,42.5,42.5
+Dire Wolf,Doppelganger,42.5,57.5,42.5
+Draft Horse,Mage,42.5,57.5,42.5
+Ettin,Wraith,42.5,57.5,42.5
+Giant Frog,Zombie,57.5,42.5,42.5
+Minotaur,Rakshasa,57.5,42.5,42.5
+Rust Monster,Swarm of Insects,42.5,57.5,42.5
+Adult Black Dragon,Cloud Giant,57.6,42.4,42.4
+Ankheg,Centaur,57.6,42.4,42.4
+Assassin,Blue Dragon Wyrmling,57.6,42.4,42.4
+Blink Dog,Giant Lizard,42.4,57.6,42.4
+Brass Dragon Wyrmling,Lion,42.4,57.6,42.4
+Bugbear,Merrow,42.4,57.6,42.4
+Commoner,Eagle,42.4,57.6,42.4
+Constrictor Snake,Giant Frog,57.6,42.4,42.4
+Deep Gnome (Svirfneblin),Gnoll,57.6,42.4,42.4
+Drow,Riding Horse,57.6,42.4,42.4
+Elephant,Xorn,57.6,42.4,42.4
+Giant Sea Horse,Giant Wasp,57.6,42.4,42.4
+Mummy,Sea Hag,42.4,57.6,42.4
+Shadow,"Wererat, Rat Form",57.6,42.4,42.4
+Swarm of Insects,Swarm of Spiders,57.6,42.4,42.4
+Swarm of Poisonous Snakes,White Dragon Wyrmling,57.6,42.4,42.4
+Swarm of Ravens,Thug,57.6,42.4,42.4
+Swarm of Ravens,Warhorse,42.4,57.6,42.4
+Young Black Dragon,Young White Dragon,57.6,42.4,42.4
+Acolyte,Kobold,42.3,57.7,42.3
+Adult Copper Dragon,Stone Golem,57.7,42.3,42.3
+Azer,Bugbear,57.7,42.3,42.3
+Blood Hawk,Boar,42.3,57.7,42.3
+Bone Devil,Hydra,42.3,57.7,42.3
+Bulette,Giant Ape,57.7,42.3,42.3
+Deep Gnome (Svirfneblin),Giant Vulture,57.7,42.3,42.3
+Deep Gnome (Svirfneblin),Thug,42.3,57.7,42.3
+Deer,Vulture,57.7,42.3,42.3
+Deva,Xorn,57.7,42.3,42.3
+Draft Horse,Swarm of Spiders,42.3,57.7,42.3
+Half-Red Dragon Veteran,Owlbear,42.3,57.7,42.3
+Harpy,Mage,57.7,42.3,42.3
+Hezrou,Lich,42.3,57.7,42.3
+Magma Mephit,Wolf,42.3,57.7,42.3
+Merrow,Mimic,57.7,42.3,42.3
+Orc,Swarm of Ravens,57.7,42.3,42.3
+Scout,Swarm of Rats,42.3,57.7,42.3
+Azer,Will-o'-Wisp,57.8,42.2,42.2
+Blood Hawk,Pseudodragon,57.8,42.2,42.2
+Bulette,Gorgon,57.8,42.2,42.2
+Deep Gnome (Svirfneblin),Swarm of Ravens,42.2,57.8,42.2
+Dust Mephit,Wolf,57.8,42.2,42.2
+Giant Crab,Gray Ooze,57.8,42.2,42.2
+Giant Wolf Spider,Goblin,57.8,42.2,42.2
+Giant Wolf Spider,Ice Mephit,42.2,57.8,42.2
+Imp,Riding Horse,42.2,57.8,42.2
+Lamia,Rakshasa,42.2,57.8,42.2
+Magmin,Wolf,57.8,42.2,42.2
+Polar Bear,Salamander,57.8,42.2,42.2
+Black Dragon Wyrmling,Green Dragon Wyrmling,42.1,57.9,42.1
+Black Pudding,Bugbear,57.9,42.1,42.1
+Erinyes,Young Bronze Dragon,42.1,57.9,42.1
+Giant Rat (Diseased),Mule,57.9,42.1,42.1
+Green Hag,Xorn,42.1,57.9,42.1
+Orc,Rust Monster,57.9,42.1,42.1
+Adult Blue Dragon,Fire Giant,58.0,42.0,42.0
+Cloaker,Ogre Zombie,58.0,42.0,42.0
+Constrictor Snake,Giant Crab,58.0,42.0,42.0
+Deep Gnome (Svirfneblin),Lizardfolk,58.0,42.0,42.0
+Elk,Wolf,58.0,42.0,42.0
+Flesh Golem,Red Dragon Wyrmling,58.0,42.0,42.0
+Ghost,"Weretiger, Human Form",42.0,58.0,42.0
+Giant Constrictor Snake,Silver Dragon Wyrmling,58.0,42.0,42.0
+Giant Sea Horse,Magmin,58.0,42.0,42.0
+Glabrezu,Stone Giant,58.0,42.0,42.0
+Lion,Satyr,58.0,42.0,42.0
+Silver Dragon Wyrmling,"Weretiger, Human Form",42.0,58.0,42.0
+Swarm of Insects,Warhorse,58.0,42.0,42.0
+Black Bear,Cult Fanatic,41.9,58.1,41.9
+Cockatrice,Skeleton,58.1,41.9,41.9
+Crocodile,Deep Gnome (Svirfneblin),58.1,41.9,41.9
+Crocodile,Reef Shark,58.1,41.9,41.9
+Flying Sword,Giant Owl,58.1,41.9,41.9
+Ghast,Hell Hound,41.9,58.1,41.9
+Giant Hyena,Green Dragon Wyrmling,58.1,41.9,41.9
+Noble,Wolf,41.9,58.1,41.9
+Specter,Worg,41.9,58.1,41.9
+Aboleth,Gynosphinx,41.8,58.2,41.8
+Ankheg,Polar Bear,58.2,41.8,41.8
+Ape,Deep Gnome (Svirfneblin),58.2,41.8,41.8
+Bandit Captain,Sea Hag,41.8,58.2,41.8
+Black Dragon Wyrmling,Dire Wolf,41.8,58.2,41.8
+Blue Dragon Wyrmling,Vampire Spawn,41.8,58.2,41.8
+Bronze Dragon Wyrmling,Polar Bear,41.8,58.2,41.8
+Brown Bear,Swarm of Poisonous Snakes,41.8,58.2,41.8
+Ghoul,Warhorse,41.8,58.2,41.8
+Giant Centipede,Kobold,58.2,41.8,41.8
+Giant Crab,Giant Frog,58.2,41.8,41.8
+Giant Wolf Spider,Magmin,41.8,58.2,41.8
+Green Dragon Wyrmling,Will-o'-Wisp,58.2,41.8,41.8
+Pegasus,Silver Dragon Wyrmling,58.2,41.8,41.8
+Adult Red Dragon,Roc,41.7,58.3,41.7
+Awakened Shrub,Giant Fire Beetle,58.3,41.7,41.7
+Awakened Tree,Cloaker,58.3,41.7,41.7
+Axe Beak,Darkmantle,41.7,58.3,41.7
+Basilisk,Manticore,41.7,58.3,41.7
+Black Bear,Swarm of Bats,41.7,58.3,41.7
+Black Dragon Wyrmling,Giant Boar,41.7,58.3,41.7
+Black Dragon Wyrmling,"Werewolf, Hybrid Form",58.3,41.7,41.7
+Blink Dog,Drow,58.3,41.7,41.7
+Brass Dragon Wyrmling,Mage,41.7,58.3,41.7
+Couatl,Xorn,58.3,41.7,41.7
+Cult Fanatic,Deep Gnome (Svirfneblin),41.7,58.3,41.7
+Deep Gnome (Svirfneblin),Giant Bat,58.3,41.7,41.7
+Dust Mephit,Riding Horse,41.7,58.3,41.7
+Ettercap,White Dragon Wyrmling,41.7,58.3,41.7
+Ettercap,Worg,58.3,41.7,41.7
+Gelatinous Cube,Manticore,58.3,41.7,41.7
+Gelatinous Cube,"Wereboar, Human Form",41.7,58.3,41.7
+Giant Owl,Gnoll,58.3,41.7,41.7
+Hippogriff,Lion,41.7,58.3,41.7
+Hippogriff,Warhorse,41.7,58.3,41.7
+Ice Devil,Stone Giant,58.3,41.7,41.7
+Medusa,Pegasus,58.3,41.7,41.7
+Reef Shark,Shadow,58.3,41.7,41.7
+Swarm of Beetles,Swarm of Wasps,58.3,41.7,41.7
+Swarm of Poisonous Snakes,Tiger,58.3,41.7,41.7
+Adult Copper Dragon,Adult White Dragon,41.6,58.4,41.6
+Adult Copper Dragon,Androsphinx,41.6,58.4,41.6
+Blue Dragon Wyrmling,Hunter Shark,58.4,41.6,41.6
+Boar,Dretch,41.6,58.4,41.6
+Bronze Dragon Wyrmling,Green Dragon Wyrmling,58.4,41.6,41.6
+Brown Bear,Grick,58.4,41.6,41.6
+Drow,Giant Lizard,41.6,58.4,41.6
+Erinyes,Treant,41.6,58.4,41.6
+Giant Boar,Salamander,41.6,58.4,41.6
+Giant Owl,Lizardfolk,58.4,41.6,41.6
+Minotaur,Wraith,58.4,41.6,41.6
+Nalfeshnee,Roc,41.6,58.4,41.6
+Pegasus,"Wereboar, Human Form",58.4,41.6,41.6
+Rust Monster,Swarm of Centipedes,41.6,58.4,41.6
+Vrock,Wraith,41.6,58.4,41.6
+Azer,Bearded Devil,58.5,41.5,41.5
+Bearded Devil,"Werewolf, Wolf Form",58.5,41.5,41.5
+Deep Gnome (Svirfneblin),Swarm of Insects,41.5,58.5,41.5
+Drider,Silver Dragon Wyrmling,41.5,58.5,41.5
+Ettin,Rakshasa,41.5,58.5,41.5
+Giant Elk,Veteran,58.5,41.5,41.5
+Giant Shark,Stone Giant,41.5,58.5,41.5
+Gibbering Mouther,Spirit Naga,41.5,58.5,41.5
+Rust Monster,Swarm of Wasps,41.5,58.5,41.5
+Blue Dragon Wyrmling,"Weretiger, Human Form",41.4,58.6,41.4
+Bronze Dragon Wyrmling,Doppelganger,41.4,58.6,41.4
+Bronze Dragon Wyrmling,Swarm of Quippers,58.6,41.4,41.4
+Giant Wolf Spider,Imp,41.4,58.6,41.4
+Noble,Pony,58.6,41.4,41.4
+Specter,Warhorse Skeleton,41.4,58.6,41.4
+Animated Armor,Worg,58.7,41.3,41.3
+Ape,Lizardfolk,58.7,41.3,41.3
+Awakened Tree,Gold Dragon Wyrmling,58.7,41.3,41.3
+Axe Beak,Giant Goat,41.3,58.7,41.3
+Azer,Hell Hound,41.3,58.7,41.3
+Bandit Captain,Manticore,41.3,58.7,41.3
+Crocodile,Shadow,58.7,41.3,41.3
+Dretch,Pony,41.3,58.7,41.3
+Ettin,Vrock,58.7,41.3,41.3
+Giant Owl,Shadow,58.7,41.3,41.3
+Gnoll,"Wererat, Hybrid Form",41.3,58.7,41.3
+Gray Ooze,Magmin,58.7,41.3,41.3
+Gray Ooze,Zombie,58.7,41.3,41.3
+Grick,Swarm of Poisonous Snakes,41.3,58.7,41.3
+Ogre Zombie,Winter Wolf,58.7,41.3,41.3
+Swarm of Centipedes,Warhorse,58.7,41.3,41.3
+Tiger,"Werewolf, Hybrid Form",41.3,58.7,41.3
+Ancient Black Dragon,Dragon Turtle,58.8,41.2,41.2
+Bandit,Grimlock,41.2,58.8,41.2
+Darkmantle,Reef Shark,58.8,41.2,41.2
+Giant Octopus,Salamander,58.8,41.2,41.2
+Giant Sea Horse,Riding Horse,41.2,58.8,41.2
+Giant Weasel,Sahuagin,41.2,58.8,41.2
+Gnoll,Spy,41.2,58.8,41.2
+Hippogriff,Swarm of Wasps,41.2,58.8,41.2
+Polar Bear,Succubus/Incubus,41.2,58.8,41.2
+Animated Armor,Ettercap,58.9,41.1,41.1
+Barbed Devil,Gold Dragon Wyrmling,58.9,41.1,41.1
+Giant Badger,Noble,41.1,58.9,41.1
+Giant Eagle,Swarm of Centipedes,58.9,41.1,41.1
+Giant Frog,Magma Mephit,58.9,41.1,41.1
+Gnoll,"Wererat, Rat Form",41.1,58.9,41.1
+Swarm of Rats,"Wererat, Hybrid Form",41.1,58.9,41.1
+White Dragon Wyrmling,Will-o'-Wisp,41.1,58.9,41.1
+Androsphinx,Behir,59.0,41.0,41.0
+Awakened Tree,Winter Wolf,59.0,41.0,41.0
+Berserker,Medusa,41.0,59.0,41.0
+Gynosphinx,Triceratops,59.0,41.0,41.0
+Ogre Zombie,"Weretiger, Hybrid Form",41.0,59.0,41.0
+Swarm of Spiders,Swarm of Wasps,59.0,41.0,41.0
+Warhorse,Worg,41.0,59.0,41.0
+Bandit Captain,Gelatinous Cube,40.9,59.1,40.9
+Bearded Devil,Giant Boar,40.9,59.1,40.9
+Brass Dragon Wyrmling,Death Dog,40.9,59.1,40.9
+Chimera,Xorn,40.9,59.1,40.9
+Dire Wolf,Salamander,40.9,59.1,40.9
+Dretch,Imp,40.9,59.1,40.9
+Elephant,Guardian Naga,40.9,59.1,40.9
+Gelatinous Cube,Ghost,40.9,59.1,40.9
+Giant Ape,Glabrezu,59.1,40.9,40.9
+Giant Constrictor Snake,"Weretiger, Human Form",40.9,59.1,40.9
+Giant Octopus,Succubus/Incubus,40.9,59.1,40.9
+Giant Rat (Diseased),Steam Mephit,40.9,59.1,40.9
+Giant Sea Horse,Panther,59.1,40.9,40.9
+Giant Vulture,Gnoll,59.1,40.9,40.9
+Giant Vulture,Rust Monster,40.9,59.1,40.9
+Grick,White Dragon Wyrmling,40.9,59.1,40.9
+Lamia,"Werebear, Human Form",59.1,40.9,40.9
+Water Elemental,"Werebear, Bear Form",40.9,59.1,40.9
+Chimera,Couatl,40.8,59.2,40.8
+Clay Golem,Young Copper Dragon,59.2,40.8,40.8
+Dryad,Violet Fungus,59.2,40.8,40.8
+Erinyes,Gorgon,40.8,59.2,40.8
+Gelatinous Cube,Silver Dragon Wyrmling,40.8,59.2,40.8
+Giant Crab,Magma Mephit,59.2,40.8,40.8
+Giant Wasp,Gray Ooze,59.2,40.8,40.8
+Hobgoblin,Reef Shark,40.8,59.2,40.8
+Hunter Shark,"Wereboar, Boar Form",40.8,59.2,40.8
+Iron Golem,Nalfeshnee,59.2,40.8,40.8
+Panther,Scout,40.8,59.2,40.8
+Phase Spider,Wight,40.8,59.2,40.8
+Satyr,Swarm of Beetles,59.2,40.8,40.8
+Air Elemental,Xorn,59.3,40.7,40.7
+Axe Beak,Orc,40.7,59.3,40.7
+Deva,"Vampire, Bat Form",40.7,59.3,40.7
+Duergar,Ochre Jelly,40.7,59.3,40.7
+Giant Crocodile,Hill Giant,59.3,40.7,40.7
+Giant Lizard,Swarm of Rats,59.3,40.7,40.7
+Ice Mephit,Pony,59.3,40.7,40.7
+Lion,Phase Spider,40.7,59.3,40.7
+Centaur,Giant Hyena,59.4,40.6,40.6
+Constrictor Snake,Panther,59.4,40.6,40.6
+Cult Fanatic,Lizardfolk,40.6,59.4,40.6
+Cultist,Mule,59.4,40.6,40.6
+Darkmantle,Flying Sword,59.4,40.6,40.6
+Death Dog,Warhorse,59.4,40.6,40.6
+Air Elemental,Guardian Naga,40.5,59.5,40.5
+Animated Armor,Black Dragon Wyrmling,40.5,59.5,40.5
+Balor,Remorhaz,59.5,40.5,40.5
+Constrictor Snake,Giant Poisonous Snake,40.5,59.5,40.5
+Gargoyle,White Dragon Wyrmling,59.5,40.5,40.5
+Ghast,Giant Octopus,40.5,59.5,40.5
+Ghost,Unicorn,40.5,59.5,40.5
+Giant Goat,Swarm of Spiders,40.5,59.5,40.5
+Ape,Gnoll,59.6,40.4,40.4
+Boar,Giant Weasel,40.4,59.6,40.4
+Copper Dragon Wyrmling,Specter,59.6,40.4,40.4
+Giant Wasp,Priest,40.4,59.6,40.4
+Goat,Mastiff,40.4,59.6,40.4
+Lizardfolk,Swarm of Ravens,40.4,59.6,40.4
+Magmin,Sahuagin,59.6,40.4,40.4
+Adult Gold Dragon,Roc,40.3,59.7,40.3
+Ankheg,Giant Hyena,59.7,40.3,40.3
+Bandit Captain,Basilisk,59.7,40.3,40.3
+Drow,Shadow,40.3,59.7,40.3
+Dryad,Quasit,59.7,40.3,40.3
+Giant Weasel,Imp,59.7,40.3,40.3
+Green Dragon Wyrmling,Polar Bear,40.3,59.7,40.3
+Medusa,Owlbear,40.3,59.7,40.3
+Minotaur Skeleton,Vrock,40.3,59.7,40.3
+Ochre Jelly,Worg,59.7,40.3,40.3
+Swarm of Centipedes,Swarm of Wasps,59.7,40.3,40.3
+Wraith,Xorn,40.3,59.7,40.3
+Adult Brass Dragon,Young Red Dragon,59.8,40.2,40.2
+Air Elemental,Deva,59.8,40.2,40.2
+Ancient Brass Dragon,Solar,40.2,59.8,40.2
+Ankheg,Hell Hound,59.8,40.2,40.2
+Blink Dog,Scout,59.8,40.2,40.2
+Blink Dog,Swarm of Rats,40.2,59.8,40.2
+Cult Fanatic,Giant Bat,40.2,59.8,40.2
+Duergar,Worg,40.2,59.8,40.2
+Fire Elemental,Plesiosaurus,59.8,40.2,40.2
+Flying Sword,Swarm of Wasps,40.2,59.8,40.2
+Ghoul,Specter,40.2,59.8,40.2
+Giant Goat,"Wererat, Rat Form",59.8,40.2,40.2
+Giant Hyena,Merrow,59.8,40.2,40.2
+Gold Dragon Wyrmling,Knight,59.8,40.2,40.2
+Lich,Young White Dragon,59.8,40.2,40.2
+Stone Golem,Tyrannosaurus Rex,59.8,40.2,40.2
+Warhorse Skeleton,Worg,59.8,40.2,40.2
+"Werebear, Bear Form","Werebear, Hybrid Form",59.8,40.2,40.2
+Aboleth,Clay Golem,59.9,40.1,40.1
+Ape,Giant Bat,59.9,40.1,40.1
+Bearded Devil,Black Pudding,40.1,59.9,40.1
+Doppelganger,Giant Elk,40.1,59.9,40.1
+Draft Horse,Duergar,40.1,59.9,40.1
+Giant Crab,Zombie,59.9,40.1,40.1
+Giant Lizard,Hippogriff,40.1,59.9,40.1
+Giant Lizard,"Wererat, Hybrid Form",40.1,59.9,40.1
+Gnoll,Orc,40.1,59.9,40.1
+Adult Bronze Dragon,Planetar,40.0,60.0,40.0
+Ankheg,Dire Wolf,60.0,40.0,40.0
+Ankheg,Giant Boar,60.0,40.0,40.0
+Ape,Giant Vulture,60.0,40.0,40.0
+Awakened Shrub,Vulture,60.0,40.0,40.0
+Bandit,Dryad,60.0,40.0,40.0
+Basilisk,Sea Hag,40.0,60.0,40.0
+Brass Dragon Wyrmling,Thug,60.0,40.0,40.0
+Bugbear,Ghast,60.0,40.0,40.0
+Bugbear,Giant Octopus,40.0,60.0,40.0
+Chain Devil,Wyvern,60.0,40.0,40.0
+Constrictor Snake,Gray Ooze,60.0,40.0,40.0
+Constrictor Snake,Riding Horse,40.0,60.0,40.0
+Death Dog,Lion,60.0,40.0,40.0
+Deer,Hyena,40.0,60.0,40.0
+Flying Sword,Swarm of Beetles,40.0,60.0,40.0
+Giant Constrictor Snake,Spirit Naga,40.0,60.0,40.0
+Giant Wasp,Riding Horse,40.0,60.0,40.0
+Gray Ooze,Magma Mephit,60.0,40.0,40.0
+Hobgoblin,Scout,60.0,40.0,40.0
+Mummy Lord,Shield Guardian,60.0,40.0,40.0
+Panther,Priest,40.0,60.0,40.0
+Vampire Spawn,"Weretiger, Human Form",40.0,60.0,40.0
+Black Dragon Wyrmling,Hell Hound,39.9,60.1,39.9
+Constrictor Snake,Zombie,60.1,39.9,39.9
+Drider,Saber-Toothed Tiger,60.1,39.9,39.9
+Flying Sword,Lizardfolk,60.1,39.9,39.9
+Giant Crab,Pony,60.1,39.9,39.9
+Giant Owl,Reef Shark,60.1,39.9,39.9
+Giant Weasel,Noble,60.1,39.9,39.9
+Invisible Stalker,Lamia,39.9,60.1,39.9
+Panther,Zombie,60.1,39.9,39.9
+Assassin,Ogre,39.8,60.2,39.8
+Azer,Black Dragon Wyrmling,60.2,39.8,39.8
+Cult Fanatic,Giant Owl,39.8,60.2,39.8
+Darkmantle,Deep Gnome (Svirfneblin),60.2,39.8,39.8
+Dust Mephit,Magmin,60.2,39.8,39.8
+Grick,Phase Spider,60.2,39.8,39.8
+Minotaur Skeleton,Red Dragon Wyrmling,60.2,39.8,39.8
+Ogre,Owlbear,60.2,39.8,39.8
+Quasit,Steam Mephit,60.2,39.8,39.8
+Adult Brass Dragon,Behir,39.7,60.3,39.7
+Ape,Swarm of Ravens,39.7,60.3,39.7
+Barbed Devil,Troll,60.3,39.7,39.7
+Black Bear,Riding Horse,60.3,39.7,39.7
+Black Dragon Wyrmling,Gargoyle,60.3,39.7,39.7
+Black Dragon Wyrmling,Giant Hyena,39.7,60.3,39.7
+Bronze Dragon Wyrmling,Giant Scorpion,60.3,39.7,39.7
+Ghost,Pegasus,60.3,39.7,39.7
+Giant Frog,Riding Horse,39.7,60.3,39.7
+Giant Sea Horse,Imp,60.3,39.7,39.7
+Hill Giant,Young Copper Dragon,39.7,60.3,39.7
+Adult Brass Dragon,Young Gold Dragon,60.4,39.6,39.6
+Ancient White Dragon,Solar,60.4,39.6,39.6
+Blood Hawk,Giant Rat,60.4,39.6,39.6
+Bronze Dragon Wyrmling,Salamander,39.6,60.4,39.6
+Bugbear,Polar Bear,39.6,60.4,39.6
+Chimera,Minotaur,60.4,39.6,39.6
+Crocodile,Giant Owl,60.4,39.6,39.6
+Djinni,Roper,39.6,60.4,39.6
+Elk,Sahuagin,60.4,39.6,39.6
+Fire Elemental,Invisible Stalker,39.6,60.4,39.6
+Gelatinous Cube,Hunter Shark,60.4,39.6,39.6
+Ghoul,Satyr,39.6,60.4,39.6
+Giant Sea Horse,Priest,39.6,60.4,39.6
+Gnoll,Hippogriff,39.6,60.4,39.6
+Hippogriff,Orc,60.4,39.6,39.6
+Hunter Shark,Vampire Spawn,39.6,60.4,39.6
+Noble,Riding Horse,39.6,60.4,39.6
+Ochre Jelly,Wight,60.4,39.6,39.6
+Planetar,Purple Worm,60.4,39.6,39.6
+Swarm of Beetles,Swarm of Centipedes,60.4,39.6,39.6
+Swarm of Beetles,Swarm of Spiders,60.4,39.6,39.6
+Ankheg,Merrow,60.5,39.5,39.5
+Ape,Giant Lizard,60.5,39.5,39.5
+Axe Beak,Reef Shark,39.5,60.5,39.5
+Camel,Giant Rat,60.5,39.5,39.5
+Cloaker,Plesiosaurus,39.5,60.5,39.5
+Cockatrice,Dust Mephit,60.5,39.5,39.5
+Copper Dragon Wyrmling,Ochre Jelly,39.5,60.5,39.5
+Dire Wolf,Swarm of Quippers,60.5,39.5,39.5
+Giant Constrictor Snake,Pegasus,60.5,39.5,39.5
+Giant Lizard,Orc,39.5,60.5,39.5
+Giant Poisonous Snake,Scout,60.5,39.5,39.5
+Giant Sea Horse,Gray Ooze,60.5,39.5,39.5
+Goblin,Panther,39.5,60.5,39.5
+Magmin,Skeleton,60.5,39.5,39.5
+Adult White Dragon,Androsphinx,60.6,39.4,39.4
+Chimera,Wraith,60.6,39.4,39.4
+Commoner,Stirge,39.4,60.6,39.4
+Copper Dragon Wyrmling,Lion,60.6,39.4,39.4
+Crocodile,Gnoll,60.6,39.4,39.4
+Ettin,Gladiator,39.4,60.6,39.4
+Giant Bat,Rust Monster,39.4,60.6,39.4
+Giant Scorpion,Merrow,39.4,60.6,39.4
+Giant Toad,Phase Spider,60.6,39.4,39.4
+Knight,Nightmare,39.4,60.6,39.4
+Lion,Swarm of Centipedes,60.6,39.4,39.4
+Riding Horse,Scout,60.6,39.4,39.4
+Centaur,Mummy,39.3,60.7,39.3
+Clay Golem,Young Black Dragon,39.3,60.7,39.3
+Cultist,Dretch,39.3,60.7,39.3
+Deer,Giant Fire Beetle,60.7,39.3,39.3
+Djinni,Giant Shark,39.3,60.7,39.3
+Fire Elemental,Flesh Golem,60.7,39.3,39.3
+Flying Sword,Giant Vulture,60.7,39.3,39.3
+Giant Constrictor Snake,"Wereboar, Human Form",60.7,39.3,39.3
+Giant Eagle,Giant Spider,39.3,60.7,39.3
+Giant Vulture,Swarm of Rats,60.7,39.3,39.3
+Giant Wasp,Hobgoblin,39.3,60.7,39.3
+Green Hag,Wraith,60.7,39.3,39.3
+Grimlock,Imp,60.7,39.3,39.3
+Knight,Owlbear,60.7,39.3,39.3
+Shadow,Swarm of Insects,39.3,60.7,39.3
+"Werewolf, Hybrid Form",White Dragon Wyrmling,60.7,39.3,39.3
+Black Dragon Wyrmling,"Werewolf, Wolf Form",60.8,39.2,39.2
+Brass Dragon Wyrmling,Copper Dragon Wyrmling,39.2,60.8,39.2
+Cloaker,Troll,60.8,39.2,39.2
+Dire Wolf,Giant Scorpion,60.8,39.2,39.2
+Draft Horse,Specter,39.2,60.8,39.2
+Giant Owl,"Wererat, Human Form",39.2,60.8,39.2
+Giant Poisonous Snake,Gnoll,39.2,60.8,39.2
+Giant Scorpion,Polar Bear,39.2,60.8,39.2
+Hell Hound,Salamander,39.2,60.8,39.2
+Hunter Shark,Owlbear,39.2,60.8,39.2
+Sea Hag,Silver Dragon Wyrmling,39.2,60.8,39.2
+Water Elemental,"Werebear, Hybrid Form",39.2,60.8,39.2
+Azer,Giant Hyena,39.1,60.9,39.1
+Blue Dragon Wyrmling,Gibbering Mouther,60.9,39.1,39.1
+Brass Dragon Wyrmling,Rust Monster,60.9,39.1,39.1
+Constrictor Snake,Giant Wasp,60.9,39.1,39.1
+Darkmantle,Giant Owl,60.9,39.1,39.1
+Dire Wolf,Giant Boar,60.9,39.1,39.1
+Duergar,Wight,39.1,60.9,39.1
+Giant Crocodile,Shambling Mound,60.9,39.1,39.1
+Kobold,Mastiff,60.9,39.1,39.1
+Lion,Swarm of Spiders,60.9,39.1,39.1
+Archmage,Centaur,61.0,39.0,39.0
+Black Pudding,Will-o'-Wisp,61.0,39.0,39.0
+Blink Dog,Riding Horse,61.0,39.0,39.0
+Bulette,Treant,61.0,39.0,39.0
+Centaur,Mimic,61.0,39.0,39.0
+Doppelganger,Salamander,61.0,39.0,39.0
+Gargoyle,Tiger,61.0,39.0,39.0
+Giant Goat,Orc,61.0,39.0,39.0
+Giant Hyena,Mimic,61.0,39.0,39.0
+Giant Lizard,"Wererat, Rat Form",39.0,61.0,39.0
+Goblin,Zombie,39.0,61.0,39.0
+Gold Dragon Wyrmling,Unicorn,61.0,39.0,39.0
+Hezrou,Young Black Dragon,39.0,61.0,39.0
+Owlbear,"Wereboar, Boar Form",61.0,39.0,39.0
+Swarm of Beetles,Swarm of Insects,61.0,39.0,39.0
+Swarm of Centipedes,Swarm of Insects,61.0,39.0,39.0
+Adult Silver Dragon,Nalfeshnee,61.1,38.9,38.9
+Barbed Devil,Ogre Zombie,61.1,38.9,38.9
+Black Pudding,Polar Bear,61.1,38.9,38.9
+Death Dog,Swarm of Wasps,61.1,38.9,38.9
+Giant Ape,Roper,61.1,38.9,38.9
+Giant Goat,"Wererat, Hybrid Form",61.1,38.9,38.9
+Guardian Naga,Killer Whale,61.1,38.9,38.9
+Lion,Swarm of Beetles,61.1,38.9,38.9
+Sahuagin,Zombie,61.1,38.9,38.9
+Shadow,Swarm of Wasps,38.9,61.1,38.9
+Bandit,Boar,61.2,38.8,38.8
+Centaur,Giant Elk,38.8,61.2,38.8
+Cultist,Giant Weasel,38.8,61.2,38.8
+Death Dog,Swarm of Spiders,61.2,38.8,38.8
+Drow,Priest,61.2,38.8,38.8
+Frost Giant,Young Gold Dragon,38.8,61.2,38.8
+Gelatinous Cube,Ogre,38.8,61.2,38.8
+Giant Fire Beetle,Hyena,38.8,61.2,38.8
+Giant Goat,Swarm of Wasps,38.8,61.2,38.8
+Giant Hyena,Hell Hound,61.2,38.8,38.8
+Goblin,Violet Fungus,61.2,38.8,38.8
+Green Hag,Killer Whale,38.8,61.2,38.8
+Magma Mephit,Pony,61.2,38.8,38.8
+Mimic,Swarm of Quippers,61.2,38.8,38.8
+Air Elemental,"Vampire, Vampire Form",38.7,61.3,38.7
+Animated Armor,Will-o'-Wisp,38.7,61.3,38.7
+Boar,Pony,38.7,61.3,38.7
+Chuul,Otyugh,38.7,61.3,38.7
+Copper Dragon Wyrmling,Worg,38.7,61.3,38.7
+Deep Gnome (Svirfneblin),Draft Horse,38.7,61.3,38.7
+Draft Horse,Ghoul,61.3,38.7,38.7
+Drider,Giant Elk,61.3,38.7,38.7
+Drider,Pegasus,38.7,61.3,38.7
+Drider,"Wereboar, Hybrid Form",38.7,61.3,38.7
+Gelatinous Cube,Succubus/Incubus,61.3,38.7,38.7
+Giant Octopus,Saber-Toothed Tiger,38.7,61.3,38.7
+Giant Rat,Steam Mephit,38.7,61.3,38.7
+Giant Wasp,Scout,38.7,61.3,38.7
+Ice Mephit,Wolf,38.7,61.3,38.7
+Mastiff,Pseudodragon,38.7,61.3,38.7
+Night Hag,Young Brass Dragon,38.7,61.3,38.7
+Rust Monster,Spy,61.3,38.7,38.7
+Swarm of Poisonous Snakes,Swarm of Quippers,38.7,61.3,38.7
+Bandit,Violet Fungus,61.4,38.6,38.6
+Basilisk,Doppelganger,61.4,38.6,38.6
+Basilisk,Gelatinous Cube,38.6,61.4,38.6
+Black Dragon Wyrmling,Bronze Dragon Wyrmling,38.6,61.4,38.6
+Brass Dragon Wyrmling,Orc,61.4,38.6,38.6
+Constrictor Snake,Noble,61.4,38.6,38.6
+Ettercap,Warhorse Skeleton,61.4,38.6,38.6
+Ghost,Giant Constrictor Snake,61.4,38.6,38.6
+Giant Ape,Ice Devil,61.4,38.6,38.6
+Giant Badger,Pony,38.6,61.4,38.6
+Giant Centipede,Mastiff,61.4,38.6,38.6
+Giant Wasp,Zombie,61.4,38.6,38.6
+Goblin,Magma Mephit,38.6,61.4,38.6
+Hill Giant,Shambling Mound,61.4,38.6,38.6
+Kobold,Pseudodragon,38.6,61.4,38.6
+Medusa,Rhinoceros,61.4,38.6,38.6
+Shadow,"Wererat, Human Form",38.6,61.4,38.6
+Tyrannosaurus Rex,Young Gold Dragon,61.4,38.6,38.6
+Animated Armor,Bugbear,38.5,61.5,38.5
+Assassin,Owlbear,38.5,61.5,38.5
+Black Dragon Wyrmling,Swarm of Poisonous Snakes,61.5,38.5,38.5
+Blood Hawk,Steam Mephit,38.5,61.5,38.5
+Constrictor Snake,Magma Mephit,61.5,38.5,38.5
+Copper Dragon Wyrmling,Warhorse Skeleton,38.5,61.5,38.5
+Djinni,Gorgon,38.5,61.5,38.5
+Draft Horse,Giant Spider,38.5,61.5,38.5
+Drow,Giant Owl,38.5,61.5,38.5
+Giant Badger,Violet Fungus,61.5,38.5,38.5
+Giant Bat,Swarm of Ravens,38.5,61.5,38.5
+Giant Poisonous Snake,Hobgoblin,61.5,38.5,38.5
+Giant Sea Horse,Scout,38.5,61.5,38.5
+Guardian Naga,Night Hag,38.5,61.5,38.5
+Lion,Swarm of Wasps,61.5,38.5,38.5
+Lion,Warhorse,61.5,38.5,38.5
+Shadow,Warhorse,38.5,61.5,38.5
+Ancient White Dragon,Pit Fiend,61.6,38.4,38.4
+Ankheg,Bronze Dragon Wyrmling,61.6,38.4,38.4
+Azer,"Werewolf, Wolf Form",61.6,38.4,38.4
+Centaur,Merrow,61.6,38.4,38.4
+Dire Wolf,Ghast,61.6,38.4,38.4
+Flying Sword,Giant Lizard,61.6,38.4,38.4
+Giant Weasel,Pony,61.6,38.4,38.4
+Owlbear,"Wereboar, Hybrid Form",61.6,38.4,38.4
+Ankheg,Succubus/Incubus,38.3,61.7,38.3
+Awakened Tree,Flesh Golem,38.3,61.7,38.3
+Awakened Tree,Red Dragon Wyrmling,38.3,61.7,38.3
+Bearded Devil,Hell Hound,38.3,61.7,38.3
+Berserker,Hunter Shark,61.7,38.3,38.3
+Black Bear,Skeleton,61.7,38.3,38.3
+Blue Dragon Wyrmling,Owlbear,38.3,61.7,38.3
+Chuul,Green Hag,38.3,61.7,38.3
+Chuul,Lamia,61.7,38.3,38.3
+Crocodile,"Wererat, Human Form",38.3,61.7,38.3
+Death Dog,Phase Spider,38.3,61.7,38.3
+Drider,"Wereboar, Boar Form",38.3,61.7,38.3
+Duergar,Specter,61.7,38.3,38.3
+Gelatinous Cube,Giant Elk,61.7,38.3,38.3
+Giant Spider,Wight,38.3,61.7,38.3
+Grimlock,Pony,61.7,38.3,38.3
+Gynosphinx,Young White Dragon,61.7,38.3,38.3
+Hippogriff,Mage,38.3,61.7,38.3
+Hippogriff,"Wererat, Rat Form",61.7,38.3,38.3
+Kobold,Lemure,61.7,38.3,38.3
+Pseudodragon,Violet Fungus,38.3,61.7,38.3
+Stone Giant,Treant,61.7,38.3,38.3
+Young Gold Dragon,Young Silver Dragon,61.7,38.3,38.3
+Young Red Dragon,Young Silver Dragon,61.7,38.3,38.3
+Axe Beak,Cult Fanatic,61.8,38.2,38.2
+Azer,Merrow,38.2,61.8,38.2
+Dretch,Giant Badger,61.8,38.2,38.2
+Duergar,Lion,61.8,38.2,38.2
+Giant Vulture,Thug,38.2,61.8,38.2
+Ogre,Vampire Spawn,61.8,38.2,38.2
+Polar Bear,Veteran,38.2,61.8,38.2
+Shadow,Swarm of Spiders,38.2,61.8,38.2
+Specter,Wight,38.2,61.8,38.2
+Ankheg,Swarm of Quippers,61.9,38.1,38.1
+Black Bear,Hobgoblin,38.1,61.9,38.1
+Doppelganger,Veteran,38.1,61.9,38.1
+Dust Mephit,Sahuagin,61.9,38.1,38.1
+Giant Frog,Noble,61.9,38.1,38.1
+Hippogriff,Satyr,38.1,61.9,38.1
+Hydra,Mummy Lord,61.9,38.1,38.1
+Lion,Swarm of Insects,61.9,38.1,38.1
+Pony,Scout,38.1,61.9,38.1
+Adult Red Dragon,Remorhaz,38.0,62.0,38.0
+Ankheg,Mimic,62.0,38.0,38.0
+Brass Dragon Wyrmling,Hippogriff,62.0,38.0,38.0
+Chain Devil,Chuul,62.0,38.0,38.0
+Earth Elemental,Young Copper Dragon,62.0,38.0,38.0
+Frost Giant,Young Red Dragon,38.0,62.0,38.0
+Giant Elk,Silver Dragon Wyrmling,38.0,62.0,38.0
+Giant Goat,Spy,62.0,38.0,38.0
+Giant Goat,Swarm of Insects,38.0,62.0,38.0
+Goblin,Magmin,38.0,62.0,38.0
+Horned Devil,Young Gold Dragon,38.0,62.0,38.0
+Hunter Shark,Manticore,62.0,38.0,38.0
+Spirit Naga,Troll,38.0,62.0,38.0
+Swarm of Rats,"Wererat, Rat Form",38.0,62.0,38.0
+Adult Black Dragon,Androsphinx,62.1,37.9,37.9
+Ankheg,Green Dragon Wyrmling,62.1,37.9,37.9
+Archmage,Salamander,62.1,37.9,37.9
+Black Dragon Wyrmling,White Dragon Wyrmling,62.1,37.9,37.9
+Chain Devil,Xorn,37.9,62.1,37.9
+Cockatrice,Elk,62.1,37.9,37.9
+Dust Mephit,Giant Crab,62.1,37.9,37.9
+Flying Sword,Harpy,37.9,62.1,37.9
+Giant Owl,Hobgoblin,62.1,37.9,37.9
+Giant Rat (Diseased),Violet Fungus,37.9,62.1,37.9
+Gladiator,Wyvern,62.1,37.9,37.9
+Oni,Vrock,62.1,37.9,37.9
+Rhinoceros,Spirit Naga,37.9,62.1,37.9
+Warhorse Skeleton,"Werewolf, Hybrid Form",37.9,62.1,37.9
+"Werewolf, Wolf Form",White Dragon Wyrmling,62.1,37.9,37.9
+Blood Hawk,Giant Badger,37.8,62.2,37.8
+Bugbear,"Werewolf, Hybrid Form",62.2,37.8,37.8
+Chain Devil,Couatl,37.8,62.2,37.8
+Death Dog,Swarm of Centipedes,62.2,37.8,37.8
+Giant Fire Beetle,Stirge,37.8,62.2,37.8
+Giant Shark,Glabrezu,37.8,62.2,37.8
+Gibbering Mouther,Ogre,62.2,37.8,37.8
+Hunter Shark,"Wereboar, Hybrid Form",37.8,62.2,37.8
+Ogre,"Wereboar, Boar Form",62.2,37.8,37.8
+Priest,Skeleton,62.2,37.8,37.8
+Remorhaz,Storm Giant,62.2,37.8,37.8
+Sea Hag,"Wereboar, Boar Form",37.8,62.2,37.8
+Air Elemental,Couatl,62.3,37.7,37.7
+Bone Devil,Young Copper Dragon,37.7,62.3,37.7
+Bulette,Efreeti,37.7,62.3,37.7
+Chuul,Vrock,62.3,37.7,37.7
+Flying Sword,Swarm of Insects,37.7,62.3,37.7
+Giant Poisonous Snake,Shadow,37.7,62.3,37.7
+Gray Ooze,Noble,62.3,37.7,37.7
+Hezrou,Young Copper Dragon,62.3,37.7,37.7
+Otyugh,Wraith,62.3,37.7,37.7
+Reef Shark,"Wererat, Human Form",37.7,62.3,37.7
+Warhorse Skeleton,"Werewolf, Wolf Form",37.7,62.3,37.7
+Warhorse Skeleton,Wight,62.3,37.7,37.7
+Bugbear,"Werewolf, Wolf Form",62.4,37.6,37.6
+Cult Fanatic,Gnoll,37.6,62.4,37.6
+Deep Gnome (Svirfneblin),Giant Lizard,62.4,37.6,37.6
+Elk,Skeleton,62.4,37.6,37.6
+Flesh Golem,Plesiosaurus,62.4,37.6,37.6
+Ghost,"Wereboar, Hybrid Form",62.4,37.6,37.6
+Ghoul,"Wererat, Rat Form",62.4,37.6,37.6
+Giant Boar,Will-o'-Wisp,62.4,37.6,37.6
+Giant Crocodile,Triceratops,37.6,62.4,37.6
+Giant Goat,Giant Owl,62.4,37.6,37.6
+Giant Shark,Mammoth,37.6,62.4,37.6
+Green Hag,Rakshasa,62.4,37.6,37.6
+Hunter Shark,Veteran,62.4,37.6,37.6
+Ice Mephit,Noble,62.4,37.6,37.6
+Minotaur,Oni,62.4,37.6,37.6
+Axe Beak,Swarm of Bats,62.5,37.5,37.5
+Bone Devil,Shambling Mound,62.5,37.5,37.5
+Death Dog,Harpy,62.5,37.5,37.5
+Giant Bat,Giant Lizard,62.5,37.5,37.5
+Giant Crab,Ice Mephit,62.5,37.5,37.5
+Gibbering Mouther,Half-Red Dragon Veteran,37.5,62.5,37.5
+Gnoll,Rust Monster,37.5,62.5,37.5
+Animated Armor,Bearded Devil,37.4,62.6,37.4
+Ankheg,Mummy,37.4,62.6,37.4
+Azer,Centaur,37.4,62.6,37.4
+Camel,Pseudodragon,62.6,37.4,37.4
+Crocodile,Lizardfolk,62.6,37.4,37.4
+Giant Bat,Swarm of Rats,62.6,37.4,37.4
+Giant Lizard,Swarm of Ravens,37.4,62.6,37.4
+Giant Toad,White Dragon Wyrmling,37.4,62.6,37.4
+Glabrezu,Roper,62.6,37.4,37.4
+Hippogriff,Specter,37.4,62.6,37.4
+Hobgoblin,Riding Horse,62.6,37.4,37.4
+Invisible Stalker,"Werebear, Human Form",37.4,62.6,37.4
+Lemure,Mastiff,62.6,37.4,37.4
+Rust Monster,"Wererat, Hybrid Form",62.6,37.4,37.4
+Acolyte,Lemure,37.3,62.7,37.3
+Adult Copper Dragon,Tyrannosaurus Rex,62.7,37.3,37.3
+Androsphinx,Tyrannosaurus Rex,62.7,37.3,37.3
+Animated Armor,Brown Bear,62.7,37.3,37.3
+Archmage,Bandit Captain,37.3,62.7,37.3
+Bearded Devil,Gargoyle,62.7,37.3,37.3
+Boar,Steam Mephit,62.7,37.3,37.3
+Cult Fanatic,Shadow,37.3,62.7,37.3
+Cultist,Pseudodragon,62.7,37.3,37.3
+Death Dog,Giant Eagle,62.7,37.3,37.3
+Draft Horse,Swarm of Ravens,62.7,37.3,37.3
+Giant Elk,Mummy,62.7,37.3,37.3
+Giant Toad,Swarm of Poisonous Snakes,37.3,62.7,37.3
+Hunter Shark,Ogre,37.3,62.7,37.3
+Hydra,Shield Guardian,62.7,37.3,37.3
+Pegasus,Spirit Naga,37.3,62.7,37.3
+Spirit Naga,"Weretiger, Human Form",62.7,37.3,37.3
+Stone Golem,Young Gold Dragon,62.7,37.3,37.3
+Troll,"Weretiger, Hybrid Form",37.3,62.7,37.3
+Troll,"Weretiger, Tiger Form",37.3,62.7,37.3
+Azer,Mimic,37.2,62.8,37.2
+Bandit,Imp,37.2,62.8,37.2
+Bandit,Quasit,62.8,37.2,37.2
+Boar,Noble,37.2,62.8,37.2
+Darkmantle,Shadow,62.8,37.2,37.2
+Gargoyle,Swarm of Quippers,37.2,62.8,37.2
+Giant Ape,Stone Giant,62.8,37.2,37.2
+Giant Crab,Imp,62.8,37.2,37.2
+Giant Lizard,Hobgoblin,62.8,37.2,37.2
+Giant Poisonous Snake,Giant Vulture,37.2,62.8,37.2
+Giant Wolf Spider,Magma Mephit,37.2,62.8,37.2
+Green Hag,Minotaur,62.8,37.2,37.2
+Orc,"Wererat, Hybrid Form",62.8,37.2,37.2
+Ankheg,Bandit Captain,37.1,62.9,37.1
+Bearded Devil,Dire Wolf,37.1,62.9,37.1
+Centaur,Hell Hound,62.9,37.1,37.1
+Darkmantle,Swarm of Wasps,37.1,62.9,37.1
+Dust Mephit,Giant Sea Horse,62.9,37.1,37.1
+Giant Bat,Thug,37.1,62.9,37.1
+Giant Elk,"Wereboar, Human Form",37.1,62.9,37.1
+Harpy,"Wererat, Human Form",62.9,37.1,37.1
+Hippogriff,Spy,62.9,37.1,37.1
+Manticore,Succubus/Incubus,62.9,37.1,37.1
+Medusa,"Weretiger, Human Form",37.1,62.9,37.1
+Ochre Jelly,Warhorse Skeleton,62.9,37.1,37.1
+Spy,Swarm of Centipedes,37.1,62.9,37.1
+Stone Golem,Young Red Dragon,62.9,37.1,37.1
+Boar,Grimlock,37.0,63.0,37.0
+Constrictor Snake,Scout,37.0,63.0,37.0
+Death Dog,Satyr,63.0,37.0,37.0
+Ghost,"Wereboar, Human Form",63.0,37.0,37.0
+Giant Toad,Tiger,37.0,63.0,37.0
+Giant Weasel,Hobgoblin,37.0,63.0,37.0
+Manticore,Pegasus,37.0,63.0,37.0
+Dust Mephit,Panther,63.1,36.9,36.9
+Elk,Giant Crab,63.1,36.9,36.9
+Giant Eagle,"Wererat, Human Form",63.1,36.9,36.9
+Giant Elk,Pegasus,36.9,63.1,36.9
+Giant Hyena,Giant Scorpion,63.1,36.9,36.9
+Gold Dragon Wyrmling,Spirit Naga,63.1,36.9,36.9
+Gorgon,Young Blue Dragon,36.9,63.1,36.9
+Killer Whale,Water Elemental,63.1,36.9,36.9
+Minotaur,Xorn,36.9,63.1,36.9
+Pegasus,"Weretiger, Human Form",36.9,63.1,36.9
+Rust Monster,"Wererat, Rat Form",63.1,36.9,36.9
+Awakened Tree,Minotaur Skeleton,36.8,63.2,36.8
+Black Pudding,Doppelganger,36.8,63.2,36.8
+Blink Dog,Priest,63.2,36.8,36.8
+Bronze Dragon Wyrmling,Will-o'-Wisp,63.2,36.8,36.8
+Bugbear,Gargoyle,63.2,36.8,36.8
+Cloaker,Red Dragon Wyrmling,36.8,63.2,36.8
+Duergar,Warhorse,63.2,36.8,36.8
+Dust Mephit,Hobgoblin,36.8,63.2,36.8
+Giant Elk,Griffon,63.2,36.8,36.8
+Giant Goat,Swarm of Beetles,36.8,63.2,36.8
+Giant Goat,Swarm of Centipedes,36.8,63.2,36.8
+Goat,Kobold,36.8,63.2,36.8
+Pegasus,Unicorn,36.8,63.2,36.8
+Ancient Brass Dragon,Storm Giant,63.3,36.7,36.7
+Archmage,Griffon,36.7,63.3,36.7
+Axe Beak,Hippogriff,36.7,63.3,36.7
+Chain Devil,"Werebear, Human Form",63.3,36.7,36.7
+Crocodile,Giant Bat,63.3,36.7,36.7
+Dryad,Giant Weasel,36.7,63.3,36.7
+Dust Mephit,Zombie,63.3,36.7,36.7
+Giant Frog,Giant Poisonous Snake,36.7,63.3,36.7
+Giant Owl,Swarm of Centipedes,36.7,63.3,36.7
+Mule,Pseudodragon,63.3,36.7,36.7
+Nightmare,Winter Wolf,63.3,36.7,36.7
+Phase Spider,White Dragon Wyrmling,36.7,63.3,36.7
+Rust Monster,Satyr,36.7,63.3,36.7
+Shadow,Swarm of Beetles,36.7,63.3,36.7
+Ancient Brass Dragon,Pit Fiend,36.6,63.4,36.6
+Brass Dragon Wyrmling,Giant Goat,63.4,36.6,36.6
+Brown Bear,Giant Toad,63.4,36.6,36.6
+Chimera,Deva,36.6,63.4,36.6
+Death Dog,Swarm of Beetles,63.4,36.6,36.6
+Death Dog,Swarm of Insects,63.4,36.6,36.6
+Drider,Sea Hag,63.4,36.6,36.6
+Giant Hyena,Mummy,36.6,63.4,36.6
+Giant Sea Horse,Zombie,63.4,36.6,36.6
+Imp,Scout,36.6,63.4,36.6
+Manticore,Mummy,63.4,36.6,36.6
+Shield Guardian,Young Copper Dragon,36.6,63.4,36.6
+Assassin,"Weretiger, Human Form",36.5,63.5,36.5
+Bandit Captain,Hunter Shark,36.5,63.5,36.5
+Cult Fanatic,Giant Vulture,36.5,63.5,36.5
+Cult Fanatic,Scout,63.5,36.5,36.5
+Cultist,Pony,36.5,63.5,36.5
+Flying Sword,Swarm of Centipedes,36.5,63.5,36.5
+Frost Giant,Tyrannosaurus Rex,36.5,63.5,36.5
+Giant Frog,Pony,63.5,36.5,36.5
+Giant Lizard,Swarm of Bats,63.5,36.5,36.5
+Lamia,Otyugh,36.5,63.5,36.5
+Minotaur Skeleton,"Werebear, Human Form",36.5,63.5,36.5
+White Dragon Wyrmling,Worg,63.5,36.5,36.5
+Ancient Copper Dragon,Dragon Turtle,36.4,63.6,36.4
+Azer,"Werewolf, Hybrid Form",63.6,36.4,36.4
+Blood Hawk,Giant Wolf Spider,36.4,63.6,36.4
+Brass Dragon Wyrmling,Ghoul,63.6,36.4,36.4
+Cloaker,Knight,63.6,36.4,36.4
+Dretch,Ice Mephit,36.4,63.6,36.4
+Eagle,Stirge,63.6,36.4,36.4
+Flying Sword,Swarm of Spiders,36.4,63.6,36.4
+Giant Crab,Scout,36.4,63.6,36.4
+Gibbering Mouther,"Wereboar, Boar Form",63.6,36.4,36.4
+Mummy,Rhinoceros,36.4,63.6,36.4
+Ogre,Silver Dragon Wyrmling,63.6,36.4,36.4
+Ogre,"Wereboar, Hybrid Form",63.6,36.4,36.4
+Orc,"Wererat, Rat Form",63.6,36.4,36.4
+Priest,Swarm of Bats,36.4,63.6,36.4
+Roper,Young Blue Dragon,36.4,63.6,36.4
+Swarm of Centipedes,"Wererat, Human Form",63.6,36.4,36.4
+Warhorse,Wight,36.4,63.6,36.4
+Air Elemental,Elephant,63.7,36.3,36.3
+Centaur,Dire Wolf,63.7,36.3,36.3
+Constrictor Snake,Hobgoblin,36.3,63.7,36.3
+Drow,Wolf,63.7,36.3,36.3
+Efreeti,Marilith,63.7,36.3,36.3
+Ettercap,Grick,63.7,36.3,36.3
+Giant Crab,Noble,63.7,36.3,36.3
+Giant Crocodile,Night Hag,63.7,36.3,36.3
+Giant Hyena,Swarm of Quippers,63.7,36.3,36.3
+Giant Rat,Giant Weasel,36.3,63.7,36.3
+Gibbering Mouther,"Wereboar, Hybrid Form",63.7,36.3,36.3
+Gibbering Mouther,Will-o'-Wisp,63.7,36.3,36.3
+Grimlock,Noble,63.7,36.3,36.3
+Mummy Lord,Shambling Mound,63.7,36.3,36.3
+Troll,Unicorn,63.7,36.3,36.3
+Aboleth,Young Green Dragon,36.2,63.8,36.2
+Ape,Swarm of Rats,63.8,36.2,36.2
+Blink Dog,Shadow,36.2,63.8,36.2
+Cockatrice,Giant Crab,63.8,36.2,36.2
+Copper Dragon Wyrmling,Death Dog,63.8,36.2,36.2
+Deep Gnome (Svirfneblin),Swarm of Spiders,36.2,63.8,36.2
+Draft Horse,Rust Monster,63.8,36.2,36.2
+Elk,Giant Sea Horse,63.8,36.2,36.2
+Giant Frog,Imp,63.8,36.2,36.2
+Giant Lizard,Rust Monster,36.2,63.8,36.2
+Giant Wasp,Imp,63.8,36.2,36.2
+Gold Dragon Wyrmling,Plesiosaurus,36.2,63.8,36.2
+Merrow,Swarm of Quippers,63.8,36.2,36.2
+Rakshasa,"Werebear, Human Form",63.8,36.2,36.2
+Reef Shark,Swarm of Wasps,36.2,63.8,36.2
+Rhinoceros,"Weretiger, Human Form",36.2,63.8,36.2
+Gelatinous Cube,Rhinoceros,63.9,36.1,36.1
+Green Hag,Water Elemental,36.1,63.9,36.1
+Hunter Shark,Saber-Toothed Tiger,63.9,36.1,36.1
+Killer Whale,Night Hag,36.1,63.9,36.1
+Minotaur,Wyvern,63.9,36.1,36.1
+Rust Monster,Warhorse,36.1,63.9,36.1
+Shadow,Swarm of Centipedes,36.1,63.9,36.1
+Swarm of Spiders,"Wererat, Human Form",63.9,36.1,36.1
+Ankheg,Griffon,36.0,64.0,36.0
+Archmage,Polar Bear,64.0,36.0,36.0
+Bulette,Frost Giant,36.0,64.0,36.0
+Deep Gnome (Svirfneblin),Swarm of Centipedes,36.0,64.0,36.0
+Dire Wolf,Will-o'-Wisp,64.0,36.0,36.0
+Gargoyle,Giant Scorpion,36.0,64.0,36.0
+Ghast,White Dragon Wyrmling,64.0,36.0,36.0
+Giant Eagle,Phase Spider,36.0,64.0,36.0
+Giant Wolf Spider,Panther,36.0,64.0,36.0
+Gladiator,Oni,64.0,36.0,36.0
+Half-Red Dragon Veteran,"Wereboar, Human Form",64.0,36.0,36.0
+Hunter Shark,Sea Hag,64.0,36.0,36.0
+Lion,Mage,64.0,36.0,36.0
+Marilith,Stone Giant,64.0,36.0,36.0
+Otyugh,Xorn,36.0,64.0,36.0
+Remorhaz,Solar,36.0,64.0,36.0
+Saber-Toothed Tiger,Succubus/Incubus,64.0,36.0,36.0
+Aboleth,Young Copper Dragon,64.1,35.9,35.9
+Adult Green Dragon,Cloud Giant,64.1,35.9,35.9
+Ankheg,Giant Elk,35.9,64.1,35.9
+Berserker,"Weretiger, Human Form",35.9,64.1,35.9
+Centaur,Green Dragon Wyrmling,64.1,35.9,35.9
+Darkmantle,Lizardfolk,64.1,35.9,35.9
+Doppelganger,Polar Bear,64.1,35.9,35.9
+Giant Badger,Quasit,64.1,35.9,35.9
+Giant Sea Horse,Magma Mephit,64.1,35.9,35.9
+Giant Spider,Specter,64.1,35.9,35.9
+Gibbering Mouther,Pegasus,64.1,35.9,35.9
+Lizardfolk,Thug,35.9,64.1,35.9
+Magma Mephit,Noble,64.1,35.9,35.9
+Magmin,Panther,64.1,35.9,35.9
+Minotaur Skeleton,Wraith,35.9,64.1,35.9
+Oni,Otyugh,35.9,64.1,35.9
+Otyugh,Rakshasa,64.1,35.9,35.9
+Spirit Naga,Winter Wolf,35.9,64.1,35.9
+Spy,Swarm of Wasps,35.9,64.1,35.9
+Adult Black Dragon,Adult White Dragon,64.2,35.8,35.8
+Awakened Tree,Troll,64.2,35.8,35.8
+Axe Beak,Spy,35.8,64.2,35.8
+Black Bear,Wolf,64.2,35.8,35.8
+Brown Bear,Will-o'-Wisp,35.8,64.2,35.8
+Bugbear,Doppelganger,35.8,64.2,35.8
+Chain Devil,Oni,64.2,35.8,35.8
+Drider,Giant Constrictor Snake,35.8,64.2,35.8
+Efreeti,Horned Devil,35.8,64.2,35.8
+Giant Constrictor Snake,Knight,35.8,64.2,35.8
+Giant Constrictor Snake,Unicorn,35.8,64.2,35.8
+Giant Crab,Hobgoblin,35.8,64.2,35.8
+Giant Poisonous Snake,Reef Shark,35.8,64.2,35.8
+Giant Shark,Ice Devil,35.8,64.2,35.8
+Lizardfolk,Swarm of Rats,64.2,35.8,35.8
+Swarm of Wasps,"Wererat, Human Form",64.2,35.8,35.8
+Vampire Spawn,"Wereboar, Human Form",64.2,35.8,35.8
+Adult White Dragon,Behir,64.3,35.7,35.7
+Ape,Thug,35.7,64.3,35.7
+Awakened Tree,Knight,64.3,35.7,35.7
+Blood Hawk,Violet Fungus,35.7,64.3,35.7
+Centaur,Griffon,35.7,64.3,35.7
+Centaur,Succubus/Incubus,35.7,64.3,35.7
+Darkmantle,Swarm of Centipedes,35.7,64.3,35.7
+Erinyes,Young Green Dragon,64.3,35.7,35.7
+Giant Wasp,Magma Mephit,64.3,35.7,35.7
+Gnoll,Swarm of Ravens,35.7,64.3,35.7
+Horned Devil,Young Red Dragon,35.7,64.3,35.7
+Otyugh,Water Elemental,35.7,64.3,35.7
+Pegasus,Rhinoceros,64.3,35.7,35.7
+Acolyte,Stirge,64.4,35.6,35.6
+Bearded Devil,Merrow,35.6,64.4,35.6
+Black Dragon Wyrmling,Mimic,35.6,64.4,35.6
+Camel,Goblin,35.6,64.4,35.6
+Chuul,Ettin,64.4,35.6,35.6
+Cockatrice,Giant Sea Horse,64.4,35.6,35.6
+Cult Fanatic,Flying Sword,35.6,64.4,35.6
+Duergar,Ettercap,35.6,64.4,35.6
+Gelatinous Cube,Vampire Spawn,35.6,64.4,35.6
+Giant Owl,Swarm of Beetles,35.6,64.4,35.6
+Gold Dragon Wyrmling,Red Dragon Wyrmling,35.6,64.4,35.6
+Kraken,Pit Fiend,35.6,64.4,35.6
+Ogre,Troll,35.6,64.4,35.6
+Ogre Zombie,"Weretiger, Tiger Form",35.6,64.4,35.6
+Black Dragon Wyrmling,Tiger,64.5,35.5,35.5
+Centaur,Saber-Toothed Tiger,35.5,64.5,35.5
+Chain Devil,Elephant,35.5,64.5,35.5
+Copper Dragon Wyrmling,Ettercap,35.5,64.5,35.5
+Crocodile,Giant Lizard,64.5,35.5,35.5
+Earth Elemental,Young Green Dragon,35.5,64.5,35.5
+Ghoul,Reef Shark,64.5,35.5,35.5
+Giant Hyena,Griffon,35.5,64.5,35.5
+Treant,Young Blue Dragon,35.5,64.5,35.5
+Adult Blue Dragon,Nalfeshnee,35.4,64.6,35.4
+Air Elemental,"Werebear, Bear Form",35.4,64.6,35.4
+Brass Dragon Wyrmling,Reef Shark,64.6,35.4,35.4
+Brass Dragon Wyrmling,Shadow,64.6,35.4,35.4
+Constrictor Snake,Ice Mephit,64.6,35.4,35.4
+Dust Mephit,Giant Wasp,64.6,35.4,35.4
+Giant Crab,Riding Horse,35.4,64.6,35.4
+Giant Crocodile,Hezrou,35.4,64.6,35.4
+Giant Elk,Succubus/Incubus,64.6,35.4,35.4
+Giant Hyena,Will-o'-Wisp,64.6,35.4,35.4
+Veteran,"Wereboar, Human Form",35.4,64.6,35.4
+Air Elemental,"Werebear, Hybrid Form",35.3,64.7,35.3
+Awakened Shrub,Hyena,35.3,64.7,35.3
+Azer,Polar Bear,35.3,64.7,35.3
+Basilisk,Rhinoceros,35.3,64.7,35.3
+Black Bear,Giant Lizard,35.3,64.7,35.3
+Copper Dragon Wyrmling,Wight,35.3,64.7,35.3
+Darkmantle,Swarm of Beetles,35.3,64.7,35.3
+Darkmantle,"Wererat, Human Form",35.3,64.7,35.3
+Dretch,Quasit,64.7,35.3,35.3
+Ghoul,Shadow,64.7,35.3,35.3
+Giant Weasel,Grimlock,64.7,35.3,35.3
+Magmin,Zombie,64.7,35.3,35.3
+Rust Monster,Shadow,64.7,35.3,35.3
+Brass Dragon Wyrmling,"Wererat, Rat Form",64.8,35.2,35.2
+Bronze Dragon Wyrmling,Bugbear,64.8,35.2,35.2
+Crocodile,Swarm of Spiders,35.2,64.8,35.2
+Deep Gnome (Svirfneblin),Swarm of Rats,64.8,35.2,35.2
+Giant Octopus,Polar Bear,64.8,35.2,35.2
+Gray Ooze,Riding Horse,35.2,64.8,35.2
+Magmin,Noble,64.8,35.2,35.2
+Mummy Lord,Triceratops,35.2,64.8,35.2
+Ogre Zombie,Plesiosaurus,35.2,64.8,35.2
+Pony,Priest,35.2,64.8,35.2
+Rhinoceros,Unicorn,35.2,64.8,35.2
+Saber-Toothed Tiger,"Wereboar, Human Form",35.2,64.8,35.2
+Tiger,Worg,64.8,35.2,35.2
+Ancient Brass Dragon,Kraken,64.9,35.1,35.1
+Bandit Captain,Doppelganger,64.9,35.1,35.1
+Brass Dragon Wyrmling,"Wererat, Hybrid Form",64.9,35.1,35.1
+Bulette,Erinyes,64.9,35.1,35.1
+Cult Fanatic,Giant Poisonous Snake,64.9,35.1,35.1
+Deep Gnome (Svirfneblin),Swarm of Beetles,35.1,64.9,35.1
+Gargoyle,Giant Boar,35.1,64.9,35.1
+Giant Elk,Half-Red Dragon Veteran,35.1,64.9,35.1
+Giant Goat,Lion,35.1,64.9,35.1
+Gladiator,"Werebear, Human Form",64.9,35.1,35.1
+Gnoll,Thug,35.1,64.9,35.1
+Mage,"Wererat, Human Form",64.9,35.1,35.1
+Panther,Pony,64.9,35.1,35.1
+Reef Shark,Swarm of Centipedes,35.1,64.9,35.1
+Reef Shark,Swarm of Spiders,35.1,64.9,35.1
+Spy,Swarm of Spiders,35.1,64.9,35.1
+Stone Giant,Young Bronze Dragon,64.9,35.1,35.1
+Swarm of Beetles,"Wererat, Human Form",64.9,35.1,35.1
+Swarm of Insects,Warhorse Skeleton,35.1,64.9,35.1
+"Weretiger, Tiger Form",Winter Wolf,64.9,35.1,35.1
+Acolyte,Hyena,65.0,35.0,35.0
+Cockatrice,Magmin,65.0,35.0,35.0
+Dire Wolf,Griffon,35.0,65.0,35.0
+Ghoul,Hippogriff,65.0,35.0,35.0
+Giant Centipede,Stirge,65.0,35.0,35.0
+Giant Sea Horse,Noble,65.0,35.0,35.0
+Gnoll,Swarm of Rats,65.0,35.0,35.0
+Hill Giant,Lich,35.0,65.0,35.0
+Hippogriff,"Wererat, Hybrid Form",65.0,35.0,35.0
+Hunter Shark,Medusa,35.0,65.0,35.0
+Lion,Warhorse Skeleton,35.0,65.0,35.0
+Swarm of Ravens,"Wererat, Rat Form",65.0,35.0,35.0
+Animated Armor,Grick,65.1,34.9,34.9
+Archmage,Mummy,34.9,65.1,34.9
+Assassin,Gelatinous Cube,65.1,34.9,34.9
+Chimera,Gladiator,65.1,34.9,34.9
+Crocodile,Swarm of Centipedes,34.9,65.1,34.9
+Darkmantle,Giant Eagle,34.9,65.1,34.9
+Giant Hyena,Succubus/Incubus,34.9,65.1,34.9
+Half-Red Dragon Veteran,Knight,34.9,65.1,34.9
+Minotaur Skeleton,Oni,34.9,65.1,34.9
+Ochre Jelly,Will-o'-Wisp,34.9,65.1,34.9
+Azer,Gargoyle,65.2,34.8,34.8
+Barbed Devil,Knight,65.2,34.8,34.8
+Black Bear,Magmin,65.2,34.8,34.8
+Blood Hawk,Giant Weasel,34.8,65.2,34.8
+Darkmantle,Gnoll,65.2,34.8,34.8
+Draft Horse,Thug,65.2,34.8,34.8
+Dretch,Panther,34.8,65.2,34.8
+Ghost,Knight,34.8,65.2,34.8
+Giant Frog,Ice Mephit,65.2,34.8,34.8
+Giant Goat,Satyr,34.8,65.2,34.8
+Giant Poisonous Snake,Priest,65.2,34.8,34.8
+Goblin,Wolf,34.8,65.2,34.8
+Hobgoblin,Rust Monster,34.8,65.2,34.8
+Spy,"Wererat, Human Form",34.8,65.2,34.8
+Tyrannosaurus Rex,Young Red Dragon,65.2,34.8,34.8
+Bandit,Magmin,34.7,65.3,34.7
+Boar,Cultist,65.3,34.7,34.7
+Brass Dragon Wyrmling,Duergar,34.7,65.3,34.7
+Bugbear,White Dragon Wyrmling,65.3,34.7,34.7
+Cloaker,Minotaur Skeleton,34.7,65.3,34.7
+Darkmantle,Swarm of Spiders,34.7,65.3,34.7
+Giant Goat,Harpy,34.7,65.3,34.7
+Giant Octopus,Mimic,65.3,34.7,34.7
+Giant Poisonous Snake,Lizardfolk,34.7,65.3,34.7
+Giant Rat,Giant Wolf Spider,34.7,65.3,34.7
+Gibbering Mouther,Winter Wolf,34.7,65.3,34.7
+Gray Ooze,Pony,65.3,34.7,34.7
+Guardian Naga,Shambling Mound,34.7,65.3,34.7
+Invisible Stalker,Minotaur Skeleton,65.3,34.7,34.7
+Invisible Stalker,Red Dragon Wyrmling,65.3,34.7,34.7
+Mastiff,Stirge,65.3,34.7,34.7
+Minotaur Skeleton,Plesiosaurus,65.3,34.7,34.7
+Rust Monster,Specter,34.7,65.3,34.7
+Swarm of Ravens,"Wererat, Hybrid Form",65.3,34.7,34.7
+Bone Devil,Night Hag,65.4,34.6,34.6
+Camel,Giant Rat (Diseased),65.4,34.6,34.6
+Cult Fanatic,Reef Shark,34.6,65.4,34.6
+Efreeti,Young Blue Dragon,65.4,34.6,34.6
+Ghast,"Werewolf, Wolf Form",65.4,34.6,34.6
+Giant Badger,Magmin,34.6,65.4,34.6
+Giant Goat,Reef Shark,65.4,34.6,34.6
+Giant Owl,Swarm of Wasps,34.6,65.4,34.6
+Killer Whale,Shambling Mound,34.6,65.4,34.6
+Medusa,"Wereboar, Human Form",65.4,34.6,34.6
+Ochre Jelly,"Werewolf, Hybrid Form",34.6,65.4,34.6
+Phase Spider,Tiger,34.6,65.4,34.6
+Reef Shark,Swarm of Beetles,34.6,65.4,34.6
+"Vampire, Bat Form",Xorn,65.4,34.6,34.6
+Adult Copper Dragon,Cloud Giant,34.5,65.5,34.5
+Blue Dragon Wyrmling,Sea Hag,65.5,34.5,34.5
+Elk,Magmin,65.5,34.5,34.5
+Ghoul,"Wererat, Hybrid Form",65.5,34.5,34.5
+Giant Octopus,Veteran,34.5,65.5,34.5
+Giant Wolf Spider,Quasit,65.5,34.5,34.5
+Imp,Priest,34.5,65.5,34.5
+Kobold,Mule,34.5,65.5,34.5
+Magmin,Swarm of Rats,34.5,65.5,34.5
+Ogre,Winter Wolf,34.5,65.5,34.5
+Ancient Copper Dragon,Ancient Green Dragon,34.4,65.6,34.4
+Black Dragon Wyrmling,Merrow,34.4,65.6,34.4
+Blue Dragon Wyrmling,Veteran,65.6,34.4,34.4
+Clay Golem,Young Brass Dragon,65.6,34.4,34.4
+Crocodile,Giant Vulture,65.6,34.4,34.4
+Doppelganger,Saber-Toothed Tiger,34.4,65.6,34.4
+Ghoul,Hobgoblin,65.6,34.4,34.4
+Giant Crab,Giant Poisonous Snake,34.4,65.6,34.4
+Gorgon,Ice Devil,34.4,65.6,34.4
+Hell Hound,Will-o'-Wisp,65.6,34.4,34.4
+Axe Beak,"Wererat, Rat Form",34.3,65.7,34.3
+Cult Fanatic,Darkmantle,34.3,65.7,34.3
+Cultist,Noble,34.3,65.7,34.3
+Doppelganger,Manticore,34.3,65.7,34.3
+Giant Constrictor Snake,Rhinoceros,65.7,34.3,34.3
+Giant Frog,Scout,34.3,65.7,34.3
+Giant Sea Horse,Hobgoblin,34.3,65.7,34.3
+Gray Ooze,Imp,65.7,34.3,34.3
+Spy,Swarm of Insects,34.3,65.7,34.3
+Warhorse,White Dragon Wyrmling,34.3,65.7,34.3
+Axe Beak,Brass Dragon Wyrmling,34.2,65.8,34.2
+Blink Dog,Deep Gnome (Svirfneblin),34.2,65.8,34.2
+Blink Dog,Giant Bat,34.2,65.8,34.2
+Dire Wolf,Mummy,34.2,65.8,34.2
+Drider,Medusa,34.2,65.8,34.2
+Drow,Gnoll,34.2,65.8,34.2
+Drow,Lizardfolk,34.2,65.8,34.2
+Drow,Skeleton,65.8,34.2,34.2
+Dryad,Steam Mephit,65.8,34.2,34.2
+Elk,Giant Frog,65.8,34.2,34.2
+Giant Owl,Giant Vulture,65.8,34.2,34.2
+Gladiator,Xorn,34.2,65.8,34.2
+Orc,Spy,65.8,34.2,34.2
+Phase Spider,Specter,65.8,34.2,34.2
+Axe Beak,Giant Poisonous Snake,65.9,34.1,34.1
+Berserker,Manticore,65.9,34.1,34.1
+Blink Dog,Giant Vulture,34.1,65.9,34.1
+Blood Hawk,Giant Rat (Diseased),65.9,34.1,34.1
+Camel,Steam Mephit,34.1,65.9,34.1
+Centaur,Swarm of Quippers,65.9,34.1,34.1
+Crocodile,Giant Eagle,34.1,65.9,34.1
+Darkmantle,Swarm of Insects,34.1,65.9,34.1
+Dust Mephit,Gray Ooze,65.9,34.1,34.1
+Giant Lizard,Thug,34.1,65.9,34.1
+Giant Rat,Violet Fungus,34.1,65.9,34.1
+Giant Wasp,Noble,65.9,34.1,34.1
+Hyena,Lemure,34.1,65.9,34.1
+Reef Shark,Swarm of Insects,34.1,65.9,34.1
+Specter,Swarm of Wasps,65.9,34.1,34.1
+Animated Armor,Ochre Jelly,66.0,34.0,34.0
+Assassin,Hunter Shark,66.0,34.0,34.0
+Blink Dog,Giant Owl,34.0,66.0,34.0
+Crocodile,Swarm of Wasps,34.0,66.0,34.0
+Dretch,Dryad,66.0,34.0,34.0
+Drow,Elk,66.0,34.0,34.0
+Ghoul,Gnoll,66.0,34.0,34.0
+Giant Sea Horse,Ice Mephit,66.0,34.0,34.0
+Gnoll,Hobgoblin,66.0,34.0,34.0
+Guardian Naga,"Vampire, Bat Form",66.0,34.0,34.0
+Scout,Shadow,34.0,66.0,34.0
+Sea Hag,Succubus/Incubus,66.0,34.0,34.0
+Swarm of Poisonous Snakes,Warhorse Skeleton,66.0,34.0,34.0
+Ankheg,Saber-Toothed Tiger,33.9,66.1,33.9
+Archmage,Succubus/Incubus,33.9,66.1,33.9
+Blood Hawk,Goblin,33.9,66.1,33.9
+Chain Devil,Lamia,66.1,33.9,33.9
+Constrictor Snake,Imp,66.1,33.9,33.9
+Deep Gnome (Svirfneblin),Swarm of Wasps,33.9,66.1,33.9
+Drider,Rhinoceros,33.9,66.1,33.9
+Flying Sword,"Wererat, Human Form",33.9,66.1,33.9
+Ghoul,Spy,66.1,33.9,33.9
+Giant Rat,Giant Rat (Diseased),66.1,33.9,33.9
+Giant Wolf Spider,Zombie,33.9,66.1,33.9
+Imp,Noble,66.1,33.9,33.9
+Mammoth,Stone Giant,66.1,33.9,33.9
+Minotaur Skeleton,Wyvern,33.9,66.1,33.9
+Ogre,Ogre Zombie,33.9,66.1,33.9
+Specter,Warhorse,66.1,33.9,33.9
+Ankheg,Giant Scorpion,66.2,33.8,33.8
+Azer,Swarm of Poisonous Snakes,66.2,33.8,33.8
+Bandit,Cultist,66.2,33.8,33.8
+Barbed Devil,Plesiosaurus,33.8,66.2,33.8
+Bearded Devil,White Dragon Wyrmling,66.2,33.8,33.8
+Doppelganger,Merrow,66.2,33.8,33.8
+Ettercap,"Werewolf, Hybrid Form",33.8,66.2,33.8
+Ghoul,Giant Goat,66.2,33.8,33.8
+Giant Ape,Mammoth,66.2,33.8,33.8
+Giant Rat (Diseased),Giant Wolf Spider,33.8,66.2,33.8
+Priest,Swarm of Rats,33.8,66.2,33.8
+Sea Hag,"Wereboar, Hybrid Form",33.8,66.2,33.8
+Thug,"Wererat, Hybrid Form",66.2,33.8,33.8
+"Weretiger, Hybrid Form",Winter Wolf,66.2,33.8,33.8
+Basilisk,Blue Dragon Wyrmling,33.7,66.3,33.7
+Basilisk,Giant Octopus,66.3,33.7,33.7
+Bearded Devil,Mimic,33.7,66.3,33.7
+Berserker,Spirit Naga,33.7,66.3,33.7
+Copper Dragon Wyrmling,Giant Eagle,66.3,33.7,33.7
+Couatl,"Vampire, Bat Form",33.7,66.3,33.7
+Cult Fanatic,Drow,66.3,33.7,33.7
+Giant Octopus,Merrow,66.3,33.7,33.7
+Giant Spider,White Dragon Wyrmling,33.7,66.3,33.7
+Manticore,Silver Dragon Wyrmling,33.7,66.3,33.7
+Mimic,Will-o'-Wisp,66.3,33.7,33.7
+Skeleton,Swarm of Bats,33.7,66.3,33.7
+Solar,Storm Giant,66.3,33.7,33.7
+Swarm of Rats,Swarm of Ravens,33.7,66.3,33.7
+Thug,Warhorse,33.7,66.3,33.7
+Unicorn,"Weretiger, Human Form",66.3,33.7,33.7
+Wraith,Wyvern,66.3,33.7,33.7
+Animated Armor,Wight,66.4,33.6,33.6
+Berserker,Sea Hag,66.4,33.6,33.6
+Black Bear,Cockatrice,66.4,33.6,33.6
+Brass Dragon Wyrmling,Deep Gnome (Svirfneblin),66.4,33.6,33.6
+Dire Wolf,Giant Elk,33.6,66.4,33.6
+Drow,Flying Sword,33.6,66.4,33.6
+Erinyes,Stone Giant,33.6,66.4,33.6
+Ghast,"Werewolf, Hybrid Form",66.4,33.6,33.6
+Giant Frog,Priest,33.6,66.4,33.6
+Goblin,Skeleton,33.6,66.4,33.6
+Harpy,Orc,66.4,33.6,33.6
+Owlbear,Silver Dragon Wyrmling,66.4,33.6,33.6
+Owlbear,Vampire Spawn,66.4,33.6,33.6
+Swarm of Rats,Thug,33.6,66.4,33.6
+Swarm of Wasps,Warhorse Skeleton,33.6,66.4,33.6
+Young Green Dragon,Young White Dragon,66.4,33.6,33.6
+Bone Devil,Hezrou,33.5,66.5,33.5
+Deep Gnome (Svirfneblin),"Wererat, Human Form",33.5,66.5,33.5
+Elk,Giant Wasp,66.5,33.5,33.5
+Flying Sword,Hobgoblin,66.5,33.5,33.5
+Gargoyle,Green Dragon Wyrmling,33.5,66.5,33.5
+Giant Centipede,Giant Rat,33.5,66.5,33.5
+Giant Rat,Goblin,33.5,66.5,33.5
+Goblin,Sahuagin,33.5,66.5,33.5
+Grimlock,Riding Horse,33.5,66.5,33.5
+Gynosphinx,Hezrou,66.5,33.5,33.5
+Hobgoblin,Magmin,66.5,33.5,33.5
+Iron Golem,Roc,33.5,66.5,33.5
+Knight,Plesiosaurus,33.5,66.5,33.5
+Manticore,"Wereboar, Human Form",33.5,66.5,33.5
+Owlbear,Troll,33.5,66.5,33.5
+Rakshasa,Vrock,66.5,33.5,33.5
+Silver Dragon Wyrmling,Spirit Naga,33.5,66.5,33.5
+Blink Dog,Gnoll,33.4,66.6,33.4
+Chimera,Rakshasa,66.6,33.4,33.4
+Deer,Giant Centipede,33.4,66.6,33.4
+Elk,Panther,66.6,33.4,33.4
+Giant Octopus,Hunter Shark,33.4,66.6,33.4
+Gibbering Mouther,Nightmare,33.4,66.6,33.4
+Gladiator,Lamia,66.6,33.4,33.4
+Killer Whale,"Vampire, Bat Form",66.6,33.4,33.4
+Noble,Scout,33.4,66.6,33.4
+Owlbear,"Wereboar, Human Form",66.6,33.4,33.4
+Riding Horse,Wolf,66.6,33.4,33.4
+Scout,Wolf,66.6,33.4,33.4
+Shadow,Specter,33.4,66.6,33.4
+"Werebear, Bear Form",Xorn,66.6,33.4,33.4
+Adult Gold Dragon,Remorhaz,33.3,66.7,33.3
+Animated Armor,Azer,33.3,66.7,33.3
+Assassin,Drider,66.7,33.3,33.3
+Bugbear,Swarm of Poisonous Snakes,66.7,33.3,33.3
+Centaur,Ghast,66.7,33.3,33.3
+Cockatrice,Panther,66.7,33.3,33.3
+Death Dog,Mage,66.7,33.3,33.3
+Doppelganger,Giant Hyena,66.7,33.3,33.3
+Giant Octopus,Hell Hound,66.7,33.3,33.3
+Giant Rat (Diseased),Giant Weasel,33.3,66.7,33.3
+Giant Rat (Diseased),Goblin,33.3,66.7,33.3
+Giant Spider,Ochre Jelly,33.3,66.7,33.3
+Grick,"Werewolf, Wolf Form",33.3,66.7,33.3
+Grimlock,Hobgoblin,33.3,66.7,33.3
+Hill Giant,Night Hag,66.7,33.3,33.3
+Knight,Silver Dragon Wyrmling,66.7,33.3,33.3
+Mimic,Mummy,33.3,66.7,33.3
+Specter,Swarm of Spiders,66.7,33.3,33.3
+Axe Beak,"Wererat, Hybrid Form",33.2,66.8,33.2
+Brass Dragon Wyrmling,Spy,66.8,33.2,33.2
+Bronze Dragon Wyrmling,Ghast,66.8,33.2,33.2
+Copper Dragon Wyrmling,White Dragon Wyrmling,33.2,66.8,33.2
+Dust Mephit,Giant Frog,66.8,33.2,33.2
+Elephant,"Vampire, Vampire Form",33.2,66.8,33.2
+Ettin,Green Hag,33.2,66.8,33.2
+Giant Ape,Young Bronze Dragon,66.8,33.2,33.2
+Giant Crab,Grimlock,66.8,33.2,33.2
+Giant Spider,Warhorse,66.8,33.2,33.2
+Harpy,Rust Monster,66.8,33.2,33.2
+Hill Giant,Triceratops,33.2,66.8,33.2
+Polar Bear,Sea Hag,33.2,66.8,33.2
+Rakshasa,Xorn,33.2,66.8,33.2
+Satyr,"Wererat, Human Form",66.8,33.2,33.2
+"Wereboar, Boar Form","Wereboar, Human Form",66.8,33.2,33.2
+Adult Black Dragon,Behir,66.9,33.1,33.1
+Adult Green Dragon,Fire Giant,33.1,66.9,33.1
+Ankheg,Ghast,66.9,33.1,33.1
+Black Bear,Swarm of Rats,33.1,66.9,33.1
+Blue Dragon Wyrmling,Saber-Toothed Tiger,66.9,33.1,33.1
+Bugbear,Mummy,33.1,66.9,33.1
+Giant Wasp,Ice Mephit,66.9,33.1,33.1
+Giant Wolf Spider,Gray Ooze,33.1,66.9,33.1
+Grick,Will-o'-Wisp,33.1,66.9,33.1
+Half-Red Dragon Veteran,Hunter Shark,66.9,33.1,33.1
+Ice Devil,Young Bronze Dragon,66.9,33.1,33.1
+Invisible Stalker,Oni,33.1,66.9,33.1
+Swarm of Insects,"Wererat, Human Form",66.9,33.1,33.1
+Centaur,Giant Boar,67.0,33.0,33.0
+Constrictor Snake,Pony,67.0,33.0,33.0
+Cultist,Imp,33.0,67.0,33.0
+Deep Gnome (Svirfneblin),Hobgoblin,67.0,33.0,33.0
+Doppelganger,Mimic,67.0,33.0,33.0
+Horned Devil,Tyrannosaurus Rex,33.0,67.0,33.0
+Kraken,Remorhaz,67.0,33.0,33.0
+Merrow,Mummy,33.0,67.0,33.0
+Chuul,Elephant,32.9,67.1,32.9
+Copper Dragon Wyrmling,Swarm of Spiders,67.1,32.9,32.9
+Crocodile,Swarm of Insects,32.9,67.1,32.9
+Doppelganger,Sea Hag,32.9,67.1,32.9
+Giant Octopus,Manticore,32.9,67.1,32.9
+Giant Weasel,Riding Horse,32.9,67.1,32.9
+Glabrezu,Gorgon,67.1,32.9,32.9
+Gray Ooze,Scout,32.9,67.1,32.9
+Green Hag,Oni,67.1,32.9,32.9
+Griffon,Rhinoceros,32.9,67.1,32.9
+Hydra,Shambling Mound,67.1,32.9,32.9
+Orc,Shadow,67.1,32.9,32.9
+Plesiosaurus,"Weretiger, Hybrid Form",67.1,32.9,32.9
+Spy,Swarm of Beetles,32.9,67.1,32.9
+Swarm of Centipedes,Warhorse Skeleton,32.9,67.1,32.9
+Ankheg,Veteran,32.8,67.2,32.8
+Awakened Tree,Fire Elemental,32.8,67.2,32.8
+Bandit Captain,Gibbering Mouther,32.8,67.2,32.8
+Blue Dragon Wyrmling,Giant Elk,67.2,32.8,32.8
+Centaur,Veteran,32.8,67.2,32.8
+Death Dog,Grick,32.8,67.2,32.8
+Dretch,Giant Frog,32.8,67.2,32.8
+Dretch,Giant Wasp,32.8,67.2,32.8
+Ettin,Invisible Stalker,67.2,32.8,32.8
+Giant Ape,Gorgon,67.2,32.8,32.8
+Giant Owl,Swarm of Spiders,32.8,67.2,32.8
+Glabrezu,Young Bronze Dragon,67.2,32.8,32.8
+Guardian Naga,Water Elemental,67.2,32.8,32.8
+Hezrou,Young Green Dragon,32.8,67.2,32.8
+Otyugh,"Vampire, Bat Form",32.8,67.2,32.8
+Owlbear,Winter Wolf,32.8,67.2,32.8
+Triceratops,Young Copper Dragon,67.2,32.8,32.8
+Dretch,Magmin,32.7,67.3,32.7
+Elephant,Otyugh,67.3,32.7,32.7
+Giant Constrictor Snake,Gold Dragon Wyrmling,32.7,67.3,32.7
+Knight,Ogre,67.3,32.7,32.7
+Salamander,Swarm of Quippers,67.3,32.7,32.7
+Bandit,Giant Crab,32.6,67.4,32.6
+Darkmantle,Giant Vulture,67.4,32.6,32.6
+Drow,Giant Bat,32.6,67.4,32.6
+Giant Frog,Hobgoblin,32.6,67.4,32.6
+Giant Goat,Specter,32.6,67.4,32.6
+Goat,Vulture,67.4,32.6,32.6
+Ogre Zombie,Red Dragon Wyrmling,32.6,67.4,32.6
+Orc,Reef Shark,67.4,32.6,32.6
+Axe Beak,Draft Horse,32.5,67.5,32.5
+Bandit Captain,Giant Octopus,67.5,32.5,32.5
+Bearded Devil,Centaur,32.5,67.5,32.5
+Copper Dragon Wyrmling,Swarm of Centipedes,67.5,32.5,32.5
+Copper Dragon Wyrmling,Swarm of Insects,67.5,32.5,32.5
+Couatl,Otyugh,67.5,32.5,32.5
+Crocodile,Swarm of Beetles,32.5,67.5,32.5
+Darkmantle,Swarm of Rats,67.5,32.5,32.5
+Ettercap,Giant Toad,67.5,32.5,32.5
+Giant Bat,Hobgoblin,67.5,32.5,32.5
+Giant Crab,Giant Weasel,67.5,32.5,32.5
+Giant Elk,"Wereboar, Hybrid Form",32.5,67.5,32.5
+Giant Sea Horse,Pony,67.5,32.5,32.5
+Gorgon,Marilith,32.5,67.5,32.5
+Hippogriff,Reef Shark,67.5,32.5,32.5
+Hobgoblin,Swarm of Beetles,32.5,67.5,32.5
+Hobgoblin,Swarm of Ravens,32.5,67.5,32.5
+Mummy Lord,Young White Dragon,32.5,67.5,32.5
+Phase Spider,Swarm of Poisonous Snakes,32.5,67.5,32.5
+Sahuagin,Scout,32.5,67.5,32.5
+Satyr,Swarm of Ravens,67.5,32.5,32.5
+Silver Dragon Wyrmling,Unicorn,32.5,67.5,32.5
+"Werebear, Hybrid Form",Xorn,67.5,32.5,32.5
+"Wereboar, Human Form","Weretiger, Human Form",32.5,67.5,32.5
+Bandit,Steam Mephit,67.6,32.4,32.4
+Black Dragon Wyrmling,Centaur,32.4,67.6,32.4
+Blink Dog,Crocodile,32.4,67.6,32.4
+Blink Dog,Lizardfolk,32.4,67.6,32.4
+Boar,Magmin,32.4,67.6,32.4
+Cockatrice,Giant Frog,67.6,32.4,32.4
+Gargoyle,Warhorse Skeleton,67.6,32.4,32.4
+Giant Owl,Swarm of Insects,32.4,67.6,32.4
+Giant Spider,Tiger,32.4,67.6,32.4
+Gray Ooze,Ice Mephit,67.6,32.4,32.4
+Hobgoblin,"Wererat, Rat Form",32.4,67.6,32.4
+Ancient Brass Dragon,Remorhaz,67.7,32.3,32.3
+Archmage,Giant Hyena,67.7,32.3,32.3
+Blink Dog,Wolf,67.7,32.3,32.3
+Boar,Mule,67.7,32.3,32.3
+Bronze Dragon Wyrmling,Mummy,32.3,67.7,32.3
+Djinni,Young Black Dragon,67.7,32.3,32.3
+Drow,Magmin,67.7,32.3,32.3
+Elk,Swarm of Bats,32.3,67.7,32.3
+Giant Centipede,Giant Rat (Diseased),32.3,67.7,32.3
+Giant Octopus,Sea Hag,32.3,67.7,32.3
+Giant Weasel,Scout,32.3,67.7,32.3
+Griffon,Silver Dragon Wyrmling,32.3,67.7,32.3
+Plesiosaurus,"Weretiger, Tiger Form",67.7,32.3,32.3
+Animated Armor,Swarm of Quippers,32.2,67.8,32.2
+Ankheg,Bugbear,67.8,32.2,32.2
+Cult Fanatic,Riding Horse,67.8,32.2,32.2
+Ettercap,Gargoyle,32.2,67.8,32.2
+Ettercap,Will-o'-Wisp,32.2,67.8,32.2
+Flying Sword,Satyr,32.2,67.8,32.2
+Ghoul,Giant Owl,67.8,32.2,32.2
+Goblin,Quasit,67.8,32.2,32.2
+Imp,Pony,67.8,32.2,32.2
+Invisible Stalker,Wyvern,32.2,67.8,32.2
+Owlbear,Pegasus,67.8,32.2,32.2
+Swarm of Poisonous Snakes,Worg,67.8,32.2,32.2
+Adult Blue Dragon,Adult Bronze Dragon,67.9,32.1,32.1
+Black Bear,Giant Crab,67.9,32.1,32.1
+Boar,Imp,32.1,67.9,32.1
+Cockatrice,Hobgoblin,32.1,67.9,32.1
+Cultist,Giant Rat (Diseased),67.9,32.1,32.1
+Cultist,Grimlock,32.1,67.9,32.1
+Darkmantle,Giant Bat,67.9,32.1,32.1
+Doppelganger,Hell Hound,67.9,32.1,32.1
+Eagle,Hyena,67.9,32.1,32.1
+Efreeti,Mammoth,67.9,32.1,32.1
+Flying Sword,Specter,32.1,67.9,32.1
+Giant Boar,Mummy,32.1,67.9,32.1
+Giant Goat,Warhorse,32.1,67.9,32.1
+Giant Wasp,Pony,67.9,32.1,32.1
+Giant Wolf Spider,Violet Fungus,67.9,32.1,32.1
+Hobgoblin,Spy,32.1,67.9,32.1
+Invisible Stalker,Minotaur,32.1,67.9,32.1
+Lion,"Wererat, Human Form",67.9,32.1,32.1
+Mammoth,Roper,67.9,32.1,32.1
+Merrow,Succubus/Incubus,32.1,67.9,32.1
+Axe Beak,Blink Dog,68.0,32.0,32.0
+Brass Dragon Wyrmling,Flying Sword,68.0,32.0,32.0
+Copper Dragon Wyrmling,Satyr,68.0,32.0,32.0
+Elephant,"Werebear, Bear Form",32.0,68.0,32.0
+Elk,Gray Ooze,68.0,32.0,32.0
+Flying Sword,Giant Poisonous Snake,68.0,32.0,32.0
+Ghost,Gold Dragon Wyrmling,32.0,68.0,32.0
+Giant Scorpion,"Werewolf, Hybrid Form",68.0,32.0,32.0
+Lemure,Pseudodragon,32.0,68.0,32.0
+Phase Spider,Warhorse,68.0,32.0,32.0
+Ankheg,Will-o'-Wisp,68.1,31.9,31.9
+Axe Beak,Ghoul,31.9,68.1,31.9
+Brown Bear,Phase Spider,68.1,31.9,31.9
+Copper Dragon Wyrmling,Swarm of Wasps,68.1,31.9,31.9
+Crocodile,Lion,31.9,68.1,31.9
+Death Dog,Giant Toad,31.9,68.1,31.9
+Ettercap,Ghast,31.9,68.1,31.9
+Flesh Golem,Vrock,31.9,68.1,31.9
+Green Dragon Wyrmling,Salamander,31.9,68.1,31.9
+Gynosphinx,Roper,31.9,68.1,31.9
+Knight,"Weretiger, Human Form",68.1,31.9,31.9
+Noble,Priest,31.9,68.1,31.9
+Bearded Devil,Giant Hyena,31.8,68.2,31.8
+Black Bear,Giant Sea Horse,68.2,31.8,31.8
+Couatl,"Werebear, Hybrid Form",31.8,68.2,31.8
+Crocodile,Swarm of Rats,68.2,31.8,31.8
+Deva,Guardian Naga,31.8,68.2,31.8
+Dust Mephit,Imp,68.2,31.8,31.8
+Ghast,Salamander,31.8,68.2,31.8
+Giant Eagle,Orc,68.2,31.8,31.8
+Giant Owl,Swarm of Rats,68.2,31.8,31.8
+Giant Poisonous Snake,Spy,31.8,68.2,31.8
+Hezrou,Young Brass Dragon,68.2,31.8,31.8
+Hobgoblin,Wolf,68.2,31.8,31.8
+Plesiosaurus,Vrock,31.8,68.2,31.8
+Rhinoceros,Sea Hag,68.2,31.8,31.8
+Thug,"Wererat, Rat Form",68.2,31.8,31.8
+Boar,Pseudodragon,68.3,31.7,31.7
+Couatl,Green Hag,68.3,31.7,31.7
+Duergar,White Dragon Wyrmling,31.7,68.3,31.7
+Giant Elk,Vampire Spawn,31.7,68.3,31.7
+Giant Goat,Shadow,68.3,31.7,31.7
+Giant Octopus,Green Dragon Wyrmling,68.3,31.7,31.7
+Green Dragon Wyrmling,Mummy,31.7,68.3,31.7
+Grimlock,Scout,31.7,68.3,31.7
+Minotaur,Water Elemental,31.7,68.3,31.7
+Salamander,Succubus/Incubus,31.7,68.3,31.7
+Skeleton,Zombie,68.3,31.7,31.7
+Swarm of Beetles,Warhorse Skeleton,31.7,68.3,31.7
+Young Brass Dragon,Young White Dragon,31.7,68.3,31.7
+Ape,Swarm of Beetles,31.6,68.4,31.6
+Awakened Tree,Ogre Zombie,68.4,31.6,31.6
+Basilisk,Centaur,68.4,31.6,31.6
+Crocodile,Hobgoblin,68.4,31.6,31.6
+Draft Horse,Hippogriff,68.4,31.6,31.6
+Drider,Gelatinous Cube,68.4,31.6,31.6
+Elephant,Green Hag,68.4,31.6,31.6
+Ettercap,"Werewolf, Wolf Form",31.6,68.4,31.6
+Ghost,Ogre Zombie,31.6,68.4,31.6
+Ghost,Troll,31.6,68.4,31.6
+Giant Bat,Swarm of Beetles,31.6,68.4,31.6
+Giant Crab,Swarm of Rats,31.6,68.4,31.6
+Giant Wolf Spider,Wolf,31.6,68.4,31.6
+Green Hag,"Vampire, Bat Form",31.6,68.4,31.6
+Hobgoblin,Swarm of Insects,31.6,68.4,31.6
+Lich,Roper,31.6,68.4,31.6
+Swarm of Centipedes,Worg,31.6,68.4,31.6
+Bearded Devil,Polar Bear,31.5,68.5,31.5
+Brass Dragon Wyrmling,Crocodile,68.5,31.5,31.5
+Clay Golem,Hydra,68.5,31.5,31.5
+Cockatrice,Constrictor Snake,68.5,31.5,31.5
+Death Dog,Warhorse Skeleton,31.5,68.5,31.5
+Djinni,Young Bronze Dragon,31.5,68.5,31.5
+Doppelganger,Hunter Shark,31.5,68.5,31.5
+Gelatinous Cube,"Wereboar, Hybrid Form",31.5,68.5,31.5
+Giant Vulture,Swarm of Insects,31.5,68.5,31.5
+Grick,Swarm of Quippers,31.5,68.5,31.5
+Ogre Zombie,Troll,68.5,31.5,31.5
+Specter,Swarm of Centipedes,68.5,31.5,31.5
+Black Bear,Shadow,31.4,68.6,31.4
+Black Dragon Wyrmling,Giant Octopus,31.4,68.6,31.4
+Drow,Giant Vulture,31.4,68.6,31.4
+Duergar,Tiger,31.4,68.6,31.4
+Ghast,Swarm of Poisonous Snakes,68.6,31.4,31.4
+Ghoul,Lizardfolk,68.6,31.4,31.4
+Giant Badger,Giant Wasp,31.4,68.6,31.4
+Giant Poisonous Snake,Hippogriff,31.4,68.6,31.4
+Giant Weasel,Giant Wolf Spider,68.6,31.4,31.4
+Hobgoblin,Swarm of Wasps,31.4,68.6,31.4
+Magmin,Swarm of Bats,31.4,68.6,31.4
+Orc,Warhorse Skeleton,31.4,68.6,31.4
+Reef Shark,Swarm of Rats,68.6,31.4,31.4
+Ancient Brass Dragon,Balor,68.7,31.3,31.3
+Archmage,Mimic,68.7,31.3,31.3
+Assassin,Knight,31.3,68.7,31.3
+Assassin,Sea Hag,68.7,31.3,31.3
+Balor,Roc,68.7,31.3,31.3
+Black Dragon Wyrmling,Warhorse Skeleton,68.7,31.3,31.3
+Clay Golem,Mummy Lord,68.7,31.3,31.3
+Doppelganger,Green Dragon Wyrmling,68.7,31.3,31.3
+Ghost,Veteran,68.7,31.3,31.3
+Giant Crab,Goblin,68.7,31.3,31.3
+Green Hag,Wyvern,68.7,31.3,31.3
+Grick,"Werewolf, Hybrid Form",31.3,68.7,31.3
+Hobgoblin,Swarm of Spiders,31.3,68.7,31.3
+Hunter Shark,Succubus/Incubus,68.7,31.3,31.3
+Magmin,Pony,68.7,31.3,31.3
+Nightmare,Ogre Zombie,68.7,31.3,31.3
+Young Copper Dragon,Young Green Dragon,31.3,68.7,31.3
+Adult Brass Dragon,Young Silver Dragon,68.8,31.2,31.2
+Ankheg,Black Pudding,68.8,31.2,31.2
+Basilisk,Giant Hyena,68.8,31.2,31.2
+Bone Devil,Clay Golem,31.2,68.8,31.2
+Brass Dragon Wyrmling,Darkmantle,68.8,31.2,31.2
+Brass Dragon Wyrmling,Giant Owl,68.8,31.2,31.2
+Chimera,Water Elemental,31.2,68.8,31.2
+Ettin,Otyugh,31.2,68.8,31.2
+Ghast,Mummy,31.2,68.8,31.2
+Giant Frog,Grimlock,68.8,31.2,31.2
+Giant Octopus,Swarm of Quippers,68.8,31.2,31.2
+Giant Owl,Lion,31.2,68.8,31.2
+Ice Devil,Roper,68.8,31.2,31.2
+Night Hag,Young Copper Dragon,31.2,68.8,31.2
+Specter,Swarm of Beetles,68.8,31.2,31.2
+Specter,Swarm of Insects,68.8,31.2,31.2
+Veteran,"Wereboar, Hybrid Form",31.2,68.8,31.2
+Adult Brass Dragon,Adult White Dragon,31.1,68.9,31.1
+Azer,Giant Octopus,31.1,68.9,31.1
+Basilisk,Salamander,68.9,31.1,31.1
+Behir,Tyrannosaurus Rex,68.9,31.1,31.1
+Chain Devil,Deva,31.1,68.9,31.1
+Deep Gnome (Svirfneblin),Swarm of Bats,68.9,31.1,31.1
+Efreeti,Giant Ape,68.9,31.1,31.1
+Giant Badger,Ice Mephit,31.1,68.9,31.1
+Giant Boar,Giant Elk,31.1,68.9,31.1
+Giant Rat (Diseased),Noble,31.1,68.9,31.1
+Giant Weasel,Goblin,68.9,31.1,31.1
+Giant Weasel,Priest,31.1,68.9,31.1
+Invisible Stalker,Wraith,31.1,68.9,31.1
+Shadow,Swarm of Rats,68.9,31.1,31.1
+Swarm of Centipedes,Swarm of Ravens,68.9,31.1,31.1
+Tiger,Warhorse Skeleton,68.9,31.1,31.1
+Ankheg,Sea Hag,31.0,69.0,31.0
+Ape,Hobgoblin,69.0,31.0,31.0
+Azer,Tiger,69.0,31.0,31.0
+Bandit,Ice Mephit,31.0,69.0,31.0
+Behir,Stone Golem,69.0,31.0,31.0
+Bronze Dragon Wyrmling,Succubus/Incubus,31.0,69.0,31.0
+Brown Bear,Copper Dragon Wyrmling,69.0,31.0,31.0
+Drider,Manticore,69.0,31.0,31.0
+Giant Goat,Mage,31.0,69.0,31.0
+Giant Hyena,Saber-Toothed Tiger,31.0,69.0,31.0
+Giant Sea Horse,Grimlock,69.0,31.0,31.0
+Giant Shark,Young Blue Dragon,31.0,69.0,31.0
+Harpy,Swarm of Ravens,69.0,31.0,31.0
+Hobgoblin,"Wererat, Hybrid Form",31.0,69.0,31.0
+Lizardfolk,Swarm of Bats,69.0,31.0,31.0
+Mastiff,Mule,31.0,69.0,31.0
+Merrow,Will-o'-Wisp,69.0,31.0,31.0
+Shambling Mound,Young Copper Dragon,31.0,69.0,31.0
+Bandit,Giant Frog,30.9,69.1,30.9
+Berserker,Veteran,69.1,30.9,30.9
+Black Bear,Dust Mephit,69.1,30.9,30.9
+Blink Dog,Skeleton,69.1,30.9,30.9
+Blood Hawk,Dryad,30.9,69.1,30.9
+Bronze Dragon Wyrmling,Gibbering Mouther,30.9,69.1,30.9
+Centaur,Giant Scorpion,69.1,30.9,30.9
+Cockatrice,Sahuagin,69.1,30.9,30.9
+Commoner,Hyena,30.9,69.1,30.9
+Dretch,Magma Mephit,30.9,69.1,30.9
+Dryad,Noble,30.9,69.1,30.9
+Giant Rat,Noble,30.9,69.1,30.9
+Hobgoblin,Orc,30.9,69.1,30.9
+Lizardfolk,"Wererat, Human Form",30.9,69.1,30.9
+Red Dragon Wyrmling,Vrock,30.9,69.1,30.9
+Specter,White Dragon Wyrmling,30.9,69.1,30.9
+Tiger,Wight,69.1,30.9,30.9
+Acolyte,Eagle,69.2,30.8,30.8
+Archmage,Giant Elk,30.8,69.2,30.8
+Axe Beak,Drow,69.2,30.8,30.8
+Bandit Captain,Polar Bear,69.2,30.8,30.8
+Blue Dragon Wyrmling,Manticore,69.2,30.8,30.8
+Bugbear,Tiger,69.2,30.8,30.8
+Clay Golem,Young Green Dragon,30.8,69.2,30.8
+Cloaker,Fire Elemental,30.8,69.2,30.8
+Cultist,Giant Rat,69.2,30.8,30.8
+Draft Horse,Orc,69.2,30.8,30.8
+Duergar,Swarm of Wasps,69.2,30.8,30.8
+Ghost,Giant Elk,69.2,30.8,30.8
+Giant Badger,Panther,30.8,69.2,30.8
+Giant Elk,Ogre,30.8,69.2,30.8
+Giant Octopus,Will-o'-Wisp,69.2,30.8,30.8
+Giant Scorpion,"Werewolf, Wolf Form",69.2,30.8,30.8
+Gnoll,Swarm of Bats,69.2,30.8,30.8
+Minotaur,"Werebear, Human Form",69.2,30.8,30.8
+Swarm of Insects,Worg,30.8,69.2,30.8
+Swarm of Poisonous Snakes,Wight,69.2,30.8,30.8
+"Vampire, Vampire Form",Water Elemental,69.2,30.8,30.8
+Archmage,Hell Hound,69.3,30.7,30.7
+Berserker,Unicorn,30.7,69.3,30.7
+Cult Fanatic,Giant Goat,30.7,69.3,30.7
+Djinni,Gynosphinx,69.3,30.7,30.7
+Eagle,Lemure,30.7,69.3,30.7
+Fire Giant,Nalfeshnee,30.7,69.3,30.7
+Ghost,Rhinoceros,69.3,30.7,30.7
+Giant Spider,Swarm of Poisonous Snakes,30.7,69.3,30.7
+Giant Vulture,Swarm of Spiders,30.7,69.3,30.7
+Half-Red Dragon Veteran,Unicorn,30.7,69.3,30.7
+Lizardfolk,Swarm of Beetles,30.7,69.3,30.7
+Lizardfolk,Swarm of Centipedes,30.7,69.3,30.7
+Night Hag,"Werebear, Hybrid Form",69.3,30.7,30.7
+Swarm of Spiders,Warhorse Skeleton,30.7,69.3,30.7
+Animated Armor,Giant Scorpion,30.6,69.4,30.6
+Animated Armor,Giant Spider,69.4,30.6,30.6
+Axe Beak,Scout,69.4,30.6,30.6
+Azer,White Dragon Wyrmling,69.4,30.6,30.6
+Berserker,Giant Elk,69.4,30.6,30.6
+Brass Dragon Wyrmling,Phase Spider,30.6,69.4,30.6
+Chimera,Chuul,69.4,30.6,30.6
+Couatl,Guardian Naga,30.6,69.4,30.6
+Dust Mephit,Magma Mephit,69.4,30.6,30.6
+Earth Elemental,Mummy Lord,69.4,30.6,30.6
+Fire Elemental,Vrock,30.6,69.4,30.6
+Gargoyle,Worg,69.4,30.6,30.6
+Giant Crocodile,Lich,30.6,69.4,30.6
+Giant Vulture,Swarm of Centipedes,30.6,69.4,30.6
+Gibbering Mouther,Sea Hag,69.4,30.6,30.6
+Gnoll,Swarm of Beetles,30.6,69.4,30.6
+Lion,Worg,30.6,69.4,30.6
+Orc,Phase Spider,30.6,69.4,30.6
+Adult Brass Dragon,Androsphinx,30.5,69.5,30.5
+Balor,Solar,30.5,69.5,30.5
+Blood Hawk,Noble,30.5,69.5,30.5
+Bone Devil,Earth Elemental,30.5,69.5,30.5
+Brass Dragon Wyrmling,Giant Spider,30.5,69.5,30.5
+Clay Golem,Djinni,30.5,69.5,30.5
+Cockatrice,Giant Wasp,69.5,30.5,30.5
+Elk,Giant Lizard,30.5,69.5,30.5
+Giant Bat,Swarm of Spiders,30.5,69.5,30.5
+Giant Centipede,Pseudodragon,30.5,69.5,30.5
+Giant Crocodile,Young White Dragon,30.5,69.5,30.5
+Giant Lizard,Giant Poisonous Snake,69.5,30.5,30.5
+Giant Owl,Harpy,30.5,69.5,30.5
+Giant Owl,Warhorse,30.5,69.5,30.5
+Giant Wasp,Grimlock,69.5,30.5,30.5
+Gold Dragon Wyrmling,Minotaur Skeleton,30.5,69.5,30.5
+Hippogriff,Shadow,69.5,30.5,30.5
+Minotaur,Vrock,69.5,30.5,30.5
+Polar Bear,Saber-Toothed Tiger,30.5,69.5,30.5
+Swarm of Beetles,Swarm of Ravens,69.5,30.5,30.5
+White Dragon Wyrmling,Wight,69.5,30.5,30.5
+Ankheg,Hunter Shark,30.4,69.6,30.4
+Bandit,Panther,30.4,69.6,30.4
+Berserker,Knight,30.4,69.6,30.4
+Blood Hawk,Dretch,30.4,69.6,30.4
+Blue Dragon Wyrmling,Knight,30.4,69.6,30.4
+Cloaker,Flesh Golem,30.4,69.6,30.4
+Crocodile,Harpy,30.4,69.6,30.4
+Crocodile,Satyr,30.4,69.6,30.4
+Deva,Otyugh,69.6,30.4,30.4
+Drider,Gibbering Mouther,69.6,30.4,30.4
+Gelatinous Cube,Unicorn,30.4,69.6,30.4
+Ghost,Winter Wolf,30.4,69.6,30.4
+Giant Eagle,Thug,69.6,30.4,30.4
+Giant Elk,"Wereboar, Boar Form",30.4,69.6,30.4
+Harpy,Phase Spider,30.4,69.6,30.4
+Mage,Swarm of Ravens,69.6,30.4,30.4
+Medusa,Spirit Naga,30.4,69.6,30.4
+Mummy,Silver Dragon Wyrmling,30.4,69.6,30.4
+Ochre Jelly,Swarm of Quippers,30.4,69.6,30.4
+Ochre Jelly,"Werewolf, Wolf Form",30.4,69.6,30.4
+Ankheg,Azer,69.7,30.3,30.3
+Archmage,Merrow,69.7,30.3,30.3
+Bandit Captain,Ghost,30.3,69.7,30.3
+Copper Dragon Wyrmling,Swarm of Beetles,69.7,30.3,30.3
+Crocodile,Warhorse,30.3,69.7,30.3
+Cult Fanatic,Orc,30.3,69.7,30.3
+Giant Vulture,Hobgoblin,69.7,30.3,30.3
+Gray Ooze,Hobgoblin,30.3,69.7,30.3
+Hell Hound,Mummy,30.3,69.7,30.3
+Ice Devil,Treant,69.7,30.3,30.3
+Lizardfolk,Swarm of Insects,30.3,69.7,30.3
+Manticore,"Wereboar, Boar Form",30.3,69.7,30.3
+Saber-Toothed Tiger,"Wereboar, Boar Form",30.3,69.7,30.3
+Spy,Warhorse,30.3,69.7,30.3
+Swarm of Spiders,Worg,30.3,69.7,30.3
+Adult Green Dragon,Adult White Dragon,69.8,30.2,30.2
+Air Elemental,Green Hag,69.8,30.2,30.2
+Ankheg,Gelatinous Cube,30.2,69.8,30.2
+Awakened Shrub,Commoner,69.8,30.2,30.2
+Barbed Devil,Red Dragon Wyrmling,30.2,69.8,30.2
+Barbed Devil,Unicorn,69.8,30.2,30.2
+Brown Bear,Swarm of Quippers,30.2,69.8,30.2
+Centaur,Hunter Shark,30.2,69.8,30.2
+Ghoul,Giant Bat,69.8,30.2,30.2
+Giant Spider,Swarm of Wasps,69.8,30.2,30.2
+Hydra,Triceratops,30.2,69.8,30.2
+Mule,Noble,30.2,69.8,30.2
+Ogre,Pegasus,69.8,30.2,30.2
+Polar Bear,Swarm of Quippers,69.8,30.2,30.2
+Wolf,Zombie,69.8,30.2,30.2
+Bandit,Giant Wasp,30.1,69.9,30.1
+Basilisk,Dire Wolf,69.9,30.1,30.1
+Bearded Devil,Swarm of Poisonous Snakes,69.9,30.1,30.1
+Black Dragon Wyrmling,Polar Bear,30.1,69.9,30.1
+Centaur,Sea Hag,30.1,69.9,30.1
+Dire Wolf,Succubus/Incubus,30.1,69.9,30.1
+Dretch,Violet Fungus,69.9,30.1,30.1
+Dryad,Grimlock,30.1,69.9,30.1
+Giant Ape,Horned Devil,30.1,69.9,30.1
+Merrow,Sea Hag,30.1,69.9,30.1
+Spirit Naga,"Wereboar, Boar Form",69.9,30.1,30.1
+Wyvern,Xorn,30.1,69.9,30.1
+Adult Silver Dragon,Roc,30.0,70.0,30.0
+Ankheg,Manticore,30.0,70.0,30.0
+Bandit,Wolf,30.0,70.0,30.0
+Bandit Captain,Salamander,70.0,30.0,30.0
+Basilisk,Bronze Dragon Wyrmling,70.0,30.0,30.0
+Bronze Dragon Wyrmling,Gelatinous Cube,30.0,70.0,30.0
+Deep Gnome (Svirfneblin),Satyr,30.0,70.0,30.0
+Deep Gnome (Svirfneblin),Warhorse,30.0,70.0,30.0
+Erinyes,Glabrezu,30.0,70.0,30.0
+Gelatinous Cube,Spirit Naga,30.0,70.0,30.0
+Gelatinous Cube,"Wereboar, Boar Form",30.0,70.0,30.0
+Ghoul,Giant Spider,30.0,70.0,30.0
+Giant Constrictor Snake,Hunter Shark,70.0,30.0,30.0
+Giant Poisonous Snake,Rust Monster,30.0,70.0,30.0
+Grick,Specter,70.0,30.0,30.0
+Swarm of Quippers,Veteran,30.0,70.0,30.0
+Swarm of Quippers,"Werewolf, Wolf Form",70.0,30.0,30.0
+Veteran,"Wereboar, Boar Form",30.0,70.0,30.0
+Ancient Brass Dragon,Ancient White Dragon,29.9,70.1,29.9
+Assassin,Spirit Naga,29.9,70.1,29.9
+Copper Dragon Wyrmling,Tiger,29.9,70.1,29.9
+Deep Gnome (Svirfneblin),Specter,29.9,70.1,29.9
+Giant Eagle,Swarm of Ravens,70.1,29.9,29.9
+Giant Goat,Lizardfolk,70.1,29.9,29.9
+Giant Poisonous Snake,Orc,29.9,70.1,29.9
+Giant Weasel,Violet Fungus,70.1,29.9,29.9
+Glabrezu,Treant,70.1,29.9,29.9
+Hezrou,Mummy Lord,70.1,29.9,29.9
+Killer Whale,Mummy Lord,29.9,70.1,29.9
+Kobold,Stirge,70.1,29.9,29.9
+Mammoth,Young Bronze Dragon,70.1,29.9,29.9
+Sea Hag,Vampire Spawn,29.9,70.1,29.9
+Swarm of Wasps,Worg,29.9,70.1,29.9
+"Vampire, Bat Form","Vampire, Vampire Form",29.9,70.1,29.9
+Warhorse,Will-o'-Wisp,29.9,70.1,29.9
+Will-o'-Wisp,Worg,70.1,29.9,29.9
+Adult Copper Dragon,Young Red Dragon,70.2,29.8,29.8
+Ape,Axe Beak,70.2,29.8,29.8
+Awakened Tree,Invisible Stalker,29.8,70.2,29.8
+Basilisk,Hell Hound,70.2,29.8,29.8
+Black Pudding,Giant Octopus,29.8,70.2,29.8
+Brown Bear,Bugbear,29.8,70.2,29.8
+Chain Devil,Ettin,70.2,29.8,29.8
+Elephant,"Werebear, Hybrid Form",29.8,70.2,29.8
+Giant Boar,Griffon,29.8,70.2,29.8
+Giant Toad,Specter,70.2,29.8,29.8
+Half-Red Dragon Veteran,Saber-Toothed Tiger,70.2,29.8,29.8
+Hobgoblin,Swarm of Centipedes,29.8,70.2,29.8
+Manticore,"Wereboar, Hybrid Form",29.8,70.2,29.8
+Roper,Young Green Dragon,70.2,29.8,29.8
+Swarm of Beetles,Worg,29.8,70.2,29.8
+Bronze Dragon Wyrmling,Giant Elk,29.7,70.3,29.7
+Cult Fanatic,Wolf,70.3,29.7,29.7
+Dretch,Gray Ooze,29.7,70.3,29.7
+Giant Bat,Swarm of Wasps,29.7,70.3,29.7
+Giant Elk,Giant Octopus,70.3,29.7,29.7
+Giant Frog,Giant Weasel,70.3,29.7,29.7
+Guardian Naga,Hill Giant,29.7,70.3,29.7
+Lizardfolk,Swarm of Wasps,29.7,70.3,29.7
+Skeleton,Swarm of Rats,29.7,70.3,29.7
+Basilisk,Ghost,29.6,70.4,29.6
+Black Bear,Gnoll,29.6,70.4,29.6
+Brown Bear,Duergar,70.4,29.6,29.6
+Chuul,Xorn,29.6,70.4,29.6
+Copper Dragon Wyrmling,Mage,70.4,29.6,29.6
+Deep Gnome (Svirfneblin),Giant Poisonous Snake,70.4,29.6,29.6
+Djinni,Lich,70.4,29.6,29.6
+Dryad,Pseudodragon,70.4,29.6,29.6
+Dust Mephit,Noble,70.4,29.6,29.6
+Giant Bat,Swarm of Insects,29.6,70.4,29.6
+Giant Eagle,Grick,29.6,70.4,29.6
+Mummy Lord,Night Hag,70.4,29.6,29.6
+Bronze Dragon Wyrmling,Sea Hag,29.5,70.5,29.5
+Darkmantle,Satyr,29.5,70.5,29.5
+Giant Sea Horse,Giant Weasel,70.5,29.5,29.5
+Giant Wolf Spider,Skeleton,29.5,70.5,29.5
+Invisible Stalker,Plesiosaurus,70.5,29.5,29.5
+Berserker,Saber-Toothed Tiger,70.6,29.4,29.4
+Blink Dog,Reef Shark,29.4,70.6,29.4
+Cockatrice,Cult Fanatic,29.4,70.6,29.4
+Dretch,Zombie,29.4,70.6,29.4
+Dust Mephit,Swarm of Bats,29.4,70.6,29.4
+Magma Mephit,Riding Horse,29.4,70.6,29.4
+Manticore,Ogre,29.4,70.6,29.4
+Mummy Lord,Young Black Dragon,29.4,70.6,29.4
+Roc,Solar,29.4,70.6,29.4
+Ankheg,Ghost,29.3,70.7,29.3
+Ape,Swarm of Centipedes,29.3,70.7,29.3
+Brass Dragon Wyrmling,Lizardfolk,70.7,29.3,29.3
+Bugbear,Salamander,29.3,70.7,29.3
+Chain Devil,Vrock,70.7,29.3,29.3
+Deva,Green Hag,70.7,29.3,29.3
+Deva,Wraith,70.7,29.3,29.3
+Drow,Panther,70.7,29.3,29.3
+Drow,Reef Shark,29.3,70.7,29.3
+Duergar,Swarm of Centipedes,70.7,29.3,29.3
+Flying Sword,Warhorse,29.3,70.7,29.3
+Giant Owl,Satyr,29.3,70.7,29.3
+Giant Poisonous Snake,Skeleton,70.7,29.3,29.3
+Giant Shark,Young Green Dragon,70.7,29.3,29.3
+Gibbering Mouther,Troll,29.3,70.7,29.3
+Hobgoblin,Skeleton,70.7,29.3,29.3
+Mummy,Pegasus,29.3,70.7,29.3
+Specter,Tiger,29.3,70.7,29.3
+Archmage,Dire Wolf,70.8,29.2,29.2
+Black Bear,Deep Gnome (Svirfneblin),29.2,70.8,29.2
+Blink Dog,Flying Sword,29.2,70.8,29.2
+Blink Dog,Magmin,70.8,29.2,29.2
+Deep Gnome (Svirfneblin),Lion,29.2,70.8,29.2
+Elk,Magma Mephit,70.8,29.2,29.2
+Erinyes,Giant Ape,29.2,70.8,29.2
+Flying Sword,Swarm of Rats,70.8,29.2,29.2
+Frost Giant,Stone Golem,29.2,70.8,29.2
+Gray Ooze,Priest,29.2,70.8,29.2
+Hydra,Young White Dragon,29.2,70.8,29.2
+Iron Golem,Remorhaz,29.2,70.8,29.2
+Merrow,Veteran,29.2,70.8,29.2
+Phase Spider,Swarm of Spiders,70.8,29.2,29.2
+Red Dragon Wyrmling,"Weretiger, Tiger Form",70.8,29.2,29.2
+Saber-Toothed Tiger,Vampire Spawn,29.2,70.8,29.2
+Elk,Zombie,70.9,29.1,29.1
+Ghost,Sea Hag,70.9,29.1,29.1
+Giant Badger,Steam Mephit,70.9,29.1,29.1
+Giant Vulture,Swarm of Wasps,29.1,70.9,29.1
+Green Dragon Wyrmling,"Werewolf, Hybrid Form",70.9,29.1,29.1
+Hell Hound,Succubus/Incubus,29.1,70.9,29.1
+Hydra,Night Hag,70.9,29.1,29.1
+Lizardfolk,Swarm of Spiders,29.1,70.9,29.1
+Marilith,Roper,70.9,29.1,29.1
+Night Hag,"Vampire, Vampire Form",70.9,29.1,29.1
+Reef Shark,Satyr,29.1,70.9,29.1
+Bandit Captain,Giant Hyena,71.0,29.0,29.0
+Bronze Dragon Wyrmling,Veteran,29.0,71.0,29.0
+Djinni,Young White Dragon,71.0,29.0,29.0
+Drow,Giant Wasp,71.0,29.0,29.0
+Elephant,Night Hag,29.0,71.0,29.0
+Ghost,Nightmare,29.0,71.0,29.0
+Giant Hyena,Hunter Shark,29.0,71.0,29.0
+Giant Spider,Lion,71.0,29.0,29.0
+Giant Vulture,Swarm of Beetles,29.0,71.0,29.0
+Mastiff,Quasit,29.0,71.0,29.0
+Reef Shark,Specter,29.0,71.0,29.0
+Spirit Naga,Vampire Spawn,71.0,29.0,29.0
+Young Black Dragon,Young Copper Dragon,71.0,29.0,29.0
+Ankheg,Black Dragon Wyrmling,71.1,28.9,28.9
+Ape,Swarm of Insects,28.9,71.1,28.9
+Bandit,Constrictor Snake,28.9,71.1,28.9
+Centaur,Will-o'-Wisp,71.1,28.9,28.9
+Couatl,Wraith,71.1,28.9,28.9
+Drow,Dust Mephit,71.1,28.9,28.9
+Duergar,Giant Eagle,71.1,28.9,28.9
+Gelatinous Cube,Will-o'-Wisp,71.1,28.9,28.9
+Giant Hyena,Sea Hag,28.9,71.1,28.9
+Merrow,Saber-Toothed Tiger,28.9,71.1,28.9
+Minotaur,"Vampire, Bat Form",28.9,71.1,28.9
+Oni,Xorn,28.9,71.1,28.9
+Spirit Naga,"Wereboar, Hybrid Form",71.1,28.9,28.9
+Animated Armor,Giant Boar,28.8,71.2,28.8
+Bandit Captain,"Wereboar, Human Form",28.8,71.2,28.8
+Black Bear,Elk,71.2,28.8,28.8
+Brass Dragon Wyrmling,Gnoll,71.2,28.8,28.8
+Death Dog,"Wererat, Human Form",71.2,28.8,28.8
+Draft Horse,"Wererat, Hybrid Form",71.2,28.8,28.8
+Flying Sword,Giant Eagle,28.8,71.2,28.8
+Gibbering Mouther,Manticore,71.2,28.8,28.8
+Gnoll,Swarm of Centipedes,28.8,71.2,28.8
+Grimlock,Priest,28.8,71.2,28.8
+Guardian Naga,Xorn,71.2,28.8,28.8
+Night Hag,"Werebear, Bear Form",71.2,28.8,28.8
+Basilisk,Merrow,71.3,28.7,28.7
+Bronze Dragon Wyrmling,Griffon,28.7,71.3,28.7
+Brown Bear,Gargoyle,28.7,71.3,28.7
+Brown Bear,Giant Spider,71.3,28.7,28.7
+Centaur,Manticore,28.7,71.3,28.7
+Chimera,"Vampire, Bat Form",28.7,71.3,28.7
+Djinni,Treant,28.7,71.3,28.7
+Doppelganger,Swarm of Quippers,71.3,28.7,28.7
+Gold Dragon Wyrmling,Owlbear,71.3,28.7,28.7
+Gray Ooze,Grimlock,71.3,28.7,28.7
+Nalfeshnee,Planetar,71.3,28.7,28.7
+Scout,Skeleton,71.3,28.7,28.7
+Adult Green Dragon,Androsphinx,71.4,28.6,28.6
+Archmage,Veteran,28.6,71.4,28.6
+Axe Beak,Rust Monster,28.6,71.4,28.6
+Bandit,Zombie,28.6,71.4,28.6
+Black Dragon Wyrmling,Worg,71.4,28.6,28.6
+Bugbear,Gelatinous Cube,28.6,71.4,28.6
+Bulette,Giant Shark,71.4,28.6,28.6
+Chimera,Killer Whale,28.6,71.4,28.6
+Crocodile,Mage,28.6,71.4,28.6
+Cult Fanatic,Spy,28.6,71.4,28.6
+Deep Gnome (Svirfneblin),Harpy,28.6,71.4,28.6
+Drow,Giant Crab,71.4,28.6,28.6
+Earth Elemental,Young Brass Dragon,71.4,28.6,28.6
+Giant Bat,Swarm of Bats,71.4,28.6,28.6
+Giant Eagle,Warhorse Skeleton,28.6,71.4,28.6
+Giant Spider,Will-o'-Wisp,28.6,71.4,28.6
+Goblin,Hobgoblin,28.6,71.4,28.6
+Green Dragon Wyrmling,Swarm of Poisonous Snakes,71.4,28.6,28.6
+Hobgoblin,Priest,71.4,28.6,28.6
+Knight,Minotaur Skeleton,28.6,71.4,28.6
+Orc,Worg,28.6,71.4,28.6
+Adult Copper Dragon,Young Gold Dragon,71.5,28.5,28.5
+Axe Beak,Swarm of Ravens,28.5,71.5,28.5
+Black Dragon Wyrmling,Ettercap,71.5,28.5,28.5
+Blue Dragon Wyrmling,Spirit Naga,28.5,71.5,28.5
+Bugbear,Giant Elk,28.5,71.5,28.5
+Bulette,Young Green Dragon,71.5,28.5,28.5
+Duergar,Satyr,71.5,28.5,28.5
+Duergar,Swarm of Spiders,71.5,28.5,28.5
+Elephant,Wraith,71.5,28.5,28.5
+Flying Sword,Lion,28.5,71.5,28.5
+Flying Sword,Swarm of Bats,71.5,28.5,28.5
+Giant Bat,"Wererat, Human Form",28.5,71.5,28.5
+Giant Rat (Diseased),Imp,28.5,71.5,28.5
+Hunter Shark,Spirit Naga,28.5,71.5,28.5
+Nightmare,Troll,71.5,28.5,28.5
+Pegasus,Sea Hag,71.5,28.5,28.5
+Phase Spider,Swarm of Centipedes,71.5,28.5,28.5
+Phase Spider,Will-o'-Wisp,28.5,71.5,28.5
+Ape,Cult Fanatic,71.6,28.4,28.4
+Bandit Captain,Rhinoceros,28.4,71.6,28.4
+Chuul,Invisible Stalker,71.6,28.4,28.4
+Couatl,"Werebear, Bear Form",28.4,71.6,28.4
+Dire Wolf,Saber-Toothed Tiger,28.4,71.6,28.4
+Dretch,Giant Sea Horse,28.4,71.6,28.4
+Drow,Spy,28.4,71.6,28.4
+Duergar,Swarm of Insects,71.6,28.4,28.4
+Elk,Imp,71.6,28.4,28.4
+Erinyes,Mammoth,28.4,71.6,28.4
+Fire Elemental,Lamia,28.4,71.6,28.4
+Giant Bat,Swarm of Centipedes,28.4,71.6,28.4
+Giant Poisonous Snake,Magmin,71.6,28.4,28.4
+Gynosphinx,Young Copper Dragon,71.6,28.4,28.4
+Invisible Stalker,Rakshasa,28.4,71.6,28.4
+Noble,Quasit,71.6,28.4,28.4
+Specter,Swarm of Poisonous Snakes,28.4,71.6,28.4
+Swarm of Insects,Swarm of Ravens,71.6,28.4,28.4
+Unicorn,"Weretiger, Hybrid Form",28.4,71.6,28.4
+Ape,"Wererat, Human Form",28.3,71.7,28.3
+Brass Dragon Wyrmling,Giant Vulture,71.7,28.3,28.3
+Chain Devil,Killer Whale,28.3,71.7,28.3
+Deer,Mastiff,28.3,71.7,28.3
+Drow,Giant Sea Horse,71.7,28.3,28.3
+Duergar,Swarm of Beetles,71.7,28.3,28.3
+Giant Badger,Giant Crab,28.3,71.7,28.3
+Giant Spider,Swarm of Insects,71.7,28.3,28.3
+Giant Toad,Will-o'-Wisp,28.3,71.7,28.3
+Gibbering Mouther,"Wereboar, Human Form",71.7,28.3,28.3
+Hunter Shark,Knight,28.3,71.7,28.3
+Saber-Toothed Tiger,"Wereboar, Hybrid Form",28.3,71.7,28.3
+Azer,Doppelganger,28.2,71.8,28.2
+Bandit Captain,Berserker,28.2,71.8,28.2
+Black Bear,Giant Wasp,71.8,28.2,28.2
+Brown Bear,Ghast,28.2,71.8,28.2
+Bulette,Horned Devil,28.2,71.8,28.2
+Darkmantle,Harpy,28.2,71.8,28.2
+Drow,Ghoul,28.2,71.8,28.2
+Ettercap,Phase Spider,71.8,28.2,28.2
+Giant Spider,Satyr,71.8,28.2,28.2
+Half-Red Dragon Veteran,Sea Hag,71.8,28.2,28.2
+Knight,Red Dragon Wyrmling,28.2,71.8,28.2
+Owlbear,Rhinoceros,71.8,28.2,28.2
+Phase Spider,Swarm of Insects,71.8,28.2,28.2
+Animated Armor,Duergar,71.9,28.1,28.1
+Archmage,Bronze Dragon Wyrmling,71.9,28.1,28.1
+Bandit,Elk,28.1,71.9,28.1
+Basilisk,Polar Bear,71.9,28.1,28.1
+Blue Dragon Wyrmling,Succubus/Incubus,71.9,28.1,28.1
+Blue Dragon Wyrmling,Unicorn,28.1,71.9,28.1
+Constrictor Snake,Goblin,71.9,28.1,28.1
+Copper Dragon Wyrmling,Orc,71.9,28.1,28.1
+Gargoyle,Hell Hound,28.1,71.9,28.1
+Giant Crocodile,Young Black Dragon,28.1,71.9,28.1
+Giant Wolf Spider,Sahuagin,28.1,71.9,28.1
+Hobgoblin,Panther,71.9,28.1,28.1
+Hobgoblin,Thug,28.1,71.9,28.1
+Ice Mephit,Riding Horse,28.1,71.9,28.1
+Mammoth,Young Silver Dragon,28.1,71.9,28.1
+Medusa,Unicorn,28.1,71.9,28.1
+Nalfeshnee,Purple Worm,71.9,28.1,28.1
+Nalfeshnee,Remorhaz,28.1,71.9,28.1
+"Vampire, Bat Form","Werebear, Hybrid Form",28.1,71.9,28.1
+Adult White Dragon,Tyrannosaurus Rex,72.0,28.0,28.0
+Air Elemental,Night Hag,28.0,72.0,28.0
+Ape,Giant Eagle,28.0,72.0,28.0
+Ape,Swarm of Wasps,28.0,72.0,28.0
+Bandit Captain,Blue Dragon Wyrmling,28.0,72.0,28.0
+Doppelganger,Giant Boar,72.0,28.0,28.0
+Gargoyle,Mimic,28.0,72.0,28.0
+Giant Lizard,Swarm of Spiders,28.0,72.0,28.0
+Gnoll,Swarm of Wasps,28.0,72.0,28.0
+Half-Red Dragon Veteran,Ogre Zombie,28.0,72.0,28.0
+Hunter Shark,Unicorn,28.0,72.0,28.0
+Mage,Phase Spider,28.0,72.0,28.0
+Spy,Swarm of Rats,72.0,28.0,28.0
+Swarm of Wasps,Thug,72.0,28.0,28.0
+Air Elemental,Wraith,72.1,27.9,27.9
+Ape,Swarm of Spiders,27.9,72.1,27.9
+Bandit,Pseudodragon,72.1,27.9,27.9
+Bugbear,Griffon,27.9,72.1,27.9
+Constrictor Snake,Grimlock,72.1,27.9,27.9
+Crocodile,Specter,27.9,72.1,27.9
+Draft Horse,Spy,72.1,27.9,27.9
+Gelatinous Cube,Saber-Toothed Tiger,72.1,27.9,27.9
+Ghoul,Giant Vulture,72.1,27.9,27.9
+Giant Eagle,Worg,27.9,72.1,27.9
+Giant Frog,Goblin,72.1,27.9,27.9
+Giant Scorpion,White Dragon Wyrmling,72.1,27.9,27.9
+Giant Vulture,"Wererat, Human Form",27.9,72.1,27.9
+Gibbering Mouther,Hunter Shark,72.1,27.9,27.9
+Green Dragon Wyrmling,"Werewolf, Wolf Form",72.1,27.9,27.9
+"Werewolf, Hybrid Form",Worg,72.1,27.9,27.9
+Young Blue Dragon,Young Bronze Dragon,72.1,27.9,27.9
+Black Bear,Giant Bat,27.8,72.2,27.8
+Copper Dragon Wyrmling,Harpy,72.2,27.8,27.8
+Drider,Vampire Spawn,27.8,72.2,27.8
+Duergar,Mage,72.2,27.8,27.8
+Giant Badger,Giant Frog,27.8,72.2,27.8
+Giant Badger,Magma Mephit,27.8,72.2,27.8
+Giant Goat,Gnoll,72.2,27.8,27.8
+Giant Goat,Hobgoblin,72.2,27.8,27.8
+Giant Hyena,Veteran,27.8,72.2,27.8
+Giant Scorpion,Salamander,27.8,72.2,27.8
+Giant Spider,Swarm of Centipedes,72.2,27.8,27.8
+Gnoll,Swarm of Insects,27.8,72.2,27.8
+Half-Red Dragon Veteran,Spirit Naga,27.8,72.2,27.8
+Hobgoblin,Imp,72.2,27.8,27.8
+Quasit,Zombie,27.8,72.2,27.8
+Stone Golem,Young Silver Dragon,72.2,27.8,27.8
+Adult Red Dragon,Balor,27.7,72.3,27.7
+Animated Armor,Giant Toad,72.3,27.7,27.7
+Animated Armor,Phase Spider,72.3,27.7,27.7
+Black Bear,Constrictor Snake,72.3,27.7,27.7
+Blood Hawk,Grimlock,27.7,72.3,27.7
+Bronze Dragon Wyrmling,Saber-Toothed Tiger,27.7,72.3,27.7
+Dire Wolf,Hunter Shark,27.7,72.3,27.7
+Dust Mephit,Pony,72.3,27.7,27.7
+Frost Giant,Marilith,72.3,27.7,27.7
+Giant Badger,Pseudodragon,72.3,27.7,27.7
+Giant Boar,"Werewolf, Wolf Form",72.3,27.7,27.7
+Giant Elk,Owlbear,27.7,72.3,27.7
+Giant Lizard,Swarm of Beetles,27.7,72.3,27.7
+Giant Poisonous Snake,Riding Horse,72.3,27.7,27.7
+Gnoll,Swarm of Spiders,27.7,72.3,27.7
+Lamia,Minotaur Skeleton,72.3,27.7,27.7
+Magmin,Shadow,27.7,72.3,27.7
+Priest,Sahuagin,72.3,27.7,27.7
+Reef Shark,Warhorse,27.7,72.3,27.7
+Swarm of Spiders,Thug,72.3,27.7,27.7
+Azer,Basilisk,27.6,72.4,27.6
+Bandit,Giant Sea Horse,27.6,72.4,27.6
+Barbed Devil,Minotaur Skeleton,27.6,72.4,27.6
+Blink Dog,Giant Crab,72.4,27.6,27.6
+Boar,Giant Wasp,27.6,72.4,27.6
+Bronze Dragon Wyrmling,"Werewolf, Hybrid Form",72.4,27.6,27.6
+Brown Bear,"Werewolf, Wolf Form",27.6,72.4,27.6
+Chimera,Oni,72.4,27.6,27.6
+Cult Fanatic,Hippogriff,27.6,72.4,27.6
+Darkmantle,Giant Lizard,72.4,27.6,27.6
+Draft Horse,Giant Owl,72.4,27.6,27.6
+Efreeti,Ice Devil,72.4,27.6,27.6
+Green Hag,Lamia,72.4,27.6,27.6
+Lion,Wight,27.6,72.4,27.6
+Manticore,Owlbear,27.6,72.4,27.6
+Adult Copper Dragon,Adult Green Dragon,27.5,72.5,27.5
+Air Elemental,Giant Crocodile,27.5,72.5,27.5
+Black Bear,Giant Owl,27.5,72.5,27.5
+Black Bear,Lizardfolk,27.5,72.5,27.5
+Chimera,Wyvern,72.5,27.5,27.5
+Djinni,Triceratops,72.5,27.5,27.5
+Dryad,Imp,27.5,72.5,27.5
+Efreeti,Glabrezu,72.5,27.5,27.5
+Ettin,Red Dragon Wyrmling,72.5,27.5,27.5
+Giant Badger,Skeleton,27.5,72.5,27.5
+Giant Crocodile,Gynosphinx,27.5,72.5,27.5
+Giant Owl,Mage,27.5,72.5,27.5
+Giant Spider,Swarm of Beetles,72.5,27.5,27.5
+Griffon,Half-Red Dragon Veteran,27.5,72.5,27.5
+Minotaur Skeleton,Rakshasa,27.5,72.5,27.5
+Red Dragon Wyrmling,"Weretiger, Hybrid Form",72.5,27.5,27.5
+Triceratops,Young Brass Dragon,72.5,27.5,27.5
+"Werebear, Bear Form",Young Brass Dragon,27.5,72.5,27.5
+Blue Dragon Wyrmling,Gelatinous Cube,72.6,27.4,27.4
+Dretch,Elk,27.4,72.6,27.4
+Drider,Griffon,72.6,27.4,27.4
+Elk,Pony,72.6,27.4,27.4
+Flesh Golem,"Weretiger, Tiger Form",72.6,27.4,27.4
+Giant Eagle,Rust Monster,72.6,27.4,27.4
+Giant Hyena,Manticore,27.4,72.6,27.4
+Giant Wasp,Giant Weasel,72.6,27.4,27.4
+Green Hag,"Werebear, Hybrid Form",27.4,72.6,27.4
+Horned Devil,Stone Golem,27.4,72.6,27.4
+Killer Whale,Young Brass Dragon,27.4,72.6,27.4
+Quasit,Skeleton,27.4,72.6,27.4
+Satyr,Thug,72.6,27.4,27.4
+Adult Gold Dragon,Balor,27.3,72.7,27.3
+Archmage,Green Dragon Wyrmling,72.7,27.3,27.3
+Blink Dog,Cockatrice,72.7,27.3,27.3
+Brown Bear,"Werewolf, Hybrid Form",27.3,72.7,27.3
+Cultist,Magmin,27.3,72.7,27.3
+Drow,Giant Goat,27.3,72.7,27.3
+Efreeti,Young Silver Dragon,27.3,72.7,27.3
+Ettercap,Swarm of Quippers,27.3,72.7,27.3
+Gargoyle,Giant Hyena,27.3,72.7,27.3
+Ghast,Griffon,27.3,72.7,27.3
+Ghost,Manticore,72.7,27.3,27.3
+Knight,Vampire Spawn,72.7,27.3,27.3
+Adult Bronze Dragon,Nalfeshnee,27.2,72.8,27.2
+Animated Armor,Dire Wolf,27.2,72.8,27.2
+Blink Dog,Darkmantle,27.2,72.8,27.2
+Dretch,Giant Crab,27.2,72.8,27.2
+Fire Elemental,Nightmare,72.8,27.2,27.2
+Giant Eagle,Giant Toad,27.2,72.8,27.2
+Giant Octopus,Giant Scorpion,72.8,27.2,27.2
+Giant Shark,Marilith,27.2,72.8,27.2
+Magma Mephit,Priest,27.2,72.8,27.2
+Pegasus,Troll,27.2,72.8,27.2
+Swarm of Rats,Swarm of Wasps,27.2,72.8,27.2
+Basilisk,Berserker,27.1,72.9,27.1
+Basilisk,Silver Dragon Wyrmling,27.1,72.9,27.1
+Constrictor Snake,Giant Weasel,72.9,27.1,27.1
+Couatl,Gladiator,72.9,27.1,27.1
+Darkmantle,Warhorse,27.1,72.9,27.1
+Draft Horse,Flying Sword,72.9,27.1,27.1
+Duergar,Swarm of Poisonous Snakes,27.1,72.9,27.1
+Elk,Noble,72.9,27.1,27.1
+Giant Scorpion,Swarm of Poisonous Snakes,72.9,27.1,27.1
+Gladiator,Vrock,72.9,27.1,27.1
+Mage,Rust Monster,72.9,27.1,27.1
+Quasit,Wolf,27.1,72.9,27.1
+Succubus/Incubus,"Wereboar, Human Form",27.1,72.9,27.1
+Baboon,Commoner,27.0,73.0,27.0
+Bandit,Gray Ooze,27.0,73.0,27.0
+Bone Devil,Young White Dragon,27.0,73.0,27.0
+Copper Dragon Wyrmling,"Wererat, Human Form",73.0,27.0,27.0
+Dryad,Pony,27.0,73.0,27.0
+Giant Fire Beetle,Mastiff,27.0,73.0,27.0
+Gibbering Mouther,Rhinoceros,73.0,27.0,27.0
+Magma Mephit,Scout,27.0,73.0,27.0
+Marilith,Young Bronze Dragon,73.0,27.0,27.0
+Red Dragon Wyrmling,Wraith,27.0,73.0,27.0
+Animated Armor,Bronze Dragon Wyrmling,26.9,73.1,26.9
+Awakened Tree,Unicorn,73.1,26.9,26.9
+Black Bear,Crocodile,26.9,73.1,26.9
+Blood Hawk,Imp,26.9,73.1,26.9
+Brass Dragon Wyrmling,Giant Toad,26.9,73.1,26.9
+Brass Dragon Wyrmling,Grick,26.9,73.1,26.9
+Cult Fanatic,Ghoul,26.9,73.1,26.9
+Death Dog,Worg,26.9,73.1,26.9
+Efreeti,Stone Giant,73.1,26.9,26.9
+Ettin,Xorn,26.9,73.1,26.9
+Giant Centipede,Hyena,73.1,26.9,26.9
+Giant Poisonous Snake,"Wererat, Rat Form",26.9,73.1,26.9
+Giant Wolf Spider,Steam Mephit,73.1,26.9,26.9
+Griffon,Pegasus,26.9,73.1,26.9
+Hezrou,Hydra,73.1,26.9,26.9
+Knight,"Wereboar, Hybrid Form",73.1,26.9,26.9
+Lamia,Red Dragon Wyrmling,73.1,26.9,26.9
+Ogre,"Wereboar, Human Form",73.1,26.9,26.9
+Panther,Swarm of Bats,26.9,73.1,26.9
+Shield Guardian,Triceratops,26.9,73.1,26.9
+Animated Armor,Green Dragon Wyrmling,26.8,73.2,26.8
+Bandit,Magma Mephit,26.8,73.2,26.8
+Brass Dragon Wyrmling,Giant Bat,73.2,26.8,26.8
+Drow,Hippogriff,26.8,73.2,26.8
+Drow,Orc,26.8,73.2,26.8
+Elk,Shadow,26.8,73.2,26.8
+Fire Giant,Iron Golem,26.8,73.2,26.8
+Frost Giant,Young Blue Dragon,73.2,26.8,26.8
+Ghast,Giant Elk,26.8,73.2,26.8
+Giant Badger,Giant Sea Horse,26.8,73.2,26.8
+Giant Bat,Giant Eagle,26.8,73.2,26.8
+Giant Goat,Giant Lizard,73.2,26.8,26.8
+Giant Lizard,Swarm of Insects,26.8,73.2,26.8
+Green Dragon Wyrmling,Griffon,26.8,73.2,26.8
+Half-Red Dragon Veteran,Manticore,73.2,26.8,26.8
+Hunter Shark,"Weretiger, Human Form",26.8,73.2,26.8
+Minotaur Skeleton,Nightmare,73.2,26.8,26.8
+Swarm of Quippers,White Dragon Wyrmling,73.2,26.8,26.8
+Unicorn,"Weretiger, Tiger Form",26.8,73.2,26.8
+Bandit Captain,Dire Wolf,73.3,26.7,26.7
+Bugbear,Gibbering Mouther,26.7,73.3,26.7
+Deep Gnome (Svirfneblin),Giant Eagle,26.7,73.3,26.7
+Earth Elemental,Erinyes,26.7,73.3,26.7
+Ettercap,Giant Spider,73.3,26.7,26.7
+Gargoyle,Ochre Jelly,73.3,26.7,26.7
+Giant Poisonous Snake,Swarm of Ravens,26.7,73.3,26.7
+Glabrezu,Horned Devil,26.7,73.3,26.7
+Shambling Mound,Triceratops,26.7,73.3,26.7
+Swarm of Rats,Warhorse,26.7,73.3,26.7
+Adult Brass Dragon,Frost Giant,73.4,26.6,26.6
+Adult Gold Dragon,Iron Golem,73.4,26.6,26.6
+Archmage,Swarm of Quippers,73.4,26.6,26.6
+Behir,Young Gold Dragon,73.4,26.6,26.6
+Black Bear,Sahuagin,73.4,26.6,26.6
+Brass Dragon Wyrmling,Warhorse Skeleton,26.6,73.4,26.6
+Bronze Dragon Wyrmling,Tiger,73.4,26.6,26.6
+Bronze Dragon Wyrmling,"Werewolf, Wolf Form",73.4,26.6,26.6
+Chimera,Lamia,73.4,26.6,26.6
+Cockatrice,Magma Mephit,73.4,26.6,26.6
+Giant Boar,Hunter Shark,26.6,73.4,26.6
+Giant Centipede,Mule,26.6,73.4,26.6
+Giant Eagle,Hippogriff,73.4,26.6,26.6
+Giant Owl,Giant Poisonous Snake,73.4,26.6,26.6
+Goblin,Steam Mephit,73.4,26.6,26.6
+Green Dragon Wyrmling,Succubus/Incubus,26.6,73.4,26.6
+Noble,Swarm of Rats,26.6,73.4,26.6
+Phase Spider,Swarm of Wasps,73.4,26.6,26.6
+Swarm of Rats,Swarm of Spiders,26.6,73.4,26.6
+Wight,Will-o'-Wisp,26.6,73.4,26.6
+Axe Beak,Thug,26.5,73.5,26.5
+Bandit,Skeleton,26.5,73.5,26.5
+Basilisk,Will-o'-Wisp,73.5,26.5,26.5
+Brass Dragon Wyrmling,Giant Lizard,73.5,26.5,26.5
+Cockatrice,Swarm of Bats,26.5,73.5,26.5
+Draft Horse,Grick,26.5,73.5,26.5
+Earth Elemental,Hydra,73.5,26.5,26.5
+Flesh Golem,"Weretiger, Hybrid Form",73.5,26.5,26.5
+Ghost,Hunter Shark,73.5,26.5,26.5
+Gnoll,"Wererat, Human Form",26.5,73.5,26.5
+Grimlock,Violet Fungus,73.5,26.5,26.5
+Harpy,Thug,73.5,26.5,26.5
+Lion,Orc,73.5,26.5,26.5
+Basilisk,Green Dragon Wyrmling,73.6,26.4,26.4
+Bugbear,Worg,73.6,26.4,26.4
+Cockatrice,Gray Ooze,73.6,26.4,26.4
+Deep Gnome (Svirfneblin),Riding Horse,73.6,26.4,26.4
+Deva,"Werebear, Bear Form",26.4,73.6,26.4
+Dire Wolf,"Werewolf, Wolf Form",73.6,26.4,26.4
+Draft Horse,Giant Goat,73.6,26.4,26.4
+Draft Horse,Phase Spider,26.4,73.6,26.4
+Dust Mephit,Giant Lizard,26.4,73.6,26.4
+Giant Scorpion,Tiger,73.6,26.4,26.4
+Giant Shark,Young Black Dragon,73.6,26.4,26.4
+Gibbering Mouther,Knight,26.4,73.6,26.4
+Green Dragon Wyrmling,White Dragon Wyrmling,73.6,26.4,26.4
+Guardian Naga,Shield Guardian,26.4,73.6,26.4
+Guardian Naga,Young Brass Dragon,26.4,73.6,26.4
+Harpy,Hippogriff,73.6,26.4,26.4
+Hunter Shark,Mummy,73.6,26.4,26.4
+Otyugh,Wyvern,73.6,26.4,26.4
+Rhinoceros,Veteran,73.6,26.4,26.4
+Salamander,Veteran,26.4,73.6,26.4
+Satyr,Warhorse Skeleton,26.4,73.6,26.4
+Shambling Mound,"Vampire, Vampire Form",73.6,26.4,26.4
+Tyrannosaurus Rex,Young Silver Dragon,73.6,26.4,26.4
+Aboleth,Hydra,73.7,26.3,26.3
+Aboleth,Young Brass Dragon,73.7,26.3,26.3
+Ankheg,Gibbering Mouther,26.3,73.7,26.3
+Ape,Swarm of Bats,73.7,26.3,26.3
+Bearded Devil,Giant Octopus,26.3,73.7,26.3
+Boar,Panther,26.3,73.7,26.3
+Bronze Dragon Wyrmling,Swarm of Poisonous Snakes,73.7,26.3,26.3
+Constrictor Snake,Swarm of Bats,26.3,73.7,26.3
+Couatl,Minotaur,73.7,26.3,26.3
+Dryad,Mule,73.7,26.3,26.3
+Eagle,Goat,73.7,26.3,26.3
+Elephant,Minotaur,73.7,26.3,26.3
+Giant Badger,Gray Ooze,26.3,73.7,26.3
+Gold Dragon Wyrmling,Ogre,73.7,26.3,26.3
+Red Dragon Wyrmling,Winter Wolf,73.7,26.3,26.3
+Rhinoceros,Troll,26.3,73.7,26.3
+Swarm of Quippers,"Werewolf, Hybrid Form",73.7,26.3,26.3
+"Vampire, Vampire Form",Young Brass Dragon,26.3,73.7,26.3
+Adult Red Dragon,Nalfeshnee,73.8,26.2,26.2
+Bandit Captain,Centaur,73.8,26.2,26.2
+Bandit Captain,Merrow,73.8,26.2,26.2
+Boar,Ice Mephit,26.2,73.8,26.2
+Cockatrice,Noble,73.8,26.2,26.2
+Dire Wolf,"Werewolf, Hybrid Form",73.8,26.2,26.2
+Doppelganger,Rhinoceros,26.2,73.8,26.2
+Flesh Golem,Oni,26.2,73.8,26.2
+Giant Frog,Giant Wolf Spider,73.8,26.2,26.2
+Giant Octopus,Rhinoceros,26.2,73.8,26.2
+Gibbering Mouther,Succubus/Incubus,73.8,26.2,26.2
+Manticore,Vampire Spawn,26.2,73.8,26.2
+Phase Spider,Swarm of Beetles,73.8,26.2,26.2
+Silver Dragon Wyrmling,Winter Wolf,26.2,73.8,26.2
+"Werebear, Hybrid Form",Young Brass Dragon,26.2,73.8,26.2
+Assassin,Unicorn,26.1,73.9,26.1
+Barbed Devil,Spirit Naga,73.9,26.1,26.1
+Black Bear,Noble,73.9,26.1,26.1
+Black Bear,Panther,73.9,26.1,26.1
+Brown Bear,Specter,73.9,26.1,26.1
+Chain Devil,Water Elemental,26.1,73.9,26.1
+Cloaker,Spirit Naga,73.9,26.1,26.1
+Cultist,Panther,26.1,73.9,26.1
+Gelatinous Cube,Half-Red Dragon Veteran,26.1,73.9,26.1
+Giant Boar,White Dragon Wyrmling,73.9,26.1,26.1
+Giant Poisonous Snake,Swarm of Wasps,26.1,73.9,26.1
+Giant Rat (Diseased),Grimlock,26.1,73.9,26.1
+Swarm of Centipedes,Thug,73.9,26.1,26.1
+Triceratops,Young Bronze Dragon,26.1,73.9,26.1
+Adult White Dragon,Stone Golem,74.0,26.0,26.0
+Ape,Giant Poisonous Snake,74.0,26.0,26.0
+Basilisk,Mimic,74.0,26.0,26.0
+Boar,Giant Frog,26.0,74.0,26.0
+Bronze Dragon Wyrmling,Hunter Shark,26.0,74.0,26.0
+Darkmantle,Lion,26.0,74.0,26.0
+Dretch,Wolf,26.0,74.0,26.0
+Earth Elemental,Giant Crocodile,74.0,26.0,26.0
+Giant Boar,Succubus/Incubus,26.0,74.0,26.0
+Giant Goat,Swarm of Rats,74.0,26.0,26.0
+Giant Lizard,Swarm of Centipedes,26.0,74.0,26.0
+Gladiator,Water Elemental,26.0,74.0,26.0
+Hell Hound,Veteran,26.0,74.0,26.0
+Ice Mephit,Scout,26.0,74.0,26.0
+Lich,Young Copper Dragon,74.0,26.0,26.0
+Mule,Pony,26.0,74.0,26.0
+Ochre Jelly,Phase Spider,74.0,26.0,26.0
+Adult Black Dragon,Fire Giant,25.9,74.1,25.9
+Bearded Devil,Tiger,74.1,25.9,25.9
+Black Dragon Wyrmling,Brown Bear,74.1,25.9,25.9
+Blink Dog,Elk,74.1,25.9,25.9
+Boar,Giant Crab,25.9,74.1,25.9
+Bronze Dragon Wyrmling,Manticore,25.9,74.1,25.9
+Constrictor Snake,Cult Fanatic,25.9,74.1,25.9
+Death Dog,Ghoul,74.1,25.9,25.9
+Dretch,Skeleton,25.9,74.1,25.9
+Erinyes,Young Black Dragon,74.1,25.9,25.9
+Giant Boar,Saber-Toothed Tiger,25.9,74.1,25.9
+Giant Goat,Giant Vulture,74.1,25.9,25.9
+Giant Rat,Imp,25.9,74.1,25.9
+Giant Vulture,Swarm of Bats,74.1,25.9,25.9
+Hill Giant,Young White Dragon,25.9,74.1,25.9
+Riding Horse,Spy,25.9,74.1,25.9
+"Wererat, Human Form","Wererat, Hybrid Form",74.1,25.9,25.9
+Air Elemental,Chimera,74.2,25.8,25.8
+Air Elemental,Otyugh,74.2,25.8,25.8
+Basilisk,Pegasus,25.8,74.2,25.8
+Blink Dog,Orc,25.8,74.2,25.8
+Bone Devil,Triceratops,25.8,74.2,25.8
+Bronze Dragon Wyrmling,White Dragon Wyrmling,74.2,25.8,25.8
+Bugbear,Saber-Toothed Tiger,25.8,74.2,25.8
+Camel,Giant Wolf Spider,25.8,74.2,25.8
+Cockatrice,Pony,74.2,25.8,25.8
+Crocodile,Cult Fanatic,74.2,25.8,25.8
+Darkmantle,Specter,25.8,74.2,25.8
+Dire Wolf,Gelatinous Cube,25.8,74.2,25.8
+Dretch,Sahuagin,25.8,74.2,25.8
+Dust Mephit,Ice Mephit,74.2,25.8,25.8
+Fire Elemental,"Weretiger, Hybrid Form",74.2,25.8,25.8
+Flesh Golem,Lamia,25.8,74.2,25.8
+Gelatinous Cube,Mummy,74.2,25.8,25.8
+Giant Lizard,Scout,74.2,25.8,25.8
+Giant Owl,Swarm of Bats,74.2,25.8,25.8
+Giant Vulture,Warhorse,25.8,74.2,25.8
+Gorgon,Young Green Dragon,74.2,25.8,25.8
+Lion,Rust Monster,74.2,25.8,25.8
+Shield Guardian,Young White Dragon,25.8,74.2,25.8
+Adult Black Dragon,Adult Copper Dragon,74.3,25.7,25.7
+Adult Brass Dragon,Horned Devil,74.3,25.7,25.7
+Axe Beak,Black Bear,74.3,25.7,25.7
+Black Dragon Wyrmling,Doppelganger,25.7,74.3,25.7
+Drider,Ogre,25.7,74.3,25.7
+Ghoul,Phase Spider,25.7,74.3,25.7
+Giant Lizard,"Wererat, Human Form",25.7,74.3,25.7
+Giant Poisonous Snake,Giant Sea Horse,74.3,25.7,25.7
+Giant Wolf Spider,Riding Horse,25.7,74.3,25.7
+Ogre,Rhinoceros,74.3,25.7,25.7
+Shield Guardian,"Vampire, Vampire Form",74.3,25.7,25.7
+Specter,Will-o'-Wisp,25.7,74.3,25.7
+Swarm of Bats,Swarm of Ravens,25.7,74.3,25.7
+"Weretiger, Human Form",Winter Wolf,25.7,74.3,25.7
+"Werewolf, Wolf Form",Worg,74.3,25.7,25.7
+Bandit,Dust Mephit,25.6,74.4,25.6
+Bandit,Mule,74.4,25.6,25.6
+Black Pudding,Gargoyle,74.4,25.6,25.6
+Boar,Constrictor Snake,25.6,74.4,25.6
+Chuul,Killer Whale,25.6,74.4,25.6
+Copper Dragon Wyrmling,Will-o'-Wisp,25.6,74.4,25.6
+Cult Fanatic,"Wererat, Hybrid Form",25.6,74.4,25.6
+Darkmantle,Hobgoblin,74.4,25.6,25.6
+Deep Gnome (Svirfneblin),Drow,74.4,25.6,25.6
+Elk,Flying Sword,25.6,74.4,25.6
+Knight,Pegasus,74.4,25.6,25.6
+Knight,Rhinoceros,74.4,25.6,25.6
+Mimic,Succubus/Incubus,25.6,74.4,25.6
+Minotaur Skeleton,"Weretiger, Hybrid Form",74.4,25.6,25.6
+Swarm of Beetles,Thug,74.4,25.6,25.6
+Swarm of Insects,Wight,25.6,74.4,25.6
+Swarm of Wasps,Wight,25.6,74.4,25.6
+"Werebear, Human Form",Xorn,25.6,74.4,25.6
+Ancient Blue Dragon,Ancient Bronze Dragon,74.5,25.5,25.5
+Balor,Pit Fiend,25.5,74.5,25.5
+Boar,Giant Rat,74.5,25.5,25.5
+Camel,Giant Badger,25.5,74.5,25.5
+Dire Wolf,Gargoyle,74.5,25.5,25.5
+Drow,Rust Monster,25.5,74.5,25.5
+Ghast,Saber-Toothed Tiger,25.5,74.5,25.5
+Giant Constrictor Snake,Winter Wolf,25.5,74.5,25.5
+Giant Elk,Medusa,25.5,74.5,25.5
+Giant Rat,Grimlock,25.5,74.5,25.5
+Lizardfolk,Satyr,25.5,74.5,25.5
+Magmin,Orc,25.5,74.5,25.5
+Phase Spider,Satyr,74.5,25.5,25.5
+Plesiosaurus,Winter Wolf,74.5,25.5,25.5
+Air Elemental,Minotaur,74.6,25.4,25.4
+Androsphinx,Stone Golem,74.6,25.4,25.4
+Animated Armor,Hell Hound,25.4,74.6,25.4
+Azer,Warhorse Skeleton,74.6,25.4,25.4
+Black Bear,Flying Sword,25.4,74.6,25.4
+Black Dragon Wyrmling,Grick,74.6,25.4,25.4
+Blink Dog,Dust Mephit,74.6,25.4,25.4
+Blink Dog,Giant Goat,25.4,74.6,25.4
+Giant Crab,Giant Wolf Spider,74.6,25.4,25.4
+Giant Owl,Specter,25.4,74.6,25.4
+Green Hag,"Werebear, Bear Form",25.4,74.6,25.4
+Green Hag,"Werebear, Human Form",74.6,25.4,25.4
+Pegasus,Veteran,74.6,25.4,25.4
+"Vampire, Bat Form",Wraith,74.6,25.4,25.4
+"Wererat, Human Form","Wererat, Rat Form",74.6,25.4,25.4
+Basilisk,Giant Constrictor Snake,25.3,74.7,25.3
+Black Bear,Reef Shark,25.3,74.7,25.3
+Blue Dragon Wyrmling,Ogre Zombie,25.3,74.7,25.3
+Cockatrice,Imp,74.7,25.3,25.3
+Flying Sword,Mage,25.3,74.7,25.3
+Giant Sea Horse,Swarm of Bats,25.3,74.7,25.3
+Killer Whale,Shield Guardian,25.3,74.7,25.3
+Kobold,Quasit,25.3,74.7,25.3
+Rhinoceros,Saber-Toothed Tiger,74.7,25.3,25.3
+Spirit Naga,"Weretiger, Hybrid Form",25.3,74.7,25.3
+Young Brass Dragon,Young Green Dragon,25.3,74.7,25.3
+Barbed Devil,Flesh Golem,25.2,74.8,25.2
+Black Bear,Giant Goat,25.2,74.8,25.2
+Black Dragon Wyrmling,Ochre Jelly,74.8,25.2,25.2
+Dire Wolf,Manticore,25.2,74.8,25.2
+Harpy,Warhorse Skeleton,25.2,74.8,25.2
+Hippogriff,Lizardfolk,74.8,25.2,25.2
+Pegasus,Saber-Toothed Tiger,74.8,25.2,25.2
+Young Bronze Dragon,Young Green Dragon,74.8,25.2,25.2
+Assassin,Saber-Toothed Tiger,74.9,25.1,25.1
+Axe Beak,Riding Horse,74.9,25.1,25.1
+Basilisk,Swarm of Quippers,74.9,25.1,25.1
+Black Bear,Giant Vulture,25.1,74.9,25.1
+Draft Horse,Reef Shark,74.9,25.1,25.1
+Dretch,Pseudodragon,74.9,25.1,25.1
+Drider,Veteran,74.9,25.1,25.1
+Giant Ape,Treant,74.9,25.1,25.1
+Giant Constrictor Snake,Giant Elk,74.9,25.1,25.1
+Giant Sea Horse,Goblin,74.9,25.1,25.1
+Giant Wasp,Swarm of Rats,25.1,74.9,25.1
+Green Dragon Wyrmling,Saber-Toothed Tiger,25.1,74.9,25.1
+Plesiosaurus,Wraith,25.1,74.9,25.1
+Riding Horse,Skeleton,74.9,25.1,25.1
+Swarm of Bats,Wolf,74.9,25.1,25.1
+Aboleth,Mummy Lord,75.0,25.0,25.0
+Adult Gold Dragon,Nalfeshnee,75.0,25.0,25.0
+Basilisk,Gibbering Mouther,25.0,75.0,25.0
+Bearded Devil,Warhorse Skeleton,75.0,25.0,25.0
+Black Pudding,"Werewolf, Hybrid Form",75.0,25.0,25.0
+Black Pudding,"Werewolf, Wolf Form",75.0,25.0,25.0
+Clay Golem,Shield Guardian,75.0,25.0,25.0
+Cloaker,Unicorn,75.0,25.0,25.0
+Deva,Minotaur,75.0,25.0,25.0
+Ettin,Minotaur Skeleton,75.0,25.0,25.0
+Fire Elemental,Minotaur,25.0,75.0,25.0
+Gargoyle,Merrow,25.0,75.0,25.0
+Giant Wasp,Swarm of Bats,25.0,75.0,25.0
+Goblin,Priest,25.0,75.0,25.0
+Goblin,Riding Horse,25.0,75.0,25.0
+Lion,Swarm of Ravens,75.0,25.0,25.0
+Shambling Mound,"Werebear, Bear Form",75.0,25.0,25.0
+Young Blue Dragon,Young Silver Dragon,25.0,75.0,25.0
+Adult Red Dragon,Kraken,24.9,75.1,24.9
+Ape,Specter,24.9,75.1,24.9
+Blue Dragon Wyrmling,Mummy,75.1,24.9,24.9
+Clay Golem,Giant Crocodile,75.1,24.9,24.9
+Couatl,Rakshasa,75.1,24.9,24.9
+Crocodile,Drow,75.1,24.9,24.9
+Crocodile,Swarm of Bats,75.1,24.9,24.9
+Cult Fanatic,Rust Monster,24.9,75.1,24.9
+Elk,Lizardfolk,24.9,75.1,24.9
+Griffon,Polar Bear,75.1,24.9,24.9
+Swarm of Insects,Thug,75.1,24.9,24.9
+Swarm of Spiders,"Wererat, Hybrid Form",75.1,24.9,24.9
+Aboleth,Djinni,24.8,75.2,24.8
+Adult Red Dragon,Iron Golem,75.2,24.8,24.8
+Ankheg,Rhinoceros,24.8,75.2,24.8
+Archmage,Ghast,75.2,24.8,24.8
+Assassin,Manticore,75.2,24.8,24.8
+Bandit,Giant Rat,75.2,24.8,24.8
+Berserker,Gelatinous Cube,75.2,24.8,24.8
+Blink Dog,Spy,24.8,75.2,24.8
+Boar,Giant Rat (Diseased),75.2,24.8,24.8
+Bugbear,Sea Hag,24.8,75.2,24.8
+Bulette,Djinni,75.2,24.8,24.8
+Centaur,Rhinoceros,24.8,75.2,24.8
+Doppelganger,Ghost,24.8,75.2,24.8
+Dretch,Dust Mephit,24.8,75.2,24.8
+Elk,Gnoll,24.8,75.2,24.8
+Ettercap,Giant Boar,24.8,75.2,24.8
+Flesh Golem,Wraith,24.8,75.2,24.8
+Gargoyle,Grick,75.2,24.8,24.8
+Hell Hound,Manticore,24.8,75.2,24.8
+Hezrou,Shield Guardian,75.2,24.8,24.8
+Kraken,Storm Giant,75.2,24.8,24.8
+Mummy Lord,Young Green Dragon,24.8,75.2,24.8
+Specter,"Wererat, Human Form",75.2,24.8,24.8
+Spirit Naga,"Wereboar, Human Form",75.2,24.8,24.8
+Swarm of Bats,"Wererat, Rat Form",24.8,75.2,24.8
+Animated Armor,Giant Hyena,24.7,75.3,24.7
+Axe Beak,Priest,75.3,24.7,24.7
+Bandit Captain,Bronze Dragon Wyrmling,75.3,24.7,24.7
+Basilisk,Ghast,75.3,24.7,24.7
+Bronze Dragon Wyrmling,Warhorse Skeleton,75.3,24.7,24.7
+Constrictor Snake,Giant Lizard,24.7,75.3,24.7
+Copper Dragon Wyrmling,Swarm of Poisonous Snakes,24.7,75.3,24.7
+Draft Horse,"Wererat, Rat Form",75.3,24.7,24.7
+Drow,Gray Ooze,75.3,24.7,24.7
+Elephant,Gladiator,75.3,24.7,24.7
+Ghast,Tiger,75.3,24.7,24.7
+Giant Badger,Wolf,24.7,75.3,24.7
+Giant Crab,Swarm of Bats,24.7,75.3,24.7
+Giant Lizard,Specter,24.7,75.3,24.7
+Giant Sea Horse,Swarm of Rats,24.7,75.3,24.7
+Hell Hound,Hunter Shark,24.7,75.3,24.7
+Hippogriff,Swarm of Rats,75.3,24.7,24.7
+Imp,Swarm of Rats,24.7,75.3,24.7
+Mage,Orc,75.3,24.7,24.7
+Mimic,Saber-Toothed Tiger,24.7,75.3,24.7
+Night Hag,Triceratops,24.7,75.3,24.7
+Blink Dog,Hippogriff,24.6,75.4,24.6
+Cloud Giant,Tyrannosaurus Rex,75.4,24.6,24.6
+Cockatrice,Zombie,75.4,24.6,24.6
+Copper Dragon Wyrmling,Ghast,24.6,75.4,24.6
+Deep Gnome (Svirfneblin),Mage,24.6,75.4,24.6
+Doppelganger,Ghast,75.4,24.6,24.6
+Erinyes,Ice Devil,24.6,75.4,24.6
+Fire Elemental,"Weretiger, Tiger Form",75.4,24.6,24.6
+Giant Constrictor Snake,Veteran,75.4,24.6,24.6
+Giant Toad,Swarm of Spiders,75.4,24.6,24.6
+Ice Mephit,Priest,24.6,75.4,24.6
+Swarm of Bats,"Wererat, Hybrid Form",24.6,75.4,24.6
+"Vampire, Bat Form","Werebear, Bear Form",24.6,75.4,24.6
+Archmage,Giant Boar,75.5,24.5,24.5
+Assassin,Giant Elk,75.5,24.5,24.5
+Awakened Tree,Spirit Naga,75.5,24.5,24.5
+Behir,Young Red Dragon,75.5,24.5,24.5
+Bronze Dragon Wyrmling,Gargoyle,75.5,24.5,24.5
+Bugbear,Warhorse Skeleton,75.5,24.5,24.5
+Copper Dragon Wyrmling,Draft Horse,75.5,24.5,24.5
+Dust Mephit,Swarm of Rats,24.5,75.5,24.5
+Elephant,Giant Crocodile,24.5,75.5,24.5
+Giant Badger,Zombie,24.5,75.5,24.5
+Giant Constrictor Snake,Manticore,75.5,24.5,24.5
+Giant Octopus,Silver Dragon Wyrmling,24.5,75.5,24.5
+Giant Spider,Swarm of Spiders,75.5,24.5,24.5
+Hippogriff,Phase Spider,24.5,75.5,24.5
+Red Dragon Wyrmling,"Werebear, Human Form",24.5,75.5,24.5
+Riding Horse,Swarm of Ravens,24.5,75.5,24.5
+Satyr,Worg,24.5,75.5,24.5
+Archmage,Saber-Toothed Tiger,24.4,75.6,24.4
+Bandit Captain,Silver Dragon Wyrmling,24.4,75.6,24.4
+Boar,Wolf,24.4,75.6,24.4
+Chuul,Minotaur Skeleton,75.6,24.4,24.4
+Cult Fanatic,Priest,75.6,24.4,24.4
+Cultist,Giant Wasp,24.4,75.6,24.4
+Death Dog,Orc,75.6,24.4,24.4
+Erinyes,Gynosphinx,75.6,24.4,24.4
+Giant Constrictor Snake,Sea Hag,75.6,24.4,24.4
+Giant Vulture,Specter,24.4,75.6,24.4
+Pony,Swarm of Bats,24.4,75.6,24.4
+Swarm of Insects,Tiger,24.4,75.6,24.4
+Animated Armor,Copper Dragon Wyrmling,75.7,24.3,24.3
+Awakened Tree,Ettin,24.3,75.7,24.3
+Blue Dragon Wyrmling,Gold Dragon Wyrmling,24.3,75.7,24.3
+Brass Dragon Wyrmling,Worg,24.3,75.7,24.3
+Constrictor Snake,Giant Wolf Spider,75.7,24.3,24.3
+Deva,"Werebear, Hybrid Form",24.3,75.7,24.3
+Dire Wolf,Sea Hag,24.3,75.7,24.3
+Erinyes,Lich,75.7,24.3,24.3
+Giant Lizard,Swarm of Wasps,24.3,75.7,24.3
+Half-Red Dragon Veteran,Veteran,75.7,24.3,24.3
+Hell Hound,Saber-Toothed Tiger,24.3,75.7,24.3
+Knight,"Wereboar, Boar Form",75.7,24.3,24.3
+Panther,Swarm of Rats,24.3,75.7,24.3
+Silver Dragon Wyrmling,Veteran,75.7,24.3,24.3
+Swarm of Beetles,Wight,24.3,75.7,24.3
+Treant,Young Green Dragon,75.7,24.3,24.3
+Adult Black Dragon,Adult Bronze Dragon,24.2,75.8,24.2
+Assassin,Gold Dragon Wyrmling,24.2,75.8,24.2
+Bandit Captain,Pegasus,24.2,75.8,24.2
+Barbed Devil,Fire Elemental,24.2,75.8,24.2
+Bronze Dragon Wyrmling,Ghost,24.2,75.8,24.2
+Bulette,Tyrannosaurus Rex,24.2,75.8,24.2
+Drow,Pony,75.8,24.2,24.2
+Drow,Sahuagin,75.8,24.2,24.2
+Duergar,Harpy,75.8,24.2,24.2
+Eagle,Vulture,75.8,24.2,24.2
+Elk,Ice Mephit,75.8,24.2,24.2
+Ghast,Hunter Shark,24.2,75.8,24.2
+Giant Crab,Giant Lizard,24.2,75.8,24.2
+Gold Dragon Wyrmling,"Weretiger, Human Form",75.8,24.2,24.2
+Green Dragon Wyrmling,Tiger,75.8,24.2,24.2
+Hell Hound,Sea Hag,24.2,75.8,24.2
+Lamia,Xorn,24.2,75.8,24.2
+Mage,Thug,75.8,24.2,24.2
+Magmin,Reef Shark,24.2,75.8,24.2
+Mummy,"Wereboar, Human Form",24.2,75.8,24.2
+Satyr,Shadow,75.8,24.2,24.2
+Acolyte,Giant Rat,24.1,75.9,24.1
+Animated Armor,Warhorse,75.9,24.1,24.1
+Brass Dragon Wyrmling,Hobgoblin,75.9,24.1,24.1
+Earth Elemental,Giant Shark,24.1,75.9,24.1
+Ghoul,Giant Lizard,75.9,24.1,24.1
+Giant Bat,Harpy,24.1,75.9,24.1
+Giant Constrictor Snake,Troll,24.1,75.9,24.1
+Giant Goat,Giant Spider,24.1,75.9,24.1
+Giant Spider,Harpy,75.9,24.1,24.1
+Griffon,"Wereboar, Human Form",24.1,75.9,24.1
+Spirit Naga,"Weretiger, Tiger Form",24.1,75.9,24.1
+Swarm of Rats,Wolf,75.9,24.1,24.1
+Swarm of Spiders,Wight,24.1,75.9,24.1
+Unicorn,Vampire Spawn,75.9,24.1,24.1
+Adult Gold Dragon,Adult Silver Dragon,76.0,24.0,24.0
+Adult Green Dragon,Purple Worm,24.0,76.0,24.0
+Azer,Salamander,24.0,76.0,24.0
+Bandit,Sahuagin,24.0,76.0,24.0
+Bearded Devil,Ettercap,76.0,24.0,24.0
+Black Pudding,Giant Elk,24.0,76.0,24.0
+Blue Dragon Wyrmling,Griffon,76.0,24.0,24.0
+Boar,Giant Sea Horse,24.0,76.0,24.0
+Boar,Zombie,24.0,76.0,24.0
+Crocodile,Death Dog,24.0,76.0,24.0
+Deep Gnome (Svirfneblin),Scout,76.0,24.0,24.0
+Doppelganger,Gelatinous Cube,24.0,76.0,24.0
+Elk,Swarm of Rats,24.0,76.0,24.0
+Giant Ape,Young Silver Dragon,24.0,76.0,24.0
+Giant Weasel,Quasit,76.0,24.0,24.0
+Giant Wolf Spider,Pseudodragon,76.0,24.0,24.0
+Grick,Swarm of Insects,76.0,24.0,24.0
+Guardian Naga,Mummy Lord,24.0,76.0,24.0
+Roper,Triceratops,76.0,24.0,24.0
+"Wereboar, Hybrid Form",Winter Wolf,24.0,76.0,24.0
+Ankheg,Blue Dragon Wyrmling,23.9,76.1,23.9
+Black Bear,Giant Frog,76.1,23.9,23.9
+Bulette,Young Black Dragon,76.1,23.9,23.9
+Dire Wolf,Veteran,23.9,76.1,23.9
+Dretch,Steam Mephit,76.1,23.9,23.9
+Duergar,Will-o'-Wisp,23.9,76.1,23.9
+Dust Mephit,Grimlock,76.1,23.9,23.9
+Frost Giant,Roper,76.1,23.9,23.9
+Gelatinous Cube,Green Dragon Wyrmling,76.1,23.9,23.9
+Giant Bat,Scout,76.1,23.9,23.9
+Giant Boar,Sea Hag,23.9,76.1,23.9
+Giant Elk,Polar Bear,76.1,23.9,23.9
+Giant Poisonous Snake,"Wererat, Hybrid Form",23.9,76.1,23.9
+Giant Wasp,Goblin,76.1,23.9,23.9
+Gibbering Mouther,"Weretiger, Hybrid Form",23.9,76.1,23.9
+Specter,Swarm of Ravens,76.1,23.9,23.9
+Unicorn,"Wereboar, Boar Form",76.1,23.9,23.9
+Adult Gold Dragon,Storm Giant,23.8,76.2,23.8
+Azer,Mummy,23.8,76.2,23.8
+Blink Dog,Constrictor Snake,76.2,23.8,23.8
+Constrictor Snake,Deep Gnome (Svirfneblin),23.8,76.2,23.8
+Constrictor Snake,Swarm of Rats,23.8,76.2,23.8
+Flying Sword,Riding Horse,76.2,23.8,23.8
+Ghost,Saber-Toothed Tiger,76.2,23.8,23.8
+Giant Poisonous Snake,Swarm of Spiders,23.8,76.2,23.8
+Gnoll,Satyr,23.8,76.2,23.8
+Gynosphinx,Young Brass Dragon,76.2,23.8,23.8
+Hill Giant,"Werebear, Hybrid Form",76.2,23.8,23.8
+Horned Devil,Young Blue Dragon,76.2,23.8,23.8
+Polar Bear,Silver Dragon Wyrmling,23.8,76.2,23.8
+Polar Bear,Will-o'-Wisp,76.2,23.8,23.8
+Shadow,Swarm of Bats,76.2,23.8,23.8
+Archmage,Sea Hag,23.7,76.3,23.7
+Bandit,Giant Rat (Diseased),76.3,23.7,23.7
+Basilisk,"Wereboar, Human Form",23.7,76.3,23.7
+Berserker,Succubus/Incubus,76.3,23.7,23.7
+Black Bear,Orc,23.7,76.3,23.7
+Blue Dragon Wyrmling,Winter Wolf,23.7,76.3,23.7
+Cockatrice,Giant Lizard,23.7,76.3,23.7
+Copper Dragon Wyrmling,Swarm of Ravens,76.3,23.7,23.7
+Cult Fanatic,Swarm of Ravens,23.7,76.3,23.7
+Cult Fanatic,"Wererat, Rat Form",23.7,76.3,23.7
+Drow,Giant Frog,76.3,23.7,23.7
+Eagle,Giant Fire Beetle,76.3,23.7,23.7
+Flesh Golem,Nightmare,76.3,23.7,23.7
+Gargoyle,Polar Bear,23.7,76.3,23.7
+Giant Badger,Mule,76.3,23.7,23.7
+Giant Bat,Giant Poisonous Snake,76.3,23.7,23.7
+Giant Crocodile,"Werebear, Bear Form",76.3,23.7,23.7
+Gorgon,Young Black Dragon,76.3,23.7,23.7
+Horned Devil,Marilith,76.3,23.7,23.7
+Medusa,Sea Hag,76.3,23.7,23.7
+Mummy,Salamander,76.3,23.7,23.7
+Plesiosaurus,Wyvern,23.7,76.3,23.7
+Swarm of Spiders,"Wererat, Rat Form",76.3,23.7,23.7
+Water Elemental,Wraith,76.3,23.7,23.7
+Axe Beak,Magmin,76.4,23.6,23.6
+Axe Beak,Swarm of Spiders,23.6,76.4,23.6
+Basilisk,Bugbear,76.4,23.6,23.6
+Ghoul,Warhorse Skeleton,23.6,76.4,23.6
+Gnoll,Scout,76.4,23.6,23.6
+Gorgon,Gynosphinx,76.4,23.6,23.6
+Harpy,Worg,23.6,76.4,23.6
+Panther,Shadow,23.6,76.4,23.6
+Ape,Drow,76.5,23.5,23.5
+Axe Beak,Wolf,76.5,23.5,23.5
+Boar,Elk,23.5,76.5,23.5
+Bone Devil,"Vampire, Vampire Form",76.5,23.5,23.5
+Bugbear,Grick,76.5,23.5,23.5
+Crocodile,Giant Spider,23.5,76.5,23.5
+Earth Elemental,Gorgon,23.5,76.5,23.5
+Earth Elemental,Roper,23.5,76.5,23.5
+Flying Sword,Scout,76.5,23.5,23.5
+Ghoul,Worg,23.5,76.5,23.5
+Giant Toad,Warhorse,76.5,23.5,23.5
+Hippogriff,Hobgoblin,76.5,23.5,23.5
+Hydra,Lich,23.5,76.5,23.5
+Silver Dragon Wyrmling,Troll,23.5,76.5,23.5
+Swarm of Centipedes,Wight,23.5,76.5,23.5
+Swarm of Rats,"Wererat, Human Form",23.5,76.5,23.5
+Unicorn,"Wereboar, Hybrid Form",76.5,23.5,23.5
+Adult Black Dragon,Tyrannosaurus Rex,76.6,23.4,23.4
+Adult Blue Dragon,Iron Golem,23.4,76.6,23.4
+Animated Armor,Black Pudding,23.4,76.6,23.4
+Ape,Harpy,23.4,76.6,23.4
+Ape,Satyr,23.4,76.6,23.4
+Bandit Captain,Hell Hound,76.6,23.4,23.4
+Blink Dog,Ghoul,23.4,76.6,23.4
+Blink Dog,Giant Wasp,76.6,23.4,23.4
+Boar,Magma Mephit,23.4,76.6,23.4
+Boar,Skeleton,23.4,76.6,23.4
+Bugbear,Ettercap,76.6,23.4,23.4
+Darkmantle,Duergar,23.4,76.6,23.4
+Drow,Imp,76.6,23.4,23.4
+Drow,Noble,76.6,23.4,23.4
+Duergar,Orc,76.6,23.4,23.4
+Elephant,Hill Giant,23.4,76.6,23.4
+Giant Elk,Knight,23.4,76.6,23.4
+Giant Elk,Merrow,76.6,23.4,23.4
+Giant Rat,Mastiff,76.6,23.4,23.4
+Giant Rat (Diseased),Magmin,23.4,76.6,23.4
+Giant Toad,Swarm of Wasps,76.6,23.4,23.4
+Giant Toad,"Werewolf, Hybrid Form",23.4,76.6,23.4
+Giant Wolf Spider,Mule,76.6,23.4,23.4
+Gnoll,Riding Horse,76.6,23.4,23.4
+Griffon,Merrow,76.6,23.4,23.4
+Knight,Medusa,76.6,23.4,23.4
+Night Hag,Xorn,76.6,23.4,23.4
+Ogre,"Weretiger, Tiger Form",23.4,76.6,23.4
+Roper,Young Black Dragon,76.6,23.4,23.4
+Scout,Spy,23.4,76.6,23.4
+Swarm of Wasps,Tiger,23.4,76.6,23.4
+Black Dragon Wyrmling,Wight,76.7,23.3,23.3
+Brown Bear,Green Dragon Wyrmling,23.3,76.7,23.3
+Chain Devil,"Vampire, Bat Form",23.3,76.7,23.3
+Chimera,Vrock,76.7,23.3,23.3
+Chuul,Couatl,23.3,76.7,23.3
+Chuul,Red Dragon Wyrmling,76.7,23.3,23.3
+Chuul,Water Elemental,23.3,76.7,23.3
+Draft Horse,Shadow,76.7,23.3,23.3
+Earth Elemental,Hill Giant,76.7,23.3,23.3
+Giant Boar,"Werewolf, Hybrid Form",76.7,23.3,23.3
+Giant Poisonous Snake,Swarm of Insects,23.3,76.7,23.3
+Gibbering Mouther,Green Dragon Wyrmling,76.7,23.3,23.3
+Grick,Lion,76.7,23.3,23.3
+Hell Hound,"Werewolf, Wolf Form",76.7,23.3,23.3
+Minotaur Skeleton,"Weretiger, Tiger Form",76.7,23.3,23.3
+Swarm of Quippers,Tiger,76.7,23.3,23.3
+"Wereboar, Boar Form",Winter Wolf,23.3,76.7,23.3
+Adult Bronze Dragon,Adult Green Dragon,76.8,23.2,23.2
+Crocodile,Scout,76.8,23.2,23.2
+Dire Wolf,White Dragon Wyrmling,76.8,23.2,23.2
+Drow,Swarm of Insects,23.2,76.8,23.2
+Ghoul,Giant Toad,23.2,76.8,23.2
+Giant Badger,Sahuagin,23.2,76.8,23.2
+Giant Crocodile,Young Green Dragon,23.2,76.8,23.2
+Giant Spider,Mage,76.8,23.2,23.2
+Green Dragon Wyrmling,Hunter Shark,23.2,76.8,23.2
+Grimlock,Quasit,76.8,23.2,23.2
+Lich,Young Bronze Dragon,23.2,76.8,23.2
+Minotaur Skeleton,Otyugh,23.2,76.8,23.2
+Plesiosaurus,"Werebear, Human Form",23.2,76.8,23.2
+Reef Shark,Swarm of Bats,76.8,23.2,23.2
+Riding Horse,"Wererat, Hybrid Form",23.2,76.8,23.2
+Sea Hag,"Weretiger, Human Form",23.2,76.8,23.2
+Ankheg,Silver Dragon Wyrmling,23.1,76.9,23.1
+Bearded Devil,Doppelganger,23.1,76.9,23.1
+Crocodile,Giant Poisonous Snake,76.9,23.1,23.1
+Cultist,Wolf,23.1,76.9,23.1
+Djinni,Hezrou,76.9,23.1,23.1
+Elk,Giant Bat,23.1,76.9,23.1
+Elk,Giant Owl,23.1,76.9,23.1
+Erinyes,Young Blue Dragon,23.1,76.9,23.1
+Gelatinous Cube,Medusa,23.1,76.9,23.1
+Giant Scorpion,Mummy,23.1,76.9,23.1
+Gladiator,Killer Whale,23.1,76.9,23.1
+Green Dragon Wyrmling,Sea Hag,23.1,76.9,23.1
+Hill Giant,"Werebear, Bear Form",76.9,23.1,23.1
+Lion,Ochre Jelly,23.1,76.9,23.1
+Lizardfolk,Warhorse,23.1,76.9,23.1
+Nightmare,Unicorn,76.9,23.1,23.1
+Young Black Dragon,Young Bronze Dragon,23.1,76.9,23.1
+Archmage,Black Pudding,77.0,23.0,23.0
+Bandit,Blood Hawk,77.0,23.0,23.0
+Cult Fanatic,Skeleton,77.0,23.0,23.0
+Darkmantle,Mage,23.0,77.0,23.0
+Fire Elemental,"Werebear, Human Form",23.0,77.0,23.0
+Giant Crab,Shadow,23.0,77.0,23.0
+Giant Poisonous Snake,Swarm of Beetles,23.0,77.0,23.0
+Green Hag,Vrock,77.0,23.0,23.0
+Hell Hound,Swarm of Poisonous Snakes,77.0,23.0,23.0
+Hell Hound,"Werewolf, Hybrid Form",77.0,23.0,23.0
+Hill Giant,Young Black Dragon,23.0,77.0,23.0
+Horned Devil,Mammoth,77.0,23.0,23.0
+Marilith,Young Silver Dragon,23.0,77.0,23.0
+Noble,Violet Fungus,77.0,23.0,23.0
+Rakshasa,Water Elemental,23.0,77.0,23.0
+Succubus/Incubus,Swarm of Quippers,77.0,23.0,23.0
+Violet Fungus,Wolf,23.0,77.0,23.0
+Berserker,Gold Dragon Wyrmling,22.9,77.1,22.9
+Black Dragon Wyrmling,Mummy,22.9,77.1,22.9
+Bulette,Young Silver Dragon,22.9,77.1,22.9
+Couatl,"Vampire, Vampire Form",22.9,77.1,22.9
+Darkmantle,Swarm of Bats,77.1,22.9,22.9
+Doppelganger,Giant Scorpion,77.1,22.9,22.9
+Frost Giant,Glabrezu,77.1,22.9,22.9
+Giant Bat,Satyr,22.9,77.1,22.9
+Gibbering Mouther,Gold Dragon Wyrmling,22.9,77.1,22.9
+Goblin,Scout,22.9,77.1,22.9
+Hydra,Young Black Dragon,22.9,77.1,22.9
+Lemure,Quasit,22.9,77.1,22.9
+Priest,Shadow,22.9,77.1,22.9
+Shambling Mound,"Werebear, Hybrid Form",77.1,22.9,22.9
+Silver Dragon Wyrmling,Succubus/Incubus,77.1,22.9,22.9
+Succubus/Incubus,"Wereboar, Boar Form",22.9,77.1,22.9
+Swarm of Insects,White Dragon Wyrmling,22.9,77.1,22.9
+Warhorse,"Wererat, Human Form",77.1,22.9,22.9
+Aboleth,Erinyes,22.8,77.2,22.8
+Acolyte,Blood Hawk,22.8,77.2,22.8
+Adult Brass Dragon,Cloud Giant,22.8,77.2,22.8
+Bandit Captain,Swarm of Quippers,77.2,22.8,22.8
+Bearded Devil,Worg,77.2,22.8,22.8
+Clay Golem,Hill Giant,77.2,22.8,22.8
+Copper Dragon Wyrmling,Gargoyle,22.8,77.2,22.8
+Cultist,Kobold,77.2,22.8,22.8
+Doppelganger,Will-o'-Wisp,77.2,22.8,22.8
+Draft Horse,Giant Bat,77.2,22.8,22.8
+Giant Poisonous Snake,Giant Wasp,77.2,22.8,22.8
+Giant Sea Horse,Giant Wolf Spider,77.2,22.8,22.8
+Giant Toad,Lion,77.2,22.8,22.8
+Giant Vulture,Satyr,22.8,77.2,22.8
+Gibbering Mouther,"Weretiger, Tiger Form",22.8,77.2,22.8
+Gnoll,Harpy,22.8,77.2,22.8
+Gorgon,Lich,77.2,22.8,22.8
+Hobgoblin,Satyr,22.8,77.2,22.8
+Mastiff,Violet Fungus,22.8,77.2,22.8
+Swarm of Beetles,Tiger,22.8,77.2,22.8
+Swarm of Centipedes,Tiger,22.8,77.2,22.8
+Adult Black Dragon,Stone Golem,77.3,22.7,22.7
+Adult Gold Dragon,Kraken,22.7,77.3,22.7
+Adult Red Dragon,Adult Silver Dragon,77.3,22.7,22.7
+Ape,Copper Dragon Wyrmling,22.7,77.3,22.7
+Ape,Warhorse,22.7,77.3,22.7
+Black Bear,Darkmantle,22.7,77.3,22.7
+Brass Dragon Wyrmling,Brown Bear,22.7,77.3,22.7
+Deva,"Vampire, Vampire Form",22.7,77.3,22.7
+Djinni,Stone Giant,22.7,77.3,22.7
+Efreeti,Young Gold Dragon,22.7,77.3,22.7
+Ettin,Plesiosaurus,77.3,22.7,22.7
+Frost Giant,Stone Giant,77.3,22.7,22.7
+Giant Lizard,Lion,22.7,77.3,22.7
+Gynosphinx,Treant,22.7,77.3,22.7
+Half-Red Dragon Veteran,Winter Wolf,22.7,77.3,22.7
+Hezrou,Roper,22.7,77.3,22.7
+Hobgoblin,"Wererat, Human Form",22.7,77.3,22.7
+Iron Golem,Kraken,22.7,77.3,22.7
+Mimic,Sea Hag,22.7,77.3,22.7
+Mummy Lord,"Werebear, Hybrid Form",77.3,22.7,22.7
+Noble,Swarm of Bats,22.7,77.3,22.7
+Sea Hag,Spirit Naga,22.7,77.3,22.7
+Aboleth,Hill Giant,77.4,22.6,22.6
+Adult Copper Dragon,Young Silver Dragon,77.4,22.6,22.6
+Bandit,Riding Horse,22.6,77.4,22.6
+Bandit Captain,Mimic,77.4,22.6,22.6
+Basilisk,Giant Boar,77.4,22.6,22.6
+Bugbear,Ghost,22.6,77.4,22.6
+Camel,Dryad,22.6,77.4,22.6
+Cultist,Ice Mephit,22.6,77.4,22.6
+Draft Horse,Worg,22.6,77.4,22.6
+Drow,Swarm of Spiders,22.6,77.4,22.6
+Dust Mephit,Giant Weasel,77.4,22.6,22.6
+Ettin,Fire Elemental,77.4,22.6,22.6
+Gargoyle,Giant Octopus,22.6,77.4,22.6
+Ghoul,Grick,22.6,77.4,22.6
+Giant Rat,Magmin,22.6,77.4,22.6
+Giant Toad,Swarm of Centipedes,77.4,22.6,22.6
+Gold Dragon Wyrmling,Vampire Spawn,77.4,22.6,22.6
+Imp,Violet Fungus,77.4,22.6,22.6
+Shield Guardian,"Werebear, Bear Form",77.4,22.6,22.6
+Air Elemental,Young Brass Dragon,22.5,77.5,22.5
+Ancient Black Dragon,Ancient Copper Dragon,77.5,22.5,22.5
+Animated Armor,Ankheg,22.5,77.5,22.5
+Blink Dog,Imp,77.5,22.5,22.5
+Copper Dragon Wyrmling,Hippogriff,77.5,22.5,22.5
+Drow,Zombie,77.5,22.5,22.5
+Giant Crocodile,"Werebear, Hybrid Form",77.5,22.5,22.5
+Giant Eagle,Wight,22.5,77.5,22.5
+Giant Elk,Giant Hyena,77.5,22.5,22.5
+Giant Poisonous Snake,Sahuagin,77.5,22.5,22.5
+Giant Rat (Diseased),Pony,22.5,77.5,22.5
+Giant Toad,Swarm of Beetles,77.5,22.5,22.5
+Giant Toad,Swarm of Quippers,22.5,77.5,22.5
+Giant Wasp,Giant Wolf Spider,77.5,22.5,22.5
+Green Dragon Wyrmling,Warhorse Skeleton,77.5,22.5,22.5
+Hobgoblin,Specter,22.5,77.5,22.5
+Manticore,Medusa,22.5,77.5,22.5
+Ancient Blue Dragon,Ancient Silver Dragon,22.4,77.6,22.4
+Ape,Lion,22.4,77.6,22.4
+Bone Devil,"Werebear, Bear Form",77.6,22.4,22.4
+Drider,"Weretiger, Human Form",22.4,77.6,22.4
+Dryad,Ice Mephit,22.4,77.6,22.4
+Fire Elemental,Oni,22.4,77.6,22.4
+Fire Elemental,Winter Wolf,77.6,22.4,22.4
+Giant Crocodile,"Vampire, Vampire Form",77.6,22.4,22.4
+Giant Lizard,Priest,77.6,22.4,22.4
+Giant Owl,Giant Spider,22.4,77.6,22.4
+Giant Owl,Scout,77.6,22.4,22.4
+Gibbering Mouther,Plesiosaurus,22.4,77.6,22.4
+Gold Dragon Wyrmling,Silver Dragon Wyrmling,77.6,22.4,22.4
+Gynosphinx,Young Bronze Dragon,22.4,77.6,22.4
+Hell Hound,White Dragon Wyrmling,77.6,22.4,22.4
+Iron Golem,Planetar,77.6,22.4,22.4
+Lemure,Stirge,77.6,22.4,22.4
+Mummy,Polar Bear,77.6,22.4,22.4
+Orc,Swarm of Rats,77.6,22.4,22.4
+Otyugh,"Werebear, Hybrid Form",22.4,77.6,22.4
+Quasit,Sahuagin,22.4,77.6,22.4
+Rust Monster,Swarm of Rats,77.6,22.4,22.4
+Sea Hag,Unicorn,22.4,77.6,22.4
+Air Elemental,Shambling Mound,22.3,77.7,22.3
+Chimera,Guardian Naga,22.3,77.7,22.3
+Djinni,Earth Elemental,77.7,22.3,22.3
+Giant Constrictor Snake,Ogre Zombie,22.3,77.7,22.3
+Giant Poisonous Snake,Zombie,77.7,22.3,22.3
+Giant Vulture,Lion,22.3,77.7,22.3
+Lizardfolk,Specter,22.3,77.7,22.3
+Young Black Dragon,Young Brass Dragon,77.7,22.3,22.3
+Aboleth,Roper,22.2,77.8,22.2
+Adult Green Dragon,Behir,77.8,22.2,22.2
+Basilisk,Giant Scorpion,77.8,22.2,22.2
+Boar,Camel,77.8,22.2,22.2
+Clay Golem,Shambling Mound,77.8,22.2,22.2
+Copper Dragon Wyrmling,Swarm of Quippers,22.2,77.8,22.2
+Cultist,Giant Crab,22.2,77.8,22.2
+Death Dog,Rust Monster,77.8,22.2,22.2
+Death Dog,Swarm of Ravens,77.8,22.2,22.2
+Gargoyle,Wight,77.8,22.2,22.2
+Giant Eagle,Giant Goat,77.8,22.2,22.2
+Giant Poisonous Snake,Thug,22.2,77.8,22.2
+Giant Shark,Young White Dragon,77.8,22.2,22.2
+Giant Toad,Swarm of Insects,77.8,22.2,22.2
+Ogre,"Weretiger, Hybrid Form",22.2,77.8,22.2
+Aboleth,Bulette,22.1,77.9,22.1
+Ankheg,Bearded Devil,77.9,22.1,22.1
+Blink Dog,Panther,77.9,22.1,22.1
+Bone Devil,Young Black Dragon,22.1,77.9,22.1
+Constrictor Snake,Giant Owl,22.1,77.9,22.1
+Couatl,Wyvern,77.9,22.1,22.1
+Duergar,Ghast,22.1,77.9,22.1
+Erinyes,Triceratops,77.9,22.1,22.1
+Erinyes,Young White Dragon,77.9,22.1,22.1
+Giant Poisonous Snake,Gray Ooze,77.9,22.1,22.1
+Giant Wasp,Shadow,22.1,77.9,22.1
+Grick,Swarm of Wasps,77.9,22.1,22.1
+Imp,Shadow,22.1,77.9,22.1
+Rhinoceros,Winter Wolf,22.1,77.9,22.1
+Riding Horse,Rust Monster,22.1,77.9,22.1
+Salamander,Sea Hag,22.1,77.9,22.1
+Shield Guardian,"Werebear, Hybrid Form",77.9,22.1,22.1
+Adult Silver Dragon,Remorhaz,22.0,78.0,22.0
+Baboon,Giant Fire Beetle,22.0,78.0,22.0
+Black Pudding,Griffon,22.0,78.0,22.0
+Bronze Dragon Wyrmling,Rhinoceros,22.0,78.0,22.0
+Bugbear,Hunter Shark,22.0,78.0,22.0
+Chain Devil,Minotaur Skeleton,78.0,22.0,22.0
+Chimera,"Werebear, Human Form",78.0,22.0,22.0
+Doppelganger,Gibbering Mouther,22.0,78.0,22.0
+Dretch,Mule,78.0,22.0,22.0
+Drow,Swarm of Centipedes,22.0,78.0,22.0
+Dryad,Magmin,22.0,78.0,22.0
+Flesh Golem,Rakshasa,22.0,78.0,22.0
+Ghast,Succubus/Incubus,22.0,78.0,22.0
+Ghast,Warhorse Skeleton,78.0,22.0,22.0
+Giant Bat,Specter,22.0,78.0,22.0
+Giant Constrictor Snake,Nightmare,22.0,78.0,22.0
+Giant Wolf Spider,Hobgoblin,22.0,78.0,22.0
+Gold Dragon Wyrmling,Invisible Stalker,22.0,78.0,22.0
+Mummy,Swarm of Quippers,78.0,22.0,22.0
+Mummy,Will-o'-Wisp,78.0,22.0,22.0
+Ogre Zombie,Unicorn,78.0,22.0,22.0
+Red Dragon Wyrmling,Wyvern,22.0,78.0,22.0
+"Werewolf, Wolf Form",Wight,78.0,22.0,22.0
+Axe Beak,Swarm of Wasps,21.9,78.1,21.9
+Cloaker,Invisible Stalker,21.9,78.1,21.9
+Constrictor Snake,Crocodile,21.9,78.1,21.9
+Deep Gnome (Svirfneblin),Giant Spider,21.9,78.1,21.9
+Drider,Knight,21.9,78.1,21.9
+Dryad,Giant Rat (Diseased),78.1,21.9,21.9
+Duergar,Swarm of Ravens,78.1,21.9,21.9
+Giant Poisonous Snake,Swarm of Centipedes,21.9,78.1,21.9
+Killer Whale,Otyugh,78.1,21.9,21.9
+Kobold,Steam Mephit,21.9,78.1,21.9
+Red Dragon Wyrmling,Troll,78.1,21.9,21.9
+Aboleth,Gorgon,21.8,78.2,21.8
+Azer,Worg,78.2,21.8,21.8
+Bandit Captain,Giant Constrictor Snake,21.8,78.2,21.8
+Bandit Captain,Green Dragon Wyrmling,78.2,21.8,21.8
+Berserker,Ogre Zombie,21.8,78.2,21.8
+Blood Hawk,Pony,21.8,78.2,21.8
+Bone Devil,"Werebear, Hybrid Form",78.2,21.8,21.8
+Cockatrice,Ice Mephit,78.2,21.8,21.8
+Duergar,"Wererat, Human Form",78.2,21.8,21.8
+Dust Mephit,Goblin,78.2,21.8,21.8
+Fire Elemental,Gold Dragon Wyrmling,78.2,21.8,21.8
+Giant Crab,Giant Owl,21.8,78.2,21.8
+Giant Hyena,White Dragon Wyrmling,78.2,21.8,21.8
+Giant Toad,Satyr,78.2,21.8,21.8
+Grick,Swarm of Spiders,78.2,21.8,21.8
+Night Hag,Young White Dragon,21.8,78.2,21.8
+Otyugh,Vrock,78.2,21.8,21.8
+Rhinoceros,Succubus/Incubus,78.2,21.8,21.8
+Riding Horse,"Wererat, Rat Form",21.8,78.2,21.8
+Silver Dragon Wyrmling,"Weretiger, Hybrid Form",21.8,78.2,21.8
+Aboleth,Giant Crocodile,78.3,21.7,21.7
+Ancient Brass Dragon,Roc,78.3,21.7,21.7
+Ankheg,"Werewolf, Hybrid Form",78.3,21.7,21.7
+Ape,Blink Dog,78.3,21.7,21.7
+Archmage,Manticore,21.7,78.3,21.7
+Awakened Tree,Owlbear,78.3,21.7,21.7
+Axe Beak,Skeleton,78.3,21.7,21.7
+Azer,Ochre Jelly,78.3,21.7,21.7
+Black Bear,Imp,78.3,21.7,21.7
+Bugbear,Succubus/Incubus,21.7,78.3,21.7
+Bugbear,Veteran,21.7,78.3,21.7
+Camel,Noble,21.7,78.3,21.7
+Dire Wolf,Ghost,21.7,78.3,21.7
+Draft Horse,Gnoll,78.3,21.7,21.7
+Drow,Swarm of Beetles,21.7,78.3,21.7
+Ghast,Grick,78.3,21.7,21.7
+Ghost,Succubus/Incubus,78.3,21.7,21.7
+Giant Boar,Veteran,21.7,78.3,21.7
+Giant Hyena,"Werewolf, Hybrid Form",78.3,21.7,21.7
+Lion,Thug,78.3,21.7,21.7
+Minotaur,"Werebear, Bear Form",21.7,78.3,21.7
+Mummy,"Wereboar, Hybrid Form",21.7,78.3,21.7
+Shield Guardian,Young Black Dragon,21.7,78.3,21.7
+Swarm of Beetles,White Dragon Wyrmling,21.7,78.3,21.7
+Swarm of Centipedes,White Dragon Wyrmling,21.7,78.3,21.7
+"Vampire, Vampire Form",Xorn,78.3,21.7,21.7
+Adult Red Dragon,Storm Giant,21.6,78.4,21.6
+Black Dragon Wyrmling,Giant Spider,78.4,21.6,21.6
+Brass Dragon Wyrmling,Ochre Jelly,21.6,78.4,21.6
+Bugbear,Rhinoceros,21.6,78.4,21.6
+Cloud Giant,Fire Giant,21.6,78.4,21.6
+Couatl,"Werebear, Human Form",78.4,21.6,21.6
+Death Dog,Wight,21.6,78.4,21.6
+Deep Gnome (Svirfneblin),Duergar,21.6,78.4,21.6
+Draft Horse,Hobgoblin,78.4,21.6,21.6
+Elephant,Rakshasa,78.4,21.6,21.6
+Giant Rat (Diseased),Kobold,78.4,21.6,21.6
+Giant Toad,"Werewolf, Wolf Form",21.6,78.4,21.6
+Kraken,Solar,21.6,78.4,21.6
+Mimic,Veteran,21.6,78.4,21.6
+Mummy Lord,"Werebear, Bear Form",78.4,21.6,21.6
+Swarm of Wasps,"Wererat, Hybrid Form",78.4,21.6,21.6
+Air Elemental,Chain Devil,78.5,21.5,21.5
+Black Pudding,White Dragon Wyrmling,78.5,21.5,21.5
+Blink Dog,Brass Dragon Wyrmling,21.5,78.5,21.5
+Blink Dog,Giant Sea Horse,78.5,21.5,21.5
+Brass Dragon Wyrmling,Swarm of Rats,78.5,21.5,21.5
+Cult Fanatic,Draft Horse,21.5,78.5,21.5
+Darkmantle,Death Dog,21.5,78.5,21.5
+Drow,"Wererat, Rat Form",21.5,78.5,21.5
+Gelatinous Cube,Griffon,78.5,21.5,21.5
+Grick,Swarm of Centipedes,78.5,21.5,21.5
+Minotaur,Minotaur Skeleton,78.5,21.5,21.5
+Mummy,Owlbear,21.5,78.5,21.5
+Otyugh,"Werebear, Bear Form",21.5,78.5,21.5
+Pegasus,Winter Wolf,21.5,78.5,21.5
+Pony,Swarm of Rats,21.5,78.5,21.5
+Succubus/Incubus,"Wereboar, Hybrid Form",21.5,78.5,21.5
+Swarm of Insects,"Wererat, Hybrid Form",78.5,21.5,21.5
+Axe Beak,Swarm of Centipedes,21.4,78.6,21.4
+Azer,Giant Elk,21.4,78.6,21.4
+Copper Dragon Wyrmling,Ghoul,78.6,21.4,21.4
+Ettercap,Green Dragon Wyrmling,21.4,78.6,21.4
+Giant Hyena,"Werewolf, Wolf Form",78.6,21.4,21.4
+Giant Scorpion,Succubus/Incubus,21.4,78.6,21.4
+Green Dragon Wyrmling,Manticore,21.4,78.6,21.4
+Griffon,Swarm of Quippers,78.6,21.4,21.4
+Hezrou,Hill Giant,78.6,21.4,21.4
+Hill Giant,"Vampire, Vampire Form",78.6,21.4,21.4
+Lamia,Plesiosaurus,78.6,21.4,21.4
+Lamia,Water Elemental,21.4,78.6,21.4
+Otyugh,"Werebear, Human Form",78.6,21.4,21.4
+Phase Spider,"Werewolf, Wolf Form",21.4,78.6,21.4
+Sahuagin,Swarm of Bats,21.4,78.6,21.4
+Scout,"Wererat, Hybrid Form",21.4,78.6,21.4
+Swarm of Insects,"Wererat, Rat Form",78.6,21.4,21.4
+Ape,Mage,21.3,78.7,21.3
+Assassin,Veteran,78.7,21.3,21.3
+Couatl,Night Hag,21.3,78.7,21.3
+Cult Fanatic,Magmin,78.7,21.3,21.3
+Fire Elemental,Wraith,21.3,78.7,21.3
+Flesh Golem,Gold Dragon Wyrmling,78.7,21.3,21.3
+Giant Boar,Manticore,21.3,78.7,21.3
+Giant Lizard,Riding Horse,78.7,21.3,21.3
+Giant Lizard,Satyr,21.3,78.7,21.3
+Giant Shark,Gynosphinx,78.7,21.3,21.3
+Giant Spider,"Werewolf, Wolf Form",21.3,78.7,21.3
+Grick,Warhorse,78.7,21.3,21.3
+Harpy,Spy,78.7,21.3,21.3
+Hobgoblin,Sahuagin,78.7,21.3,21.3
+Hyena,Vulture,78.7,21.3,21.3
+Imp,Swarm of Bats,21.3,78.7,21.3
+Minotaur,"Werebear, Hybrid Form",21.3,78.7,21.3
+Mummy,Ogre,21.3,78.7,21.3
+Mummy,Vampire Spawn,21.3,78.7,21.3
+Mummy,"Wereboar, Boar Form",21.3,78.7,21.3
+Nightmare,Spirit Naga,78.7,21.3,21.3
+Ogre Zombie,Silver Dragon Wyrmling,78.7,21.3,21.3
+Priest,Zombie,78.7,21.3,21.3
+Satyr,Wight,21.3,78.7,21.3
+Swarm of Ravens,Warhorse Skeleton,21.3,78.7,21.3
+Axe Beak,Giant Eagle,21.2,78.8,21.2
+Black Dragon Wyrmling,Gelatinous Cube,21.2,78.8,21.2
+Blood Hawk,Mastiff,78.8,21.2,21.2
+Centaur,Ghost,21.2,78.8,21.2
+Cockatrice,Swarm of Rats,21.2,78.8,21.2
+Copper Dragon Wyrmling,"Werewolf, Hybrid Form",21.2,78.8,21.2
+Ghoul,Swarm of Rats,78.8,21.2,21.2
+Giant Bat,Riding Horse,78.8,21.2,21.2
+Giant Eagle,White Dragon Wyrmling,21.2,78.8,21.2
+Giant Poisonous Snake,Wolf,78.8,21.2,21.2
+Giant Weasel,Swarm of Rats,21.2,78.8,21.2
+Gibbering Mouther,Saber-Toothed Tiger,78.8,21.2,21.2
+Gold Dragon Wyrmling,"Wereboar, Boar Form",78.8,21.2,21.2
+Hobgoblin,Zombie,78.8,21.2,21.2
+Imp,Quasit,78.8,21.2,21.2
+Merrow,"Werewolf, Hybrid Form",78.8,21.2,21.2
+Swarm of Spiders,Tiger,21.2,78.8,21.2
+Vrock,Xorn,21.2,78.8,21.2
+Acolyte,Goat,78.9,21.1,21.1
+Basilisk,Drider,21.1,78.9,21.1
+Bearded Devil,Ochre Jelly,78.9,21.1,21.1
+Bearded Devil,Salamander,21.1,78.9,21.1
+Bugbear,Ochre Jelly,78.9,21.1,21.1
+Ghast,Sea Hag,21.1,78.9,21.1
+Giant Bat,Warhorse,21.1,78.9,21.1
+Giant Crocodile,Guardian Naga,78.9,21.1,21.1
+Gold Dragon Wyrmling,"Wereboar, Hybrid Form",78.9,21.1,21.1
+Grick,Satyr,78.9,21.1,21.1
+Harpy,Shadow,78.9,21.1,21.1
+Merrow,"Werewolf, Wolf Form",78.9,21.1,21.1
+Noble,Pseudodragon,78.9,21.1,21.1
+Saber-Toothed Tiger,Spirit Naga,21.1,78.9,21.1
+Ankheg,Berserker,21.0,79.0,21.0
+Archmage,Bugbear,79.0,21.0,21.0
+Doppelganger,Silver Dragon Wyrmling,21.0,79.0,21.0
+Drow,"Wererat, Hybrid Form",21.0,79.0,21.0
+Dust Mephit,Flying Sword,21.0,79.0,21.0
+Giant Bat,Lion,21.0,79.0,21.0
+Giant Vulture,Harpy,21.0,79.0,21.0
+Grick,Swarm of Beetles,79.0,21.0,21.0
+Griffon,Will-o'-Wisp,79.0,21.0,21.0
+Half-Red Dragon Veteran,Nightmare,21.0,79.0,21.0
+Harpy,Reef Shark,79.0,21.0,21.0
+Lich,"Werebear, Hybrid Form",79.0,21.0,21.0
+Swarm of Bats,Swarm of Beetles,21.0,79.0,21.0
+Air Elemental,Mummy Lord,20.9,79.1,20.9
+Azer,Griffon,20.9,79.1,20.9
+Berserker,Winter Wolf,20.9,79.1,20.9
+Black Dragon Wyrmling,Griffon,20.9,79.1,20.9
+Blood Hawk,Kobold,79.1,20.9,20.9
+Blue Dragon Wyrmling,Doppelganger,79.1,20.9,20.9
+Boar,Gray Ooze,20.9,79.1,20.9
+Clay Golem,Roper,20.9,79.1,20.9
+Death Dog,Flying Sword,79.1,20.9,20.9
+Giant Constrictor Snake,Saber-Toothed Tiger,79.1,20.9,20.9
+Giant Eagle,Shadow,79.1,20.9,20.9
+Giant Rat (Diseased),Stirge,79.1,20.9,20.9
+Giant Spider,Orc,79.1,20.9,20.9
+Gold Dragon Wyrmling,Half-Red Dragon Veteran,79.1,20.9,20.9
+Gold Dragon Wyrmling,Lamia,20.9,79.1,20.9
+Griffon,"Wereboar, Boar Form",20.9,79.1,20.9
+Hezrou,Night Hag,79.1,20.9,20.9
+Lion,White Dragon Wyrmling,20.9,79.1,20.9
+Nalfeshnee,Storm Giant,20.9,79.1,20.9
+Nightmare,Vrock,20.9,79.1,20.9
+Plesiosaurus,Troll,79.1,20.9,20.9
+Riding Horse,Swarm of Beetles,20.9,79.1,20.9
+Riding Horse,Swarm of Insects,20.9,79.1,20.9
+Swarm of Wasps,"Wererat, Rat Form",79.1,20.9,20.9
+Xorn,Young Brass Dragon,20.9,79.1,20.9
+Acolyte,Giant Rat (Diseased),20.8,79.2,20.8
+Ape,Scout,79.2,20.8,20.8
+Awakened Tree,Lamia,20.8,79.2,20.8
+Basilisk,Black Dragon Wyrmling,79.2,20.8,20.8
+Black Bear,Gray Ooze,79.2,20.8,20.8
+Centaur,Gargoyle,79.2,20.8,20.8
+Constrictor Snake,Shadow,20.8,79.2,20.8
+Djinni,Glabrezu,20.8,79.2,20.8
+Efreeti,Roper,79.2,20.8,20.8
+Elephant,Mummy Lord,20.8,79.2,20.8
+Elk,Giant Vulture,20.8,79.2,20.8
+Giant Badger,Giant Rat,79.2,20.8,20.8
+Giant Boar,Swarm of Poisonous Snakes,79.2,20.8,20.8
+Giant Rat,Kobold,79.2,20.8,20.8
+Manticore,Swarm of Quippers,79.2,20.8,20.8
+Marilith,Treant,79.2,20.8,20.8
+Mastiff,Steam Mephit,20.8,79.2,20.8
+Orc,Will-o'-Wisp,20.8,79.2,20.8
+Troll,"Weretiger, Human Form",79.2,20.8,20.8
+Animated Armor,Specter,79.3,20.7,20.7
+Bandit Captain,Giant Boar,79.3,20.7,20.7
+Brass Dragon Wyrmling,Giant Poisonous Snake,79.3,20.7,20.7
+Copper Dragon Wyrmling,"Werewolf, Wolf Form",20.7,79.3,20.7
+Drow,Swarm of Wasps,20.7,79.3,20.7
+Ettercap,Giant Scorpion,20.7,79.3,20.7
+Fire Elemental,Wyvern,20.7,79.3,20.7
+Flesh Golem,Wyvern,20.7,79.3,20.7
+Giant Rat,Pony,20.7,79.3,20.7
+Giant Vulture,Scout,79.3,20.7,20.7
+Goblin,Pseudodragon,79.3,20.7,20.7
+Goblin,Swarm of Rats,20.7,79.3,20.7
+Gold Dragon Wyrmling,Rhinoceros,79.3,20.7,20.7
+Lizardfolk,Riding Horse,79.3,20.7,20.7
+Mammoth,Treant,79.3,20.7,20.7
+Pony,Shadow,20.7,79.3,20.7
+Riding Horse,Swarm of Centipedes,20.7,79.3,20.7
+Riding Horse,Swarm of Spiders,20.7,79.3,20.7
+Swarm of Beetles,"Wererat, Hybrid Form",79.3,20.7,20.7
+Swarm of Ravens,Worg,20.7,79.3,20.7
+"Werewolf, Hybrid Form",Wight,79.3,20.7,20.7
+Aboleth,Bone Devil,79.4,20.6,20.6
+Dire Wolf,Gibbering Mouther,20.6,79.4,20.6
+Dire Wolf,Swarm of Poisonous Snakes,79.4,20.6,20.6
+Draft Horse,Giant Toad,20.6,79.4,20.6
+Drider,Mummy,79.4,20.6,20.6
+Elk,Giant Weasel,79.4,20.6,20.6
+Elk,Orc,20.6,79.4,20.6
+Flying Sword,Giant Spider,20.6,79.4,20.6
+Ghast,Worg,79.4,20.6,20.6
+Giant Hyena,Rhinoceros,20.6,79.4,20.6
+Mammoth,Young Gold Dragon,20.6,79.4,20.6
+Ogre,Sea Hag,79.4,20.6,20.6
+Riding Horse,Swarm of Wasps,20.6,79.4,20.6
+Shambling Mound,Young White Dragon,20.6,79.4,20.6
+Specter,Swarm of Quippers,20.6,79.4,20.6
+Swarm of Bats,Thug,20.6,79.4,20.6
+Awakened Tree,Ogre,79.5,20.5,20.5
+Deep Gnome (Svirfneblin),Wolf,79.5,20.5,20.5
+Elk,Reef Shark,20.5,79.5,20.5
+Giant Elk,Swarm of Quippers,79.5,20.5,20.5
+Giant Frog,Swarm of Bats,20.5,79.5,20.5
+Giant Lizard,Harpy,20.5,79.5,20.5
+Giant Rat (Diseased),Mastiff,79.5,20.5,20.5
+Gnoll,Lion,20.5,79.5,20.5
+Lizardfolk,Scout,79.5,20.5,20.5
+Medusa,Saber-Toothed Tiger,79.5,20.5,20.5
+Phase Spider,"Werewolf, Hybrid Form",20.5,79.5,20.5
+Swarm of Beetles,"Wererat, Rat Form",79.5,20.5,20.5
+Vampire Spawn,Winter Wolf,20.5,79.5,20.5
+Adult Blue Dragon,Adult Silver Dragon,20.4,79.6,20.4
+Animated Armor,Mimic,20.4,79.6,20.4
+Behir,Young Silver Dragon,79.6,20.4,20.4
+Black Dragon Wyrmling,Gibbering Mouther,20.4,79.6,20.4
+Camel,Giant Weasel,20.4,79.6,20.4
+Chuul,Deva,20.4,79.6,20.4
+Death Dog,Ettercap,20.4,79.6,20.4
+Dire Wolf,Rhinoceros,20.4,79.6,20.4
+Elk,Goblin,79.6,20.4,20.4
+Ghast,Ghost,20.4,79.6,20.4
+Ghast,Gibbering Mouther,20.4,79.6,20.4
+Giant Crab,Quasit,79.6,20.4,20.4
+Giant Elk,Mimic,79.6,20.4,20.4
+Giant Elk,"Weretiger, Human Form",20.4,79.6,20.4
+Giant Lizard,Warhorse,20.4,79.6,20.4
+Giant Scorpion,Warhorse Skeleton,79.6,20.4,20.4
+Glabrezu,Young Silver Dragon,20.4,79.6,20.4
+Hippogriff,Warhorse Skeleton,20.4,79.6,20.4
+Hobgoblin,Pony,79.6,20.4,20.4
+Lion,Shadow,79.6,20.4,20.4
+Mage,Shadow,79.6,20.4,20.4
+Owlbear,"Weretiger, Hybrid Form",20.4,79.6,20.4
+Adult Silver Dragon,Purple Worm,79.7,20.3,20.3
+Axe Beak,"Wererat, Human Form",20.3,79.7,20.3
+Bandit Captain,"Wereboar, Boar Form",20.3,79.7,20.3
+Blink Dog,"Wererat, Hybrid Form",20.3,79.7,20.3
+Blue Dragon Wyrmling,Nightmare,20.3,79.7,20.3
+Deer,Kobold,20.3,79.7,20.3
+Dretch,Giant Rat (Diseased),79.7,20.3,20.3
+Elephant,Shambling Mound,20.3,79.7,20.3
+Ettercap,Specter,79.7,20.3,20.3
+Giant Eagle,"Wererat, Rat Form",79.7,20.3,20.3
+Giant Scorpion,Griffon,20.3,79.7,20.3
+Giant Scorpion,Worg,79.7,20.3,20.3
+Giant Wolf Spider,Priest,20.3,79.7,20.3
+Gnoll,Warhorse,20.3,79.7,20.3
+Harpy,"Wererat, Hybrid Form",79.7,20.3,20.3
+Horned Devil,Stone Giant,79.7,20.3,20.3
+Kobold,Violet Fungus,20.3,79.7,20.3
+Satyr,Spy,79.7,20.3,20.3
+"Werebear, Bear Form",Young Copper Dragon,20.3,79.7,20.3
+Adult White Dragon,Young Red Dragon,79.8,20.2,20.2
+Azer,Grick,79.8,20.2,20.2
+Bandit Captain,Bugbear,79.8,20.2,20.2
+Black Bear,Magma Mephit,79.8,20.2,20.2
+Bugbear,Wight,79.8,20.2,20.2
+Camel,Violet Fungus,20.2,79.8,20.2
+Death Dog,Draft Horse,79.8,20.2,20.2
+Drow,Swarm of Ravens,20.2,79.8,20.2
+Ghoul,Swarm of Bats,79.8,20.2,20.2
+Giant Elk,Gold Dragon Wyrmling,20.2,79.8,20.2
+Giant Lizard,Magmin,79.8,20.2,20.2
+Giant Poisonous Snake,Imp,79.8,20.2,20.2
+Green Dragon Wyrmling,Veteran,20.2,79.8,20.2
+Griffon,Salamander,79.8,20.2,20.2
+Owlbear,"Weretiger, Tiger Form",20.2,79.8,20.2
+Swarm of Centipedes,"Wererat, Rat Form",79.8,20.2,20.2
+Ankheg,Gargoyle,79.9,20.1,20.1
+Archmage,Hunter Shark,20.1,79.9,20.1
+Awakened Shrub,Mastiff,20.1,79.9,20.1
+Azer,Ettercap,79.9,20.1,20.1
+Blood Hawk,Magmin,20.1,79.9,20.1
+Brown Bear,Giant Scorpion,20.1,79.9,20.1
+Chain Devil,Invisible Stalker,79.9,20.1,20.1
+Chuul,Fire Elemental,79.9,20.1,20.1
+Clay Golem,Erinyes,20.1,79.9,20.1
+Constrictor Snake,Dretch,79.9,20.1,20.1
+Copper Dragon Wyrmling,Thug,79.9,20.1,20.1
+Crocodile,Riding Horse,79.9,20.1,20.1
+Cultist,Zombie,20.1,79.9,20.1
+Efreeti,Young Red Dragon,20.1,79.9,20.1
+Giant Goat,Phase Spider,20.1,79.9,20.1
+Green Hag,Guardian Naga,20.1,79.9,20.1
+Hezrou,Shambling Mound,79.9,20.1,20.1
+Ice Mephit,Quasit,79.9,20.1,20.1
+Manticore,Polar Bear,79.9,20.1,20.1
+Pegasus,Succubus/Incubus,79.9,20.1,20.1
+Scout,Zombie,79.9,20.1,20.1
+Shadow,Wolf,79.9,20.1,20.1
+Awakened Shrub,Giant Centipede,20.0,80.0,20.0
+Axe Beak,Swarm of Beetles,20.0,80.0,20.0
+Berserker,Griffon,80.0,20.0,20.0
+Blink Dog,Pony,80.0,20.0,20.0
+Brown Bear,Giant Boar,20.0,80.0,20.0
+Copper Dragon Wyrmling,Rust Monster,80.0,20.0,20.0
+Dryad,Giant Rat,80.0,20.0,20.0
+Giant Centipede,Violet Fungus,20.0,80.0,20.0
+Giant Poisonous Snake,Panther,80.0,20.0,20.0
+Giant Vulture,Mage,20.0,80.0,20.0
+Hobgoblin,Noble,80.0,20.0,20.0
+Sea Hag,Will-o'-Wisp,80.0,20.0,20.0
+Shadow,Warhorse Skeleton,20.0,80.0,20.0
+Swarm of Insects,Swarm of Poisonous Snakes,20.0,80.0,20.0
+Vampire Spawn,Veteran,80.0,20.0,20.0

@@ -49,23 +49,37 @@ FUN_WIN_THRESHOLD = 20.0
 _DICE_RE = re.compile(r"^\s*(\d+)\s*d\s*(\d+)\s*([+-]\s*\d+)?\s*$", re.IGNORECASE)
 
 
-def _roll_damage(damage_dice: str, rng: random.Random) -> int:
-    """Parse and roll a dice expression such as '2d6+3'.
+def parse_damage_dice(damage_dice: str):
+    """Parse a dice expression like '2d6+3' into (num_dice, sides, modifier).
 
-    Returns the rolled total, never below 0. An unparseable or empty expression
-    rolls 0 (treated as no damage rather than an error).
+    Returns None for an empty or unparseable expression. Single source of truth
+    for reading dice — used both to roll damage and to estimate average damage.
     """
     match = _DICE_RE.match(damage_dice or "")
     if not match:
-        return 0
+        return None
 
     num_dice = int(match.group(1))
     sides = int(match.group(2))
     modifier = int(match.group(3).replace(" ", "")) if match.group(3) else 0
 
     if num_dice <= 0 or sides <= 0:
+        return None
+
+    return num_dice, sides, modifier
+
+
+def _roll_damage(damage_dice: str, rng: random.Random) -> int:
+    """Parse and roll a dice expression such as '2d6+3'.
+
+    Returns the rolled total, never below 0. An unparseable or empty expression
+    rolls 0 (treated as no damage rather than an error).
+    """
+    parsed = parse_damage_dice(damage_dice)
+    if parsed is None:
         return 0
 
+    num_dice, sides, modifier = parsed
     total = sum(rng.randint(1, sides) for _ in range(num_dice)) + modifier
     return max(0, total)
 
