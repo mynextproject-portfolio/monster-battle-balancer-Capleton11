@@ -57,6 +57,8 @@ TRANSLATIONS = {
         "battle_winner_label": "勝者",
         "win_chance_label": "勝率",
         "battle_runs_caption": "{runs}回のシミュレーション結果",
+        "verdict_fun": "🔥 好勝負",
+        "verdict_boring": "💤 一方的な試合",
         "fight_again_button": "🔄 もう一度シミュレート",
     },
     "en": {
@@ -95,6 +97,8 @@ TRANSLATIONS = {
         "battle_winner_label": "Winner",
         "win_chance_label": "Win Chance",
         "battle_runs_caption": "Based on {runs} simulated battles",
+        "verdict_fun": "🔥 Fun Match",
+        "verdict_boring": "💤 Boring",
         "fight_again_button": "🔄 Simulate Again",
     },
 }

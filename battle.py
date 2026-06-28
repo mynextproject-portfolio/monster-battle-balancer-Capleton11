@@ -39,6 +39,12 @@ MAX_ROUNDS = 1000
 # enough that the percentages are stable rather than noisy from a few rolls.
 MONTE_CARLO_RUNS = 1000
 
+# A matchup is "fun" only if BOTH monsters clear this win percentage — i.e. the
+# underdog has at least a one-in-five shot (the line agreed with Haruki). Below
+# it, the favourite wins more than four times out of five and the outcome isn't
+# really in doubt, so the matchup is "boring".
+FUN_WIN_THRESHOLD = 20.0
+
 # Matches dice expressions like "2d6", "1d6+2", "3d8-1" (optional signed flat bonus).
 _DICE_RE = re.compile(r"^\s*(\d+)\s*d\s*(\d+)\s*([+-]\s*\d+)?\s*$", re.IGNORECASE)
 
@@ -143,6 +149,16 @@ class BattleOdds:
     percent1: float  # monster1's win percentage
     percent2: float  # monster2's win percentage
     runs: int        # number of fights the estimate is based on
+
+    @property
+    def is_fun(self) -> bool:
+        """Whether this matchup is worth featuring (a real contest).
+
+        Fun only if BOTH monsters clear FUN_WIN_THRESHOLD — equivalently, the
+        underdog (the smaller win %) has at least a one-in-five shot. Below that
+        it's a foregone conclusion ("boring").
+        """
+        return min(self.percent1, self.percent2) >= FUN_WIN_THRESHOLD
 
 
 def battle_odds(monster1: Monster, monster2: Monster,

@@ -47,14 +47,26 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
             alignment=ft.MainAxisAlignment.CENTER,
         )
 
-    # Win-percentage labels, refreshed in place when re-simulated.
+    # Win-percentage labels and the fun/boring verdict, refreshed in place when
+    # re-simulated.
     pct1_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.AMBER_400)
     pct2_text = ft.Text(size=44, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_400)
+    verdict_text = ft.Text(
+        size=TEXT_SIZE_XL,
+        weight=ft.FontWeight.BOLD,
+        text_align=ft.TextAlign.CENTER,
+    )
 
     def show_odds(odds) -> None:
-        """Display a BattleOdds result (presentation only)."""
+        """Display a BattleOdds result (presentation only).
+
+        The fun/boring verdict comes from the logic module (odds.is_fun); the
+        screen only maps it to a localized label and colour.
+        """
         pct1_text.value = f"{odds.percent1:.1f}%"
         pct2_text.value = f"{odds.percent2:.1f}%"
+        verdict_text.value = t("verdict_fun") if odds.is_fun else t("verdict_boring")
+        verdict_text.color = ft.Colors.GREEN_400 if odds.is_fun else ft.Colors.GREY_500
 
     def simulate_again(e=None) -> None:
         """Re-run the simulations and refresh the screen."""
@@ -140,6 +152,9 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                     alignment=ft.MainAxisAlignment.CENTER,
                     spacing=SPACING_LG,
                 ),
+                ft.Container(height=SPACING_LG),
+                # Fun / boring verdict for this matchup
+                verdict_text,
                 ft.Container(height=SPACING_SM),
                 ft.Text(
                     t("battle_runs_caption").format(runs=initial_odds.runs),

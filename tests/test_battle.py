@@ -218,3 +218,32 @@ class TestBattleOdds:
         battle_odds(m1, m2, runs=200, seed=1)
 
         assert m1.hp == 30 and m2.hp == 30
+
+
+class TestFunVerdict:
+    """Test the fun/boring classification (both sides must clear 20%)."""
+
+    def test_even_matchup_is_fun(self):
+        assert BattleOdds(percent1=60.0, percent2=40.0, runs=100).is_fun is True
+
+    def test_lopsided_matchup_is_boring(self):
+        assert BattleOdds(percent1=95.0, percent2=5.0, runs=100).is_fun is False
+
+    def test_threshold_is_inclusive_at_20(self):
+        # Underdog with exactly a one-in-five shot still counts as fun.
+        assert BattleOdds(percent1=80.0, percent2=20.0, runs=100).is_fun is True
+
+    def test_just_below_threshold_is_boring(self):
+        # 81/19 — the underdog falls just short of one-in-five.
+        assert BattleOdds(percent1=81.0, percent2=19.0, runs=100).is_fun is False
+
+    def test_verdict_independent_of_side_order(self):
+        # The favourite being monster1 or monster2 must not change the verdict.
+        assert BattleOdds(percent1=5.0, percent2=95.0, runs=100).is_fun is False
+        assert BattleOdds(percent1=45.0, percent2=55.0, runs=100).is_fun is True
+
+    def test_dominant_matchup_from_simulation_is_boring(self):
+        titan = make_monster("Titan", hp=500, ac=20, to_hit=15, damage_dice="6d10+10")
+        weakling = make_monster("Weakling", hp=5, ac=8, to_hit=0, damage_dice="1d2")
+
+        assert battle_odds(titan, weakling, runs=300, seed=7).is_fun is False
