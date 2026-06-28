@@ -12,5 +12,8 @@ env/
 # Environment file (copy from .env.example)
 .env
 
+# Cached monster data for the all-pairs finder (rebuilt from the API on demand)
+monster_cache.json
+
 # OS / editor
 .DS_Store
